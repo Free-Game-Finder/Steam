@@ -1,0 +1,856 @@
+{
+    "1180660": {
+        "1180660": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Tell Me Why",
+                "steam_appid": 1180660,
+                "required_age": "17",
+                "is_free": true,
+                "controller_support": "full",
+                "dlc": [
+                    1432030
+                ],
+                "detailed_description": "All Chapters FREE in June!<br />\r\nTell Me Why is the latest narrative adventure game from DONTNOD Entertainment, the studio behind the beloved franchise, Life is Strange. In this intimate mystery, reunited twins Tyler and Alyson Ronan use their supernatural bond to unravel the memories of their loving but troubled childhood. Set in beautiful small-town Alaska, Tell Me Why features true-to-life characters, mature themes and gripping choices.<br />\r\nAs you conjure up memories of the past, your choices will affect the twins\u2019 relationship, determine the strength of their bond, and shape the course of their lives.<br />\r\nExperience all chapters free in June! <br />\r\n <br />\r\nRevisit your past, discover the truth, and shape your future<br />\r\n\u2022 Uncover the truth \u2013 Use the twins\u2019 supernatural bond to relive and explore their conflicting childhood memories.<br />\r\n\u2022 Shape your Story \u2013 Influence the relationship between Tyler and Alyson with choices that will determine their future.<br />\r\n\u2022 Unlock even more secrets \u2013 Match wits with puzzles that deepen the story and open a window into the twins\u2019 fantasy world, \u201cThe Book of Goblins.\u201d<br />\r\nExperience true-to-life setting and characters<br />\r\n\u2022 Unique characters \u2013 Build relationships and solve mysteries through the eyes of compelling and realistic characters.<br />\r\n\u2022 Alaskan splendor \u2013 Explore locations set in beautiful, highly detailed small-town Alaska in stunning 4K and HDR.<br />\r\n<br />\r\nStorytelling with purpose \u2013 DONTNOD Entertainment and Xbox Game Studios conducted on-the-ground research and partnered closely with cultural, mental health and gender advocates to craft a thoughtful, true-to-life experience.",
+                "about_the_game": "All Chapters FREE in June!<br />\r\nTell Me Why is the latest narrative adventure game from DONTNOD Entertainment, the studio behind the beloved franchise, Life is Strange. In this intimate mystery, reunited twins Tyler and Alyson Ronan use their supernatural bond to unravel the memories of their loving but troubled childhood. Set in beautiful small-town Alaska, Tell Me Why features true-to-life characters, mature themes and gripping choices.<br />\r\nAs you conjure up memories of the past, your choices will affect the twins\u2019 relationship, determine the strength of their bond, and shape the course of their lives.<br />\r\nExperience all chapters free in June! <br />\r\n <br />\r\nRevisit your past, discover the truth, and shape your future<br />\r\n\u2022 Uncover the truth \u2013 Use the twins\u2019 supernatural bond to relive and explore their conflicting childhood memories.<br />\r\n\u2022 Shape your Story \u2013 Influence the relationship between Tyler and Alyson with choices that will determine their future.<br />\r\n\u2022 Unlock even more secrets \u2013 Match wits with puzzles that deepen the story and open a window into the twins\u2019 fantasy world, \u201cThe Book of Goblins.\u201d<br />\r\nExperience true-to-life setting and characters<br />\r\n\u2022 Unique characters \u2013 Build relationships and solve mysteries through the eyes of compelling and realistic characters.<br />\r\n\u2022 Alaskan splendor \u2013 Explore locations set in beautiful, highly detailed small-town Alaska in stunning 4K and HDR.<br />\r\n<br />\r\nStorytelling with purpose \u2013 DONTNOD Entertainment and Xbox Game Studios conducted on-the-ground research and partnered closely with cultural, mental health and gender advocates to craft a thoughtful, true-to-life experience.",
+                "short_description": "All Chapters FREE for the month of June! Tell Me Why is the multi-award winning episodic adventure game from Dontnod Entertainment in which twins use their supernatural bond to discover the truth of their troubled past.",
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Japanese, Korean, Portuguese - Brazil<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/header.jpg?t=1622578223",
+                "website": "https://www.tellmewhygame.com/",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit version 1903 or higher<br></li><li><strong>Processor:</strong> Intel core i3 4130 (3.4 Ghz 2C / 4T) AMD FX 4300 (3.8 Ghz 4C / 4T)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 750Ti or Nvidia GTX 1050 or AMD Radeon R7 260X or AMD Radeon RX 560<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 25 GB available space</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit version 1903 or higher<br></li><li><strong>Processor:</strong> Intel i5 4570 (3.2 GHz) or AMD Ryzen 3 1300X (3.5 GHz)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970 or Nvidia GeForce GTX 1060 or AMD Radeon R9 290X or  AMD Radeon RX 480<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 25 GB available space</li></ul>"
+                },
+                "mac_requirements": [],
+                "linux_requirements": [],
+                "legal_notice": "Microsoft Studios \u00a9 2020 Microsoft Corporation",
+                "developers": [
+                    "DONTNOD Entertainment"
+                ],
+                "publishers": [
+                    "Xbox Game Studios "
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 1999,
+                    "final": 1999,
+                    "discount_percent": 100,
+                    "initial_formatted": "$19.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    586694,
+                    405719
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Tell Me Why",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 586694,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Tell Me Why Limited Free Promotional Package - Jun 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 405719,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Tell Me Why - $19.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 1999
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    },
+                    {
+                        "id": 13,
+                        "description": "Captions available"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "25",
+                        "description": "Adventure"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_b2b4987fc9dbabac780086fb56664ad60cf2e0fd.600x338.jpg?t=1622578223",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_b2b4987fc9dbabac780086fb56664ad60cf2e0fd.1920x1080.jpg?t=1622578223"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_acc16251124ec3cdf196a9aff9d75d04ee719266.600x338.jpg?t=1622578223",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_acc16251124ec3cdf196a9aff9d75d04ee719266.1920x1080.jpg?t=1622578223"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_0d822f07dd84e6e2fc0e559d113e0ea58f0e3bfa.600x338.jpg?t=1622578223",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_0d822f07dd84e6e2fc0e559d113e0ea58f0e3bfa.1920x1080.jpg?t=1622578223"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_08633ddfd27af776c7f507e1b75d94a33e13b4dc.600x338.jpg?t=1622578223",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_08633ddfd27af776c7f507e1b75d94a33e13b4dc.1920x1080.jpg?t=1622578223"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_31a6100d39cb25bf4ba9d3da1bec1b9f10be2fbf.600x338.jpg?t=1622578223",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_31a6100d39cb25bf4ba9d3da1bec1b9f10be2fbf.1920x1080.jpg?t=1622578223"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_2fcfca95f6e49b0222e39290b00ade572148f439.600x338.jpg?t=1622578223",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_2fcfca95f6e49b0222e39290b00ade572148f439.1920x1080.jpg?t=1622578223"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_1334f698fec70153df766445618b79c6592e2f35.600x338.jpg?t=1622578223",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_1334f698fec70153df766445618b79c6592e2f35.1920x1080.jpg?t=1622578223"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_df4042f2dfcbb10881ac041b43bd4d667b942d53.600x338.jpg?t=1622578223",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_df4042f2dfcbb10881ac041b43bd4d667b942d53.1920x1080.jpg?t=1622578223"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256804877,
+                        "name": "accodales",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256804877/movie.293x165.jpg?t=1622564787",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie480_vp9.webm?t=1622564787",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie_max_vp9.webm?t=1622564787"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie480.mp4?t=1622564787",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie_max.mp4?t=1622564787"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "recommendations": {
+                    "total": 2192
+                },
+                "achievements": {
+                    "total": 30,
+                    "highlighted": [
+                        {
+                            "name": "Chapter One",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/31a332e6a4ed533ad0e1b733461fb14592485a95.jpg"
+                        },
+                        {
+                            "name": "Rear View Mirror",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/1794b415787b9cb134d0214be7fd35922b9657fb.jpg"
+                        },
+                        {
+                            "name": "Homecoming",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/6dc65e4daef9201e2a25700ac97636476b59b5c6.jpg"
+                        },
+                        {
+                            "name": "Bound To A Lie",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/228b5d36fcada36afbdba7874361bd46f4850c7a.jpg"
+                        },
+                        {
+                            "name": "Full Confession",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/b8db7654bc14f1b71cb74bc7e7b5082a23723a6e.jpg"
+                        },
+                        {
+                            "name": "Hacking 101",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/55915f3081a2d652172de09b77c05e8451de3f03.jpg"
+                        },
+                        {
+                            "name": "Crafty Goblins",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/96af508a3032735935d7cfb80eaa60db83302d0c.jpg"
+                        },
+                        {
+                            "name": "One For The Collection",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/ff409511d01e333e5c0ead74df65eed2831fee0d.jpg"
+                        },
+                        {
+                            "name": "We Need To Talk",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/b7793cf0279116e5785fe4cd1dcc35db320760ba.jpg"
+                        },
+                        {
+                            "name": "This Is Despicable",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/d88e192566dcbdfba843122438cf4e3e5a3c8f39.jpg"
+                        }
+                    ]
+                },
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Aug 27, 2020"
+                },
+                "support_info": {
+                    "url": "https://support.xbox.com/",
+                    "email": ""
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/page_bg_generated_v6b.jpg?t=1622578223",
+                "content_descriptors": {
+                    "ids": [
+                        5
+                    ],
+                    "notes": "Drug Reference\r\nMild Blood\r\nStrong Language\r\nViolence"
+                }
+            }
+        }
+    },
+    "1645360": {
+        "1645360": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "Minion Masters - Scrat Infestation",
+                "steam_appid": 1645360,
+                "required_age": 0,
+                "is_free": true,
+                "controller_support": "full",
+                "detailed_description": "<strong>Scrat Infestation DLC</strong><br>Scrat Infestation is the Faction Box for starting or expanding your Scrat faction collection. This is a great +300% value bundle of Scrat cards, including the luckiest Scrat alive Jolo the Hero Scrat (Legendary!), and gets a head-start in this month\u2019s Season Pass!<br><br><strong>Includes:</strong><br><ul class=\"bb_ul\"><li>3x Jolo the Hero Scrat (Legendary)<br></li><li>5x Boom Buggy (Supreme)<br></li><li>20x Scratillery<br></li><li>40x Scrat Horde<br></li><li>40x Propeller Scrats<br></li><li>5x Power Tokens (Get 5 extra random surprises)<br></li><li>3x Season Pass Tiers </li></ul><br>The industrious and ruthless Scrat uses sheer numbers to overwhelm their enemies. And if that wasn\u2019t enough, they back up their formidable frontline with machines of death that can rain death (and more Scrats) from the skies. Use Scrat Horde and Propeller Scrats to protect and power up your Boom Buggy that can devastate the enemy defenses, and use Scratillery so wage some more carnage and bolster your forces at the same time. Jolo, being the lucky Scrat that he is, can dodge enemy fire to protect your army. Sometimes.  <br>With this Faction Box, you have the perfect kit to become a Scrat commander!",
+                "about_the_game": "<strong>Scrat Infestation DLC</strong><br>Scrat Infestation is the Faction Box for starting or expanding your Scrat faction collection. This is a great +300% value bundle of Scrat cards, including the luckiest Scrat alive Jolo the Hero Scrat (Legendary!), and gets a head-start in this month\u2019s Season Pass!<br><br><strong>Includes:</strong><br><ul class=\"bb_ul\"><li>3x Jolo the Hero Scrat (Legendary)<br></li><li>5x Boom Buggy (Supreme)<br></li><li>20x Scratillery<br></li><li>40x Scrat Horde<br></li><li>40x Propeller Scrats<br></li><li>5x Power Tokens (Get 5 extra random surprises)<br></li><li>3x Season Pass Tiers </li></ul><br>The industrious and ruthless Scrat uses sheer numbers to overwhelm their enemies. And if that wasn\u2019t enough, they back up their formidable frontline with machines of death that can rain death (and more Scrats) from the skies. Use Scrat Horde and Propeller Scrats to protect and power up your Boom Buggy that can devastate the enemy defenses, and use Scratillery so wage some more carnage and bolster your forces at the same time. Jolo, being the lucky Scrat that he is, can dodge enemy fire to protect your army. Sometimes.  <br>With this Faction Box, you have the perfect kit to become a Scrat commander!",
+                "short_description": "Scrat Infestation is the Faction Box for starting or expanding your Scrat faction collection. This is a great +300% value bundle of Scrat cards, including the luckiest Scrat alive Jolo the Hero Scrat (Legendary!), and gets a head-start in this month\u2019s Season Pass!",
+                "fullgame": {
+                    "appid": "489520",
+                    "name": "Minion Masters"
+                },
+                "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1645360/header.jpg?t=1622742430",
+                "website": "http://minionmastersthegame.com",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3, 2.4 Ghz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GT 240 or equivalent, minimum 512 MB of VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12.4+<br></li><li><strong>Processor:</strong> Intel Core i3, 2.4 Ghz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+                },
+                "linux_requirements": [],
+                "developers": [
+                    "BetaDwarf"
+                ],
+                "publishers": [
+                    "BetaDwarf"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 1499,
+                    "final": 1499,
+                    "discount_percent": 100,
+                    "initial_formatted": "$14.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    587378,
+                    584660
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Minion Masters - Scrat Infestation",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 587378,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Minion Masters - Scrat Infestation DLC Limited Free Promotional Package - Jun 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 584660,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Minion Masters - Scrat Infestation DLC - $14.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 1499
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": true,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Online Co-op"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Cross-Platform Multiplayer"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Steam Trading Cards"
+                    },
+                    {
+                        "id": 35,
+                        "description": "In-App Purchases"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 42,
+                        "description": "Remote Play on Tablet"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Adventure"
+                    },
+                    {
+                        "id": "37",
+                        "description": "Free to Play"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Strategy"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1645360/ss_52de429daeed362132a5625fac459d794827493b.600x338.jpg?t=1622742430",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1645360/ss_52de429daeed362132a5625fac459d794827493b.1920x1080.jpg?t=1622742430"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Jun 3, 2021"
+                },
+                "support_info": {
+                    "url": "",
+                    "email": "support@betadwarf.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1645360/page_bg_generated_v6b.jpg?t=1622742430",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    },
+    "1022310": {
+        "1022310": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Warhammer Underworlds: Online",
+                "steam_appid": 1022310,
+                "required_age": 0,
+                "is_free": true,
+                "dlc": [
+                    1489240,
+                    1471160,
+                    1471161,
+                    1639840,
+                    1639841,
+                    1320851,
+                    1320850,
+                    1375190,
+                    1421580,
+                    1489230,
+                    1489231,
+                    1489232,
+                    1489233,
+                    1574120,
+                    1626390
+                ],
+                "detailed_description": "<h1>JOIN THE COMMUNITY</h1><p><a href=\"https://steamcommunity.com/linkfilter/?url=http://discord.gg/WUOgame\" target=\"_blank\" rel=\"noopener\"  ><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1022310/extras/wuo_discord.png?t=1623108273\" /></a></p><br><h1>LEARN TO PLAY</h1><p><a href=\"https://steamcommunity.com/app/1022310/guides/?searchText=official&amp;browsefilter=trend\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1022310/extras/Steam_Guides_banner_FrontPage.png?t=1623108273\" /></a></p><br><h1>About the Game</h1><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1022310/extras/About_The_Game.gif?t=1623108273\" /><br><br><i>Warhammer Underworlds: Online</i> is a digital adaptation of the explosive, high-stakes, turn-based strategy tabletop game from <strong>Games Workshop</strong> that pits mighty warbands from the <strong>Age of Sigmar</strong> universe against one another in an eternal player versus player battle for Glory. Choose a warband, build your decks and carve a path to victory using <strong>dice-and-card</strong> mechanics that offer boundless strategic depth.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1022310/extras/Assemble_Your_Warbands.gif?t=1623108273\" /><h2 class=\"bb_tag\">ASSEMBLE YOUR WARBAND</h2>Trapped within the towering spires of the <strong>Mirrored City of Shadespire</strong>, six warbands battle it out for survival - each with unique abilities and a distinct combat style. Choose to play as the valiant <strong>Stormcast Eternals</strong> armed with heaven-forged weaponry, or the merciless <strong>Blood Warriors of Khorne</strong>, tearing apart their enemies with the aid of their loyal Flesh Hound. <br><br><i>With more warbands entering the city as DLC in regular updates, who knows who you\u2019ll be fighting in the winding streets of Shadespire?</i><br><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1022310/extras/Craft_Your_Card_Deck.gif?t=1623108273\" /><h2 class=\"bb_tag\">CRAFT YOUR DECK</h2>Your success is measured in Glory points - awarded for achieving objectives and vanquishing your foes. <strong>Deckbuilding</strong> is the strategic heart of <i>Warhammer Underworlds: Online</i>. Your <strong>20-card power deck</strong> is filled with clever gambits and powerful upgrades you\u2019ll need to inflict maximum damage. Your<strong> 12-card objective deck</strong> will shape your tactical approach to a match, allowing you to score Glory by fulfilling specific conditions.<br><br>In <i>Warhammer Underworlds: Online</i> cards are split into warband-specific cards and Universal cards. Unlike the physical game <strong>ALL FUTURE UNIVERSAL CARDS WILL BE <u>FREE</u></strong>, and will be added to the game in regular release packs. Diversify your decks with new cards, and dive back into <strong>competitive ranked play</strong>!<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1022310/extras/Claim-the-Spoils.gif?t=1623108273\" /><h2 class=\"bb_tag\">CLAIM THE SPOILS OF SHADESPIRE</h2><br>As you play casual or ranked matches with each unique warband, advance through a <strong>rewarding progression</strong> system. Earn cosmetic content including warband skins, deck portraits, and player titles! Only those who have proven themselves in the unforgiving streets of Shadespire will be able to claim these rewards.",
+                "about_the_game": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1022310/extras/About_The_Game.gif?t=1623108273\" /><br><br><i>Warhammer Underworlds: Online</i> is a digital adaptation of the explosive, high-stakes, turn-based strategy tabletop game from <strong>Games Workshop</strong> that pits mighty warbands from the <strong>Age of Sigmar</strong> universe against one another in an eternal player versus player battle for Glory. Choose a warband, build your decks and carve a path to victory using <strong>dice-and-card</strong> mechanics that offer boundless strategic depth.<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1022310/extras/Assemble_Your_Warbands.gif?t=1623108273\" /><h2 class=\"bb_tag\">ASSEMBLE YOUR WARBAND</h2>Trapped within the towering spires of the <strong>Mirrored City of Shadespire</strong>, six warbands battle it out for survival - each with unique abilities and a distinct combat style. Choose to play as the valiant <strong>Stormcast Eternals</strong> armed with heaven-forged weaponry, or the merciless <strong>Blood Warriors of Khorne</strong>, tearing apart their enemies with the aid of their loyal Flesh Hound. <br><br><i>With more warbands entering the city as DLC in regular updates, who knows who you\u2019ll be fighting in the winding streets of Shadespire?</i><br><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1022310/extras/Craft_Your_Card_Deck.gif?t=1623108273\" /><h2 class=\"bb_tag\">CRAFT YOUR DECK</h2>Your success is measured in Glory points - awarded for achieving objectives and vanquishing your foes. <strong>Deckbuilding</strong> is the strategic heart of <i>Warhammer Underworlds: Online</i>. Your <strong>20-card power deck</strong> is filled with clever gambits and powerful upgrades you\u2019ll need to inflict maximum damage. Your<strong> 12-card objective deck</strong> will shape your tactical approach to a match, allowing you to score Glory by fulfilling specific conditions.<br><br>In <i>Warhammer Underworlds: Online</i> cards are split into warband-specific cards and Universal cards. Unlike the physical game <strong>ALL FUTURE UNIVERSAL CARDS WILL BE <u>FREE</u></strong>, and will be added to the game in regular release packs. Diversify your decks with new cards, and dive back into <strong>competitive ranked play</strong>!<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1022310/extras/Claim-the-Spoils.gif?t=1623108273\" /><h2 class=\"bb_tag\">CLAIM THE SPOILS OF SHADESPIRE</h2><br>As you play casual or ranked matches with each unique warband, advance through a <strong>rewarding progression</strong> system. Earn cosmetic content including warband skins, deck portraits, and player titles! Only those who have proven themselves in the unforgiving streets of Shadespire will be able to claim these rewards.",
+                "short_description": "Lead your fighters to Glory in the ultimate PvP dice-and-cards strategy combat game. Warhammer Underworlds: Online pits mighty warbands against one another in an eternal battle for glory in the realms of the Age of Sigmar.",
+                "supported_languages": "English, French, Italian, German, Spanish - Spain, Russian",
+                "reviews": "\u201cIt's rare to see a game merge deckbuilding, tabletop tactics, dice, and card combat into one elegant combat system, but that's exactly what Warhammer Underworlds does, and there's huge potential for future expansion if the tabletop game is anything to go by.\u201d<br><a href=\"https://www.pcgamer.com/uk/warhammer-underworlds-online-is-a-faithful-recreation-of-games-workshops-best-competitive-tabletop-game/\" target=\"_blank\" rel=\"noreferrer\"  >PC Gamer</a><br><br>\u201cWarhammer Underworlds is an incredible tabletop game. It nails a load of elements that a lot of tabletop gamers look for. It plays fast, it\u2019s competitive, and it\u2019s quick to set up. There are deck building elements for added variety. Most importantly, it\u2019s incredibly fun, and Warhammer Underworlds Online captures all of that in a tight, digital package...\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://techraptor.net/gaming/previews/is-warhammer-underworlds-online-faithful-recreation\" target=\"_blank\" rel=\"noopener\"  >TechRaptor</a><br><br>\u201c...the title has the potential to be one of the most strategic competitive games on the market...\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://screenrant.com/warhammer-underworlds-online-preview/\" target=\"_blank\" rel=\"noopener\"  >Screen Rant</a><br>",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/header_alt_assets_3.jpg?t=1623108273",
+                "website": "http://www.warhammerunderworlds-online.com",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 64-bit Windows 7, 64-bit Windows 8 (8.1) or 64-bit Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-2300 @ 2.80 GHz / AMD FX-4350 @ 4.2 GHz<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 460 or AMD Radeon HD 5870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>"
+                },
+                "mac_requirements": [],
+                "linux_requirements": [],
+                "legal_notice": "Warhammer Underworlds: Online \u00a9 Copyright Games Workshop Limited 2021. Warhammer Underworlds: Online, the Warhammer Underworlds: Online logo, GW, Games Workshop, Warhammer, Warhammer Age of Sigmar, Stormcast Eternals, Warhammer Underworlds, Shadespire, Nightvault, Beastgrave and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likeness thereof, are either \u00ae or TM, and/or \u00a9 Games Workshop Limited, variably registered around the world, and used under licence. All rights reserved to their respective owners.",
+                "developers": [
+                    "Steel Sky Productions"
+                ],
+                "publishers": [
+                    "Steel Sky Productions"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 999,
+                    "final": 999,
+                    "discount_percent": 100,
+                    "initial_formatted": "$9.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    588737,
+                    434739
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Warhammer Underworlds: Online",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 588737,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Warhammer Underworlds: Online Limited Free Promotional Package - Jun 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 434739,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Warhammer Underworlds: Online - $9.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 999
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Strategy"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_34acdb25ed628b01ad45487748b8e598450ef427.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_34acdb25ed628b01ad45487748b8e598450ef427.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_64c24a4a6728af84fa6e256210da213d45eb78e7.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_64c24a4a6728af84fa6e256210da213d45eb78e7.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_1ad8285f4056b570fe97de27906ad64ce10ea601.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_1ad8285f4056b570fe97de27906ad64ce10ea601.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_9c1630853e61f8f784b545bcd2fcee8bab626812.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_9c1630853e61f8f784b545bcd2fcee8bab626812.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_cd4972e8aac25820e590d9c508d71ea2a657f6be.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_cd4972e8aac25820e590d9c508d71ea2a657f6be.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_df7c375b9a95218e02e3b409c59d253e5a4e71a7.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_df7c375b9a95218e02e3b409c59d253e5a4e71a7.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_103eb7aaa42214fceb91ea3803d583b919487607.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_103eb7aaa42214fceb91ea3803d583b919487607.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_693760cc687388d1e8aa9b543a6dda37f07bdc13.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_693760cc687388d1e8aa9b543a6dda37f07bdc13.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 8,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_e7f19edc7cd7b61c3f0cca0d01e047ba798df6a6.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_e7f19edc7cd7b61c3f0cca0d01e047ba798df6a6.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 9,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_829b1b840fb824553546c20f37b66d2b010a35e3.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_829b1b840fb824553546c20f37b66d2b010a35e3.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 10,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_7e3982e8a6e27b553dc2074ce26fa08ace540254.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_7e3982e8a6e27b553dc2074ce26fa08ace540254.1920x1080.jpg?t=1623108273"
+                    },
+                    {
+                        "id": 11,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_7dce96f8bcdcbc25870a76a60a5c8f88d5cd3c5a.600x338.jpg?t=1623108273",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/ss_7dce96f8bcdcbc25870a76a60a5c8f88d5cd3c5a.1920x1080.jpg?t=1623108273"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256824070,
+                        "name": "New Price Trailer",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256824070/movie.293x165.jpg?t=1614481041",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256824070/movie480_vp9.webm?t=1614481041",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256824070/movie_max_vp9.webm?t=1614481041"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256824070/movie480.mp4?t=1614481041",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256824070/movie_max.mp4?t=1614481041"
+                        },
+                        "highlight": true
+                    },
+                    {
+                        "id": 256782713,
+                        "name": "Launch  Trailer",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256782713/movie.293x165.jpg?t=1590687015",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256782713/movie480_vp9.webm?t=1590687015",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256782713/movie_max_vp9.webm?t=1590687015"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256782713/movie480.mp4?t=1590687015",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256782713/movie_max.mp4?t=1590687015"
+                        },
+                        "highlight": true
+                    },
+                    {
+                        "id": 256744435,
+                        "name": "Teaser Trailer",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256744435/movie.293x165.jpg?t=1590687024",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256744435/movie480.webm?t=1590687024",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256744435/movie_max.webm?t=1590687024"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256744435/movie480.mp4?t=1590687024",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256744435/movie_max.mp4?t=1590687024"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "recommendations": {
+                    "total": 911
+                },
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Apr 21, 2020"
+                },
+                "support_info": {
+                    "url": "http://discord.gg/wuogame",
+                    "email": "bugs@steelskyprod.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1022310/page_bg_generated_v6b.jpg?t=1623108273",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    },
+    "613900": {
+        "613900": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Museum of Other Realities",
+                "steam_appid": 613900,
+                "required_age": 0,
+                "is_free": true,
+                "dlc": [
+                    1568390,
+                    1641150,
+                    1643620,
+                    1643630
+                ],
+                "detailed_description": "<h1>XR3 : Virtual Exhibition</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/XR3_-_PC_event_banner_horizontal_export_steam.png?t=1623183709\" /><br><br>Leading international events in the field of immersive creation, Cannes XR, Tribeca Festival and the NewImages Festival are banding together to co-produce XR3, an innovative platform dedicated to VR and accessible to all audiences!<br><br>A unique exhibition in terms of its stakes and its reach, XR3 brings together around fifty works in virtual reality including many world premieres, resulting from the expertise and curation of each event to explore the field of immersive arts.<br><br>Discover the best of VR creation through the three VR selections in the MOR! View the guide <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.museumor.com/blog/guide-to-xr3-in-the-mor\" target=\"_blank\" rel=\"noopener\"  >here</a>.</p><br><h1>Immersive Arcade: The Showcase</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/HorizontalPoster_LiveNow__1_.jpg?t=1623183709\" /><br><br>Immersive Arcade: The Showcase is the first national collection of the best of British virtual reality (VR) and 360 experiences.<br><br>This dynamic collection draws together eclectic productions from across documentary, experiential and narrative genres, themed around an exploration of the human mind.<br><br>To access the showcase please download the additional content <a href=\"https://store.steampowered.com/app/1568390/Museum_of_Other_Realities__Immersive_Arcade_The_Showcase/\" target=\"_blank\" rel=\"noreferrer\"  >here</a>. Head over to the <a href=\"https://steamcommunity.com/linkfilter/?url=https://immersivearcade.uk/showcase/\" target=\"_blank\" rel=\"noopener\"  >Immersive Arcade website</a> to learn more.</p><br><h1>About the Game</h1>The Museum of Other Realities (MOR) is an immersive multiplayer art showcase in VR. Step into a painting, surround yourself with fantastic sounds, experience art with your friends as it evolves and takes form. The museum contains a growing collection of interactive art and experimentation, supporting artists who are challenging and redefining what is possible with virtual reality art.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Night_Snow_telport_into_border.gif?t=1623183709\" /><br>(<i>Night Snow</i> by Danny Bittman)<h2 class=\"bb_tag\">Multiplayer</h2>Enjoy a collective multiplayer experience with old friends or make new ones in a gallery you can visit from anywhere.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Immateria_Steam_2.gif?t=1623183709\" /><br>(<i>Immateria</i> by Isaac Cohen)<h2 class=\"bb_tag\">Constantly evolving with new art </h2>With regular art updates and events on an ongoing basis, the MOR grows and evolves into a space you can return to for new experiences.<br> <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Devalaya_Steam_2.gif?t=1623183709\" /><br>(<i>Devalaya Rupanam </i>by Kevin Mack)<h2 class=\"bb_tag\">Supporting Artists</h2><br>The MOR has showcased pieces from artists around the world, celebrating their incredible work and fostering community. Artists with featured work in the Museum are paid and promoted.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/MOR_Index_Drawing.gif?t=1623183709\" /><h2 class=\"bb_tag\">Valve Index Support</h2><br>The MOR supports the Valve Index and Index controllers, allowing you to gesture to friends or draw in the air.",
+                "about_the_game": "The Museum of Other Realities (MOR) is an immersive multiplayer art showcase in VR. Step into a painting, surround yourself with fantastic sounds, experience art with your friends as it evolves and takes form. The museum contains a growing collection of interactive art and experimentation, supporting artists who are challenging and redefining what is possible with virtual reality art.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Night_Snow_telport_into_border.gif?t=1623183709\" /><br>(<i>Night Snow</i> by Danny Bittman)<h2 class=\"bb_tag\">Multiplayer</h2>Enjoy a collective multiplayer experience with old friends or make new ones in a gallery you can visit from anywhere.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Immateria_Steam_2.gif?t=1623183709\" /><br>(<i>Immateria</i> by Isaac Cohen)<h2 class=\"bb_tag\">Constantly evolving with new art </h2>With regular art updates and events on an ongoing basis, the MOR grows and evolves into a space you can return to for new experiences.<br> <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Devalaya_Steam_2.gif?t=1623183709\" /><br>(<i>Devalaya Rupanam </i>by Kevin Mack)<h2 class=\"bb_tag\">Supporting Artists</h2><br>The MOR has showcased pieces from artists around the world, celebrating their incredible work and fostering community. Artists with featured work in the Museum are paid and promoted.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/MOR_Index_Drawing.gif?t=1623183709\" /><h2 class=\"bb_tag\">Valve Index Support</h2><br>The MOR supports the Valve Index and Index controllers, allowing you to gesture to friends or draw in the air.",
+                "short_description": "An immersive multiplayer art showcase in virtual reality, the Museum of Other Realities is a space to connect, share, and experience a growing collection of mind-bending VR art with others.",
+                "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "reviews": "\u201cI\u2019ve never found myself saying 'wow' as many times as I did looking through each room, listening to the subtle echo of my voice seeming to bounce off the museum\u2019s walls, flying, resizing myself with a drink like Alice In Wonderland, and gasping at the scale of the this impossible place and the thoughtful, interactive, and responsive works on display\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://uploadvr.com/museum-mor-full-release/\" target=\"_blank\" rel=\"noopener\"  >UploadVR</a><br><br>\u201cThe MOR is an experience, not a game or a demo. It is designed like a real-world art museum, giving some of the best VR artists in the world a venue to show off all the amazing VR art they have been making for the last two years. I went into MOR with no expectations and came out with my mind completely blown. Everyone and anyone curious about VR needs to try this thing out.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.forbes.com/sites/moorinsights/2018/03/26/gdc-2018-getting-serious-about-virtual-reality/#1452fd8d1f54\" target=\"_blank\" rel=\"noopener\"  >Forbes</a><br><br>\u201cAnd I was off again. But only because it was such a wonderful building, full of multi-dimensional madness and portals to impossible scenery.\u201d<br><a href=\"https://www.rockpapershotgun.com/2018/03/27/6-exciting-vr-games-we-saw-at-gdc/\" target=\"_blank\" rel=\"noreferrer\"  >ROCK, PAPER, SHOTGUN</a><br>",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/613900/header.jpg?t=1623183709",
+                "website": "https://museumor.com/",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 SP1, Windows 8.1 or later, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4590/AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970, AMD Radeon R9 290 equivalent or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> 1x USB 2.0 or newer, HDMI 1.4, DisplayPort 1.2 or newer</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "developers": [
+                    "MOR Museum Inc."
+                ],
+                "publishers": [
+                    "MOR Museum Inc."
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 1999,
+                    "final": 1999,
+                    "discount_percent": 100,
+                    "initial_formatted": "$19.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    589381,
+                    164448
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Museum of Other Realities",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 589381,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Museum of Other Realities Limited Free Promotional Package - Jun 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 164448,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Museum of Other Realities - $19.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 1999
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Online Co-op"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Cross-Platform Multiplayer"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulation"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_ea566078e8c46e19f8e5f48b9dd32678b4e2a227.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_ea566078e8c46e19f8e5f48b9dd32678b4e2a227.1920x1080.jpg?t=1623183709"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_8e4a0991b1f4a530afa070fc1b247db2dba3d572.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_8e4a0991b1f4a530afa070fc1b247db2dba3d572.1920x1080.jpg?t=1623183709"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_c9c0654827a4be520df98c6090ed5b1b68fd3149.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_c9c0654827a4be520df98c6090ed5b1b68fd3149.1920x1080.jpg?t=1623183709"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_961046419d354cef0e3681f68eaa00b05fa9a31c.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_961046419d354cef0e3681f68eaa00b05fa9a31c.1920x1080.jpg?t=1623183709"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_089619d8e945e9fa486be368bb056cff5791ff4f.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_089619d8e945e9fa486be368bb056cff5791ff4f.1920x1080.jpg?t=1623183709"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_71f29c14adc88692ede8ff8abb98774941bee20c.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_71f29c14adc88692ede8ff8abb98774941bee20c.1920x1080.jpg?t=1623183709"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256776255,
+                        "name": "MOR 1.0 Trailer",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256776255/movie.293x165.jpg?t=1582741735",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie480.webm?t=1582741735",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie_max.webm?t=1582741735"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie480.mp4?t=1582741735",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie_max.mp4?t=1582741735"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Feb 26, 2020"
+                },
+                "support_info": {
+                    "url": "https://museumor.com",
+                    "email": "editor@museumor.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/613900/page_bg_generated_v6b.jpg?t=1623183709",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    }
+}
