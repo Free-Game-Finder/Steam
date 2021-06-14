@@ -1,4 +1,446 @@
 {
+    "945700": {
+        "945700": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Blackjack of Strip",
+                "steam_appid": 945700,
+                "required_age": 0,
+                "is_free": false,
+                "dlc": [
+                    997100,
+                    999470,
+                    999520,
+                    1000680,
+                    1000690,
+                    1025640,
+                    1025680,
+                    1025660
+                ],
+                "detailed_description": "Card games are a fun way to spend your leisure time. One of the most popular is \u00abBlackjack\u00bb, also commonly known as &quot;twenty one&quot; or &quot;point&quot;. We diversified it by setting the rule that every loser takes one thing off!<br />\r\nNo need to risk real money! There are no bets! For each successful game your opponents will pull off a piece of their clothes!<br />\r\nYour opponents in the game can be incredibly attractive anime girls or boys, and these are random players that you find online.<br />\r\nThe rules are simple: score 21 points with your cards or get as close as possible to this number. In our game, the scoring system is automated! You do not have to spend time on it.<br />\r\nSit down and enjoy fast games with excitement. Undress your opponent! - The best incentive to fight for victory!<br />\r\n<br />\r\nFeatures:<br />\r\n - Charming girls and guys in anime style!<br />\r\n - Nudity and juicy striptease!<br />\r\n - Intuitive interface!<br />\r\n - Simple rules!<br />\r\n - Automatic scoring!<br />\r\n - Quick games!<br />\r\n - Multiplayer support!<br />\r\n - Atmospheric music!<br />\r\n - Gambling and addictive gameplay!",
+                "about_the_game": "Card games are a fun way to spend your leisure time. One of the most popular is \u00abBlackjack\u00bb, also commonly known as &quot;twenty one&quot; or &quot;point&quot;. We diversified it by setting the rule that every loser takes one thing off!<br />\r\nNo need to risk real money! There are no bets! For each successful game your opponents will pull off a piece of their clothes!<br />\r\nYour opponents in the game can be incredibly attractive anime girls or boys, and these are random players that you find online.<br />\r\nThe rules are simple: score 21 points with your cards or get as close as possible to this number. In our game, the scoring system is automated! You do not have to spend time on it.<br />\r\nSit down and enjoy fast games with excitement. Undress your opponent! - The best incentive to fight for victory!<br />\r\n<br />\r\nFeatures:<br />\r\n - Charming girls and guys in anime style!<br />\r\n - Nudity and juicy striptease!<br />\r\n - Intuitive interface!<br />\r\n - Simple rules!<br />\r\n - Automatic scoring!<br />\r\n - Quick games!<br />\r\n - Multiplayer support!<br />\r\n - Atmospheric music!<br />\r\n - Gambling and addictive gameplay!",
+                "short_description": "Card game, which is too hot for the underage!! Spend your leisure time fascinating, plunge into the sea of excitement and undress your opponent! In case of victory, a juicy striptease is waiting for you!",
+                "supported_languages": "English, Russian",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/945700/header.jpg?t=1622247004",
+                "website": null,
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible with 256 MB RAM (Shared Memory is not recommended)<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 600 MB available space<br></li><li><strong>Additional Notes:</strong> Mouse, Widescreen monitor with a resolution of at least 1280x720</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, 8, 10<br></li><li><strong>Processor:</strong> 2.5 GHz Single Core Processor or 2 GHz Dual Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 2.0 compatible with 512 MB RAM (Shared Memory is not recommended)<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 600 MB available space<br></li><li><strong>Additional Notes:</strong> Mouse</li></ul>"
+                },
+                "mac_requirements": [],
+                "linux_requirements": [],
+                "developers": [
+                    "Lucky Games",
+                    "S'Games"
+                ],
+                "publishers": [
+                    "Lucky Games"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 99,
+                    "final": 99,
+                    "discount_percent": 100,
+                    "initial_formatted": "$0.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    307549,
+                    323306
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Blackjack of Strip",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 307549,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Blackjack of Strip - $0.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 99
+                            },
+                            {
+                                "packageid": 323306,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Blackjack of Strip - Commercial License - $0.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 99
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "29",
+                        "description": "Massively Multiplayer"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_d82916b34ff4172e9b0ed6e8e34b91a3b10c458e.600x338.jpg?t=1622247004",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_d82916b34ff4172e9b0ed6e8e34b91a3b10c458e.1920x1080.jpg?t=1622247004"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_393c705f9efea99bbf4be1015c7dfea4e7336262.600x338.jpg?t=1622247004",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_393c705f9efea99bbf4be1015c7dfea4e7336262.1920x1080.jpg?t=1622247004"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_ea340f0ae6db84a934c7f94a4e7421c823d51b78.600x338.jpg?t=1622247004",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_ea340f0ae6db84a934c7f94a4e7421c823d51b78.1920x1080.jpg?t=1622247004"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_b7ccc28a8b6699fafac93bae6ce843c44f75a7fc.600x338.jpg?t=1622247004",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_b7ccc28a8b6699fafac93bae6ce843c44f75a7fc.1920x1080.jpg?t=1622247004"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_7aed7dbd57d4737b188c98ce21ed2f350ef645ad.600x338.jpg?t=1622247004",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_7aed7dbd57d4737b188c98ce21ed2f350ef645ad.1920x1080.jpg?t=1622247004"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_f68eb932906662b1299c9594e8f91a9e9e689b84.600x338.jpg?t=1622247004",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_f68eb932906662b1299c9594e8f91a9e9e689b84.1920x1080.jpg?t=1622247004"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_b4100d4e2db95ef5be0b6dd100cd6ede37f21933.600x338.jpg?t=1622247004",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/945700/ss_b4100d4e2db95ef5be0b6dd100cd6ede37f21933.1920x1080.jpg?t=1622247004"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256737488,
+                        "name": "Blackjack of Strip 2",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256737488/movie.293x165.jpg?t=1548962484",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256737488/movie480.webm?t=1548962484",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256737488/movie_max.webm?t=1548962484"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256737488/movie480.mp4?t=1548962484",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256737488/movie_max.mp4?t=1548962484"
+                        },
+                        "highlight": true
+                    },
+                    {
+                        "id": 256732468,
+                        "name": "Blackjack of Strip",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256732468/movie.293x165.jpg?t=1540412628",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256732468/movie480.webm?t=1540412628",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256732468/movie_max.webm?t=1540412628"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256732468/movie480.mp4?t=1540412628",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256732468/movie_max.mp4?t=1540412628"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "achievements": {
+                    "total": 20,
+                    "highlighted": [
+                        {
+                            "name": "Newbie",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/945700/4a2eb5ee8bf85a2a68954151db68be9d231b1e64.jpg"
+                        },
+                        {
+                            "name": "Pupil",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/945700/1aae7583b3875624a084a0cf0166fa8f37244148.jpg"
+                        },
+                        {
+                            "name": "Experienced",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/945700/b971c1a006dca41cdb44481f7fcca31d1eb90ac8.jpg"
+                        },
+                        {
+                            "name": "Veteran",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/945700/4b94acdb506b6614ebb4a3ac861e491a9666e7bb.jpg"
+                        },
+                        {
+                            "name": "Elite",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/945700/cb29c7ba7784f70dfff18e249b4503973a3c76a4.jpg"
+                        },
+                        {
+                            "name": "Single",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/945700/afd1e07f9f671e44b670ee1b2930b07db932bc05.jpg"
+                        },
+                        {
+                            "name": "Homebody",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/945700/07eb32a852ec8613e7ff3cbf2b4d13c1ffce6e70.jpg"
+                        },
+                        {
+                            "name": "Can we play online?",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/945700/89745f3dc7838f5c41e124de40c8c58607deb225.jpg"
+                        },
+                        {
+                            "name": "Inquisitive",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/945700/cd00176b0a0c15670e48cb37607be7ad31abebf3.jpg"
+                        },
+                        {
+                            "name": "I want to know everything",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/945700/8a2776945affbc8b993d4507d51eb14225027d71.jpg"
+                        }
+                    ]
+                },
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Nov 8, 2019"
+                },
+                "support_info": {
+                    "url": "",
+                    "email": "LuckyGamesSteam@gmail.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/945700/page_bg_generated_v6b.jpg?t=1622247004",
+                "content_descriptors": {
+                    "ids": [
+                        1,
+                        3,
+                        5
+                    ],
+                    "notes": "In the game there are naked characters."
+                }
+            }
+        }
+    },
+    "613900": {
+        "613900": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Museum of Other Realities",
+                "steam_appid": 613900,
+                "required_age": 0,
+                "is_free": true,
+                "dlc": [
+                    1568390,
+                    1641150,
+                    1643620,
+                    1643630
+                ],
+                "detailed_description": "<h1>XR3 : Virtual Exhibition</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/XR3_-_PC_event_banner_horizontal_export_steam.png?t=1623183709\" /><br><br>Leading international events in the field of immersive creation, Cannes XR, Tribeca Festival and the NewImages Festival are banding together to co-produce XR3, an innovative platform dedicated to VR and accessible to all audiences!<br><br>A unique exhibition in terms of its stakes and its reach, XR3 brings together around fifty works in virtual reality including many world premieres, resulting from the expertise and curation of each event to explore the field of immersive arts.<br><br>Discover the best of VR creation through the three VR selections in the MOR! View the guide <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.museumor.com/blog/guide-to-xr3-in-the-mor\" target=\"_blank\" rel=\"noopener\"  >here</a>.</p><br><h1>Immersive Arcade: The Showcase</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/HorizontalPoster_LiveNow__1_.jpg?t=1623183709\" /><br><br>Immersive Arcade: The Showcase is the first national collection of the best of British virtual reality (VR) and 360 experiences.<br><br>This dynamic collection draws together eclectic productions from across documentary, experiential and narrative genres, themed around an exploration of the human mind.<br><br>To access the showcase please download the additional content <a href=\"https://store.steampowered.com/app/1568390/Museum_of_Other_Realities__Immersive_Arcade_The_Showcase/\" target=\"_blank\" rel=\"noreferrer\"  >here</a>. Head over to the <a href=\"https://steamcommunity.com/linkfilter/?url=https://immersivearcade.uk/showcase/\" target=\"_blank\" rel=\"noopener\"  >Immersive Arcade website</a> to learn more.</p><br><h1>About the Game</h1>The Museum of Other Realities (MOR) is an immersive multiplayer art showcase in VR. Step into a painting, surround yourself with fantastic sounds, experience art with your friends as it evolves and takes form. The museum contains a growing collection of interactive art and experimentation, supporting artists who are challenging and redefining what is possible with virtual reality art.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Night_Snow_telport_into_border.gif?t=1623183709\" /><br>(<i>Night Snow</i> by Danny Bittman)<h2 class=\"bb_tag\">Multiplayer</h2>Enjoy a collective multiplayer experience with old friends or make new ones in a gallery you can visit from anywhere.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Immateria_Steam_2.gif?t=1623183709\" /><br>(<i>Immateria</i> by Isaac Cohen)<h2 class=\"bb_tag\">Constantly evolving with new art </h2>With regular art updates and events on an ongoing basis, the MOR grows and evolves into a space you can return to for new experiences.<br> <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Devalaya_Steam_2.gif?t=1623183709\" /><br>(<i>Devalaya Rupanam </i>by Kevin Mack)<h2 class=\"bb_tag\">Supporting Artists</h2><br>The MOR has showcased pieces from artists around the world, celebrating their incredible work and fostering community. Artists with featured work in the Museum are paid and promoted.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/MOR_Index_Drawing.gif?t=1623183709\" /><h2 class=\"bb_tag\">Valve Index Support</h2><br>The MOR supports the Valve Index and Index controllers, allowing you to gesture to friends or draw in the air.",
+                "about_the_game": "The Museum of Other Realities (MOR) is an immersive multiplayer art showcase in VR. Step into a painting, surround yourself with fantastic sounds, experience art with your friends as it evolves and takes form. The museum contains a growing collection of interactive art and experimentation, supporting artists who are challenging and redefining what is possible with virtual reality art.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Night_Snow_telport_into_border.gif?t=1623183709\" /><br>(<i>Night Snow</i> by Danny Bittman)<h2 class=\"bb_tag\">Multiplayer</h2>Enjoy a collective multiplayer experience with old friends or make new ones in a gallery you can visit from anywhere.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Immateria_Steam_2.gif?t=1623183709\" /><br>(<i>Immateria</i> by Isaac Cohen)<h2 class=\"bb_tag\">Constantly evolving with new art </h2>With regular art updates and events on an ongoing basis, the MOR grows and evolves into a space you can return to for new experiences.<br> <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/Devalaya_Steam_2.gif?t=1623183709\" /><br>(<i>Devalaya Rupanam </i>by Kevin Mack)<h2 class=\"bb_tag\">Supporting Artists</h2><br>The MOR has showcased pieces from artists around the world, celebrating their incredible work and fostering community. Artists with featured work in the Museum are paid and promoted.<br><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/613900/extras/MOR_Index_Drawing.gif?t=1623183709\" /><h2 class=\"bb_tag\">Valve Index Support</h2><br>The MOR supports the Valve Index and Index controllers, allowing you to gesture to friends or draw in the air.",
+                "short_description": "An immersive multiplayer art showcase in virtual reality, the Museum of Other Realities is a space to connect, share, and experience a growing collection of mind-bending VR art with others.",
+                "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "reviews": "\u201cI\u2019ve never found myself saying 'wow' as many times as I did looking through each room, listening to the subtle echo of my voice seeming to bounce off the museum\u2019s walls, flying, resizing myself with a drink like Alice In Wonderland, and gasping at the scale of the this impossible place and the thoughtful, interactive, and responsive works on display\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://uploadvr.com/museum-mor-full-release/\" target=\"_blank\" rel=\"noopener\"  >UploadVR</a><br><br>\u201cThe MOR is an experience, not a game or a demo. It is designed like a real-world art museum, giving some of the best VR artists in the world a venue to show off all the amazing VR art they have been making for the last two years. I went into MOR with no expectations and came out with my mind completely blown. Everyone and anyone curious about VR needs to try this thing out.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.forbes.com/sites/moorinsights/2018/03/26/gdc-2018-getting-serious-about-virtual-reality/#1452fd8d1f54\" target=\"_blank\" rel=\"noopener\"  >Forbes</a><br><br>\u201cAnd I was off again. But only because it was such a wonderful building, full of multi-dimensional madness and portals to impossible scenery.\u201d<br><a href=\"https://www.rockpapershotgun.com/2018/03/27/6-exciting-vr-games-we-saw-at-gdc/\" target=\"_blank\" rel=\"noreferrer\"  >ROCK, PAPER, SHOTGUN</a><br>",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/613900/header.jpg?t=1623183709",
+                "website": "https://museumor.com/",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 SP1, Windows 8.1 or later, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4590/AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970, AMD Radeon R9 290 equivalent or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> 1x USB 2.0 or newer, HDMI 1.4, DisplayPort 1.2 or newer</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "developers": [
+                    "MOR Museum Inc."
+                ],
+                "publishers": [
+                    "MOR Museum Inc."
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 1999,
+                    "final": 1999,
+                    "discount_percent": 100,
+                    "initial_formatted": "$19.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    589381,
+                    164448
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Museum of Other Realities",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 589381,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Museum of Other Realities Limited Free Promotional Package - Jun 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 164448,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Museum of Other Realities - $19.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 1999
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Online Co-op"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Cross-Platform Multiplayer"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulation"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_ea566078e8c46e19f8e5f48b9dd32678b4e2a227.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_ea566078e8c46e19f8e5f48b9dd32678b4e2a227.1920x1080.jpg?t=1623183709"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_8e4a0991b1f4a530afa070fc1b247db2dba3d572.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_8e4a0991b1f4a530afa070fc1b247db2dba3d572.1920x1080.jpg?t=1623183709"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_c9c0654827a4be520df98c6090ed5b1b68fd3149.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_c9c0654827a4be520df98c6090ed5b1b68fd3149.1920x1080.jpg?t=1623183709"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_961046419d354cef0e3681f68eaa00b05fa9a31c.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_961046419d354cef0e3681f68eaa00b05fa9a31c.1920x1080.jpg?t=1623183709"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_089619d8e945e9fa486be368bb056cff5791ff4f.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_089619d8e945e9fa486be368bb056cff5791ff4f.1920x1080.jpg?t=1623183709"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_71f29c14adc88692ede8ff8abb98774941bee20c.600x338.jpg?t=1623183709",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_71f29c14adc88692ede8ff8abb98774941bee20c.1920x1080.jpg?t=1623183709"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256776255,
+                        "name": "MOR 1.0 Trailer",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256776255/movie.293x165.jpg?t=1582741735",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie480.webm?t=1582741735",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie_max.webm?t=1582741735"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie480.mp4?t=1582741735",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie_max.mp4?t=1582741735"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Feb 26, 2020"
+                },
+                "support_info": {
+                    "url": "https://museumor.com",
+                    "email": "editor@museumor.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/613900/page_bg_generated_v6b.jpg?t=1623183709",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    },
     "297130": {
         "297130": {
             "success": true,
@@ -9,12 +451,12 @@
                 "required_age": 0,
                 "is_free": true,
                 "controller_support": "full",
-                "detailed_description": "<h1>Titan Souls | Digital Special Edition</h1><p>The Titan Souls Digital Special Edition includes a digital artbook, world map, full original soundtrack and desktop backgrounds. All files can be found in the game's folder on your hard drive. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/297130/extras/TitanSoulsSE.png?t=1623527080\" /></p><br><h1>About the Game</h1>Between our world and the world beyond lie the Titan Souls, the spiritual source and sum of all living things. Now scattered amongst the ruins and guarded by the idle titans charged with their care, a solitary hero armed with but a single arrow is once again assembling shards of the Titan Soul in a quest for truth and power.<br><br><strong>Colossal Titans:</strong> Explore the ancient ruins of your forefathers and uncover extraordinary and unique titans, each with their own savage attacks and hidden weakness. Find and exploit their faults to slay the beasts and consume the primeval power that lies within them.<br><br><strong>Simple Combat:</strong> Loose your solitary arrow at the monstrous titans and summon it back to your hand to unleash another forceful strike. Dash and run from the titan\u2019s attacks but do not fear death, as it is both inevitable and plentiful in Titan Souls.<br><br><strong>Arcane Secrets:</strong> This realm is not without its secrets. Long forgotten titans are hidden in the shadows and prowling through the furthest corners of the land \u2013 find them, destroy them, and take their souls for your own to discover the true extent of the power that resides here.",
+                "detailed_description": "<h1>Pre-Purchase Death's Door Now!</h1><p><a href=\"https://store.steampowered.com/app/894020/Deaths_Door/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/894020/Deaths_Door/</a></p><br><h1>Titan Souls | Digital Special Edition</h1><p>The Titan Souls Digital Special Edition includes a digital artbook, world map, full original soundtrack and desktop backgrounds. All files can be found in the game's folder on your hard drive. <br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/297130/extras/TitanSoulsSE.png?t=1623627559\" /></p><br><h1>About the Game</h1>Between our world and the world beyond lie the Titan Souls, the spiritual source and sum of all living things. Now scattered amongst the ruins and guarded by the idle titans charged with their care, a solitary hero armed with but a single arrow is once again assembling shards of the Titan Soul in a quest for truth and power.<br><br><strong>Colossal Titans:</strong> Explore the ancient ruins of your forefathers and uncover extraordinary and unique titans, each with their own savage attacks and hidden weakness. Find and exploit their faults to slay the beasts and consume the primeval power that lies within them.<br><br><strong>Simple Combat:</strong> Loose your solitary arrow at the monstrous titans and summon it back to your hand to unleash another forceful strike. Dash and run from the titan\u2019s attacks but do not fear death, as it is both inevitable and plentiful in Titan Souls.<br><br><strong>Arcane Secrets:</strong> This realm is not without its secrets. Long forgotten titans are hidden in the shadows and prowling through the furthest corners of the land \u2013 find them, destroy them, and take their souls for your own to discover the true extent of the power that resides here.",
                 "about_the_game": "Between our world and the world beyond lie the Titan Souls, the spiritual source and sum of all living things. Now scattered amongst the ruins and guarded by the idle titans charged with their care, a solitary hero armed with but a single arrow is once again assembling shards of the Titan Soul in a quest for truth and power.<br><br><strong>Colossal Titans:</strong> Explore the ancient ruins of your forefathers and uncover extraordinary and unique titans, each with their own savage attacks and hidden weakness. Find and exploit their faults to slay the beasts and consume the primeval power that lies within them.<br><br><strong>Simple Combat:</strong> Loose your solitary arrow at the monstrous titans and summon it back to your hand to unleash another forceful strike. Dash and run from the titan\u2019s attacks but do not fear death, as it is both inevitable and plentiful in Titan Souls.<br><br><strong>Arcane Secrets:</strong> This realm is not without its secrets. Long forgotten titans are hidden in the shadows and prowling through the furthest corners of the land \u2013 find them, destroy them, and take their souls for your own to discover the true extent of the power that resides here.",
-                "short_description": "Between our world and the world beyond lie the Titan Souls, the spiritual source and sum of all living things. Now scattered amongst the ruins and guarded by the idle titans charged with their care, a solitary hero armed with but a single arrow is once again assembling shards of the Titan Soul in a quest for truth and power.",
+                "short_description": "Between our world and the world beyond lie the Titan Souls, the spiritual source of all living things. Scattered amongst the ruins and guarded by the idle titans charged with their care, a solitary hero armed with a single arrow is assembling shards of the Titan Soul in a quest for truth and power.",
                 "supported_languages": "English, German, French, Spanish - Spain, Portuguese - Brazil",
                 "reviews": "\u201c...Titan Souls succeeds so fantastically, creating vivid, memorable experiences that stick with you long after you\u2019ve put down the controller. It's a boss worth fighting.\u201d<br>9/10 \u2013 <a href=\"https://steamcommunity.com/linkfilter/?url=https://games.yahoo.com/blogs/plugged-in/review--boss-fights-rule-in-refreshing--titan-souls-173333372.html\" target=\"_blank\" rel=\"noopener\"  >Yahoo Games</a><br><br>\u201cTitan Souls' creative fights and fluid controls maker for intensely satisfying and rewarding one-hit-kill combat.\u201d<br>8/10 \u2013 <a href=\"http://www.ign.com/articles/2015/04/13/titan-souls-review\" target=\"_blank\" rel=\"noreferrer\"  >IGN</a><br><br>\u201cOne singular great idea is the foundation for a smart and occasionally thrilling action puzzler.\u201d<br>8.7/10 \u2013 <a href=\"http://www.pcgamer.com/titan-souls-2/\" target=\"_blank\" rel=\"noreferrer\"  >PC Gamer</a><br>",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/297130/header.jpg?t=1623527080",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/297130/header.jpg?t=1623627559",
                 "website": "http://www.acidnerve.com",
                 "pc_requirements": {
                     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows Vista/7/8<br></li><li><strong>Processor:</strong> 2.0 Ghz i5 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 1GB Video RAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 400 MB available space<br></li><li><strong>Additional Notes:</strong> PlayStation 4 or Xbox 360 Gamepad Recommended</li></ul>"
@@ -138,48 +580,48 @@
                 "screenshots": [
                     {
                         "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_398947374cbd6458f9fc3142975ce0a3ac4e5b33.600x338.jpg?t=1623527080",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_398947374cbd6458f9fc3142975ce0a3ac4e5b33.1920x1080.jpg?t=1623527080"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_398947374cbd6458f9fc3142975ce0a3ac4e5b33.600x338.jpg?t=1623627559",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_398947374cbd6458f9fc3142975ce0a3ac4e5b33.1920x1080.jpg?t=1623627559"
                     },
                     {
                         "id": 1,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_eb9d4bf2bb096e03f05d075a4a6e06c59a10c096.600x338.jpg?t=1623527080",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_eb9d4bf2bb096e03f05d075a4a6e06c59a10c096.1920x1080.jpg?t=1623527080"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_eb9d4bf2bb096e03f05d075a4a6e06c59a10c096.600x338.jpg?t=1623627559",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_eb9d4bf2bb096e03f05d075a4a6e06c59a10c096.1920x1080.jpg?t=1623627559"
                     },
                     {
                         "id": 2,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_fc59997150ca5dc2deeefc19c8bbbc93446fa419.600x338.jpg?t=1623527080",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_fc59997150ca5dc2deeefc19c8bbbc93446fa419.1920x1080.jpg?t=1623527080"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_fc59997150ca5dc2deeefc19c8bbbc93446fa419.600x338.jpg?t=1623627559",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_fc59997150ca5dc2deeefc19c8bbbc93446fa419.1920x1080.jpg?t=1623627559"
                     },
                     {
                         "id": 3,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_b3487101e39d29a2e163778fea4d69e07fb1cf84.600x338.jpg?t=1623527080",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_b3487101e39d29a2e163778fea4d69e07fb1cf84.1920x1080.jpg?t=1623527080"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_b3487101e39d29a2e163778fea4d69e07fb1cf84.600x338.jpg?t=1623627559",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_b3487101e39d29a2e163778fea4d69e07fb1cf84.1920x1080.jpg?t=1623627559"
                     },
                     {
                         "id": 4,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_2ea750a86a5409e41eceb2c16a313683181c6a35.600x338.jpg?t=1623527080",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_2ea750a86a5409e41eceb2c16a313683181c6a35.1920x1080.jpg?t=1623527080"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_2ea750a86a5409e41eceb2c16a313683181c6a35.600x338.jpg?t=1623627559",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_2ea750a86a5409e41eceb2c16a313683181c6a35.1920x1080.jpg?t=1623627559"
                     },
                     {
                         "id": 5,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_fcab7e27390b65d0abaf753ba6b14f1b67bfc73a.600x338.jpg?t=1623527080",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_fcab7e27390b65d0abaf753ba6b14f1b67bfc73a.1920x1080.jpg?t=1623527080"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_fcab7e27390b65d0abaf753ba6b14f1b67bfc73a.600x338.jpg?t=1623627559",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_fcab7e27390b65d0abaf753ba6b14f1b67bfc73a.1920x1080.jpg?t=1623627559"
                     },
                     {
                         "id": 6,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_95cce424fbf89e012fe29b7e0ab4466c0d502daf.600x338.jpg?t=1623527080",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_95cce424fbf89e012fe29b7e0ab4466c0d502daf.1920x1080.jpg?t=1623527080"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_95cce424fbf89e012fe29b7e0ab4466c0d502daf.600x338.jpg?t=1623627559",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_95cce424fbf89e012fe29b7e0ab4466c0d502daf.1920x1080.jpg?t=1623627559"
                     },
                     {
                         "id": 7,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_1bc3fae1b1c3a9a6fbabb669000ca80e4bbc872a.600x338.jpg?t=1623527080",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_1bc3fae1b1c3a9a6fbabb669000ca80e4bbc872a.1920x1080.jpg?t=1623527080"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_1bc3fae1b1c3a9a6fbabb669000ca80e4bbc872a.600x338.jpg?t=1623627559",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_1bc3fae1b1c3a9a6fbabb669000ca80e4bbc872a.1920x1080.jpg?t=1623627559"
                     },
                     {
                         "id": 8,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_415a16215da1e8e86fa4255765ca6f5bab26e5ec.600x338.jpg?t=1623527080",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_415a16215da1e8e86fa4255765ca6f5bab26e5ec.1920x1080.jpg?t=1623527080"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_415a16215da1e8e86fa4255765ca6f5bab26e5ec.600x338.jpg?t=1623627559",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/297130/ss_415a16215da1e8e86fa4255765ca6f5bab26e5ec.1920x1080.jpg?t=1623627559"
                     }
                 ],
                 "movies": [
@@ -199,7 +641,7 @@
                     }
                 ],
                 "recommendations": {
-                    "total": 4914
+                    "total": 4976
                 },
                 "achievements": {
                     "total": 27,
@@ -254,7 +696,7 @@
                     "url": "www.acidnerve.com",
                     "email": ""
                 },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/297130/page_bg_generated_v6b.jpg?t=1623527080",
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/297130/page_bg_generated_v6b.jpg?t=1623627559",
                 "content_descriptors": {
                     "ids": [],
                     "notes": null
@@ -421,7 +863,7 @@
                     }
                 ],
                 "recommendations": {
-                    "total": 2200
+                    "total": 2203
                 },
                 "achievements": {
                     "total": 30,
@@ -482,192 +924,6 @@
                         5
                     ],
                     "notes": "Drug Reference\r\nMild Blood\r\nStrong Language\r\nViolence"
-                }
-            }
-        }
-    },
-    "613900": {
-        "613900": {
-            "success": true,
-            "data": {
-                "type": "game",
-                "name": "Museum of Other Realities",
-                "steam_appid": 613900,
-                "required_age": 0,
-                "is_free": true,
-                "dlc": [
-                    1568390,
-                    1641150,
-                    1643620,
-                    1643630
-                ],
-                "detailed_description": "<h1>XR3 : Virtual Exhibition</h1><p><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/613900/extras/XR3_-_PC_event_banner_horizontal_export_steam.png?t=1623183709\" /><br><br>Leading international events in the field of immersive creation, Cannes XR, Tribeca Festival and the NewImages Festival are banding together to co-produce XR3, an innovative platform dedicated to VR and accessible to all audiences!<br><br>A unique exhibition in terms of its stakes and its reach, XR3 brings together around fifty works in virtual reality including many world premieres, resulting from the expertise and curation of each event to explore the field of immersive arts.<br><br>Discover the best of VR creation through the three VR selections in the MOR! View the guide <a href=\"https://steamcommunity.com/linkfilter/?url=https://www.museumor.com/blog/guide-to-xr3-in-the-mor\" target=\"_blank\" rel=\"noopener\"  >here</a>.</p><br><h1>Immersive Arcade: The Showcase</h1><p><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/613900/extras/HorizontalPoster_LiveNow__1_.jpg?t=1623183709\" /><br><br>Immersive Arcade: The Showcase is the first national collection of the best of British virtual reality (VR) and 360 experiences.<br><br>This dynamic collection draws together eclectic productions from across documentary, experiential and narrative genres, themed around an exploration of the human mind.<br><br>To access the showcase please download the additional content <a href=\"https://store.steampowered.com/app/1568390/Museum_of_Other_Realities__Immersive_Arcade_The_Showcase/\" target=\"_blank\" rel=\"noreferrer\"  >here</a>. Head over to the <a href=\"https://steamcommunity.com/linkfilter/?url=https://immersivearcade.uk/showcase/\" target=\"_blank\" rel=\"noopener\"  >Immersive Arcade website</a> to learn more.</p><br><h1>About the Game</h1>The Museum of Other Realities (MOR) is an immersive multiplayer art showcase in VR. Step into a painting, surround yourself with fantastic sounds, experience art with your friends as it evolves and takes form. The museum contains a growing collection of interactive art and experimentation, supporting artists who are challenging and redefining what is possible with virtual reality art.<br><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/613900/extras/Night_Snow_telport_into_border.gif?t=1623183709\" /><br>(<i>Night Snow</i> by Danny Bittman)<h2 class=\"bb_tag\">Multiplayer</h2>Enjoy a collective multiplayer experience with old friends or make new ones in a gallery you can visit from anywhere.<br><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/613900/extras/Immateria_Steam_2.gif?t=1623183709\" /><br>(<i>Immateria</i> by Isaac Cohen)<h2 class=\"bb_tag\">Constantly evolving with new art </h2>With regular art updates and events on an ongoing basis, the MOR grows and evolves into a space you can return to for new experiences.<br> <br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/613900/extras/Devalaya_Steam_2.gif?t=1623183709\" /><br>(<i>Devalaya Rupanam </i>by Kevin Mack)<h2 class=\"bb_tag\">Supporting Artists</h2><br>The MOR has showcased pieces from artists around the world, celebrating their incredible work and fostering community. Artists with featured work in the Museum are paid and promoted.<br><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/613900/extras/MOR_Index_Drawing.gif?t=1623183709\" /><h2 class=\"bb_tag\">Valve Index Support</h2><br>The MOR supports the Valve Index and Index controllers, allowing you to gesture to friends or draw in the air.",
-                "about_the_game": "The Museum of Other Realities (MOR) is an immersive multiplayer art showcase in VR. Step into a painting, surround yourself with fantastic sounds, experience art with your friends as it evolves and takes form. The museum contains a growing collection of interactive art and experimentation, supporting artists who are challenging and redefining what is possible with virtual reality art.<br><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/613900/extras/Night_Snow_telport_into_border.gif?t=1623183709\" /><br>(<i>Night Snow</i> by Danny Bittman)<h2 class=\"bb_tag\">Multiplayer</h2>Enjoy a collective multiplayer experience with old friends or make new ones in a gallery you can visit from anywhere.<br><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/613900/extras/Immateria_Steam_2.gif?t=1623183709\" /><br>(<i>Immateria</i> by Isaac Cohen)<h2 class=\"bb_tag\">Constantly evolving with new art </h2>With regular art updates and events on an ongoing basis, the MOR grows and evolves into a space you can return to for new experiences.<br> <br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/613900/extras/Devalaya_Steam_2.gif?t=1623183709\" /><br>(<i>Devalaya Rupanam </i>by Kevin Mack)<h2 class=\"bb_tag\">Supporting Artists</h2><br>The MOR has showcased pieces from artists around the world, celebrating their incredible work and fostering community. Artists with featured work in the Museum are paid and promoted.<br><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/613900/extras/MOR_Index_Drawing.gif?t=1623183709\" /><h2 class=\"bb_tag\">Valve Index Support</h2><br>The MOR supports the Valve Index and Index controllers, allowing you to gesture to friends or draw in the air.",
-                "short_description": "An immersive multiplayer art showcase in virtual reality, the Museum of Other Realities is a space to connect, share, and experience a growing collection of mind-bending VR art with others.",
-                "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-                "reviews": "\u201cI\u2019ve never found myself saying 'wow' as many times as I did looking through each room, listening to the subtle echo of my voice seeming to bounce off the museum\u2019s walls, flying, resizing myself with a drink like Alice In Wonderland, and gasping at the scale of the this impossible place and the thoughtful, interactive, and responsive works on display\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://uploadvr.com/museum-mor-full-release/\" target=\"_blank\" rel=\"noopener\"  >UploadVR</a><br><br>\u201cThe MOR is an experience, not a game or a demo. It is designed like a real-world art museum, giving some of the best VR artists in the world a venue to show off all the amazing VR art they have been making for the last two years. I went into MOR with no expectations and came out with my mind completely blown. Everyone and anyone curious about VR needs to try this thing out.\u201d<br><a href=\"https://steamcommunity.com/linkfilter/?url=https://www.forbes.com/sites/moorinsights/2018/03/26/gdc-2018-getting-serious-about-virtual-reality/#1452fd8d1f54\" target=\"_blank\" rel=\"noopener\"  >Forbes</a><br><br>\u201cAnd I was off again. But only because it was such a wonderful building, full of multi-dimensional madness and portals to impossible scenery.\u201d<br><a href=\"https://www.rockpapershotgun.com/2018/03/27/6-exciting-vr-games-we-saw-at-gdc/\" target=\"_blank\" rel=\"noreferrer\"  >ROCK, PAPER, SHOTGUN</a><br>",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/613900/header.jpg?t=1623183709",
-                "website": "https://museumor.com/",
-                "pc_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 SP1, Windows 8.1 or later, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4590/AMD FX 8350 equivalent or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 970, AMD Radeon R9 290 equivalent or better<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> 1x USB 2.0 or newer, HDMI 1.4, DisplayPort 1.2 or newer</li></ul>",
-                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
-                },
-                "mac_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
-                },
-                "linux_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
-                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
-                },
-                "developers": [
-                    "MOR Museum Inc."
-                ],
-                "publishers": [
-                    "MOR Museum Inc."
-                ],
-                "price_overview": {
-                    "currency": "USD",
-                    "initial": 1999,
-                    "final": 1999,
-                    "discount_percent": 100,
-                    "initial_formatted": "$19.99",
-                    "final_formatted": "Free"
-                },
-                "packages": [
-                    589381,
-                    164448
-                ],
-                "package_groups": [
-                    {
-                        "name": "default",
-                        "title": "Buy Museum of Other Realities",
-                        "description": "",
-                        "selection_text": "Select a purchase option",
-                        "save_text": "",
-                        "display_type": 0,
-                        "is_recurring_subscription": "false",
-                        "subs": [
-                            {
-                                "packageid": 589381,
-                                "percent_savings_text": "-100% ",
-                                "percent_savings": 0,
-                                "option_text": "Museum of Other Realities Limited Free Promotional Package - Jun 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": true,
-                                "price_in_cents_with_discount": 0
-                            },
-                            {
-                                "packageid": 164448,
-                                "percent_savings_text": " ",
-                                "percent_savings": 0,
-                                "option_text": "Museum of Other Realities - $19.99",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": false,
-                                "price_in_cents_with_discount": 1999
-                            }
-                        ]
-                    }
-                ],
-                "platforms": {
-                    "windows": true,
-                    "mac": false,
-                    "linux": false
-                },
-                "categories": [
-                    {
-                        "id": 2,
-                        "description": "Single-player"
-                    },
-                    {
-                        "id": 1,
-                        "description": "Multi-player"
-                    },
-                    {
-                        "id": 9,
-                        "description": "Co-op"
-                    },
-                    {
-                        "id": 38,
-                        "description": "Online Co-op"
-                    },
-                    {
-                        "id": 27,
-                        "description": "Cross-Platform Multiplayer"
-                    }
-                ],
-                "genres": [
-                    {
-                        "id": "4",
-                        "description": "Casual"
-                    },
-                    {
-                        "id": "28",
-                        "description": "Simulation"
-                    }
-                ],
-                "screenshots": [
-                    {
-                        "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_ea566078e8c46e19f8e5f48b9dd32678b4e2a227.600x338.jpg?t=1623183709",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_ea566078e8c46e19f8e5f48b9dd32678b4e2a227.1920x1080.jpg?t=1623183709"
-                    },
-                    {
-                        "id": 1,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_8e4a0991b1f4a530afa070fc1b247db2dba3d572.600x338.jpg?t=1623183709",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_8e4a0991b1f4a530afa070fc1b247db2dba3d572.1920x1080.jpg?t=1623183709"
-                    },
-                    {
-                        "id": 2,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_c9c0654827a4be520df98c6090ed5b1b68fd3149.600x338.jpg?t=1623183709",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_c9c0654827a4be520df98c6090ed5b1b68fd3149.1920x1080.jpg?t=1623183709"
-                    },
-                    {
-                        "id": 3,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_961046419d354cef0e3681f68eaa00b05fa9a31c.600x338.jpg?t=1623183709",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_961046419d354cef0e3681f68eaa00b05fa9a31c.1920x1080.jpg?t=1623183709"
-                    },
-                    {
-                        "id": 4,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_089619d8e945e9fa486be368bb056cff5791ff4f.600x338.jpg?t=1623183709",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_089619d8e945e9fa486be368bb056cff5791ff4f.1920x1080.jpg?t=1623183709"
-                    },
-                    {
-                        "id": 5,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_71f29c14adc88692ede8ff8abb98774941bee20c.600x338.jpg?t=1623183709",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/613900/ss_71f29c14adc88692ede8ff8abb98774941bee20c.1920x1080.jpg?t=1623183709"
-                    }
-                ],
-                "movies": [
-                    {
-                        "id": 256776255,
-                        "name": "MOR 1.0 Trailer",
-                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256776255/movie.293x165.jpg?t=1582741735",
-                        "webm": {
-                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie480.webm?t=1582741735",
-                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie_max.webm?t=1582741735"
-                        },
-                        "mp4": {
-                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie480.mp4?t=1582741735",
-                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256776255/movie_max.mp4?t=1582741735"
-                        },
-                        "highlight": true
-                    }
-                ],
-                "release_date": {
-                    "coming_soon": false,
-                    "date": "Feb 26, 2020"
-                },
-                "support_info": {
-                    "url": "https://museumor.com",
-                    "email": "editor@museumor.com"
-                },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/613900/page_bg_generated_v6b.jpg?t=1623183709",
-                "content_descriptors": {
-                    "ids": [],
-                    "notes": null
                 }
             }
         }
