@@ -8,8 +8,8 @@
                 "steam_appid": 999150,
                 "required_age": 0,
                 "is_free": true,
-                "detailed_description": "Join Kazuki with Akito and Kaoru, who set off on 24-hour mission specially commissioned from General Coya to catch a prisoner who fled, the left hand of Togashi clan; Uzair. They won't be alone because new character; Inaho Asaba will join them!<h2 class=\"bb_tag\">Main Features:</h2>You make decisions that will reveal different stories and even save the life of your team.<h2 class=\"bb_tag\">Two new characters:</h2>Inaho Asaba &amp; Uzair<br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/999150/extras/DLC1.png?t=1625157284\" /><br>Character Design: \u5b87\u679d\u539f\u3068\u307e/Toma Uehara<h2 class=\"bb_tag\">Five new BGM's by Andy Hiroyuki:</h2>1. Strawberry Pie<br>2. Crossing Thoughts<br>3. Tears<br>4. To the Truth<br>5. What's up?",
-                "about_the_game": "Join Kazuki with Akito and Kaoru, who set off on 24-hour mission specially commissioned from General Coya to catch a prisoner who fled, the left hand of Togashi clan; Uzair. They won't be alone because new character; Inaho Asaba will join them!<h2 class=\"bb_tag\">Main Features:</h2>You make decisions that will reveal different stories and even save the life of your team.<h2 class=\"bb_tag\">Two new characters:</h2>Inaho Asaba &amp; Uzair<br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/999150/extras/DLC1.png?t=1625157284\" /><br>Character Design: \u5b87\u679d\u539f\u3068\u307e/Toma Uehara<h2 class=\"bb_tag\">Five new BGM's by Andy Hiroyuki:</h2>1. Strawberry Pie<br>2. Crossing Thoughts<br>3. Tears<br>4. To the Truth<br>5. What's up?",
+                "detailed_description": "Join Kazuki with Akito and Kaoru, who set off on 24-hour mission specially commissioned from General Coya to catch a prisoner who fled, the left hand of Togashi clan; Uzair. They won't be alone because new character; Inaho Asaba will join them!<h2 class=\"bb_tag\">Main Features:</h2>You make decisions that will reveal different stories and even save the life of your team.<h2 class=\"bb_tag\">Two new characters:</h2>Inaho Asaba &amp; Uzair<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/999150/extras/DLC1.png?t=1625157284\" /><br>Character Design: \u5b87\u679d\u539f\u3068\u307e/Toma Uehara<h2 class=\"bb_tag\">Five new BGM's by Andy Hiroyuki:</h2>1. Strawberry Pie<br>2. Crossing Thoughts<br>3. Tears<br>4. To the Truth<br>5. What's up?",
+                "about_the_game": "Join Kazuki with Akito and Kaoru, who set off on 24-hour mission specially commissioned from General Coya to catch a prisoner who fled, the left hand of Togashi clan; Uzair. They won't be alone because new character; Inaho Asaba will join them!<h2 class=\"bb_tag\">Main Features:</h2>You make decisions that will reveal different stories and even save the life of your team.<h2 class=\"bb_tag\">Two new characters:</h2>Inaho Asaba &amp; Uzair<br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/999150/extras/DLC1.png?t=1625157284\" /><br>Character Design: \u5b87\u679d\u539f\u3068\u307e/Toma Uehara<h2 class=\"bb_tag\">Five new BGM's by Andy Hiroyuki:</h2>1. Strawberry Pie<br>2. Crossing Thoughts<br>3. Tears<br>4. To the Truth<br>5. What's up?",
                 "short_description": "Kazuki along with Akito and Kaoru set off on 24-hour mission specially commissioned from General Coya to catch a prisoner who fled, the left hand of Togashi clan; Uzair.",
                 "fullgame": {
                     "appid": "455310",
@@ -37,7 +37,7 @@
                 "price_overview": {
                     "currency": "USD",
                     "initial": 399,
-                    "final": 359,
+                    "final": 399,
                     "discount_percent": 100,
                     "initial_formatted": "$3.99",
                     "final_formatted": "Free"
@@ -68,13 +68,13 @@
                             },
                             {
                                 "packageid": 330063,
-                                "percent_savings_text": "-10% ",
+                                "percent_savings_text": " ",
                                 "percent_savings": 0,
-                                "option_text": "Bloody Chronicles Act 1 - Secret Operation - <span class=\"discount_original_price\">$3.99</span> $3.59",
+                                "option_text": "Bloody Chronicles Act 1 - Secret Operation - $3.99",
                                 "option_description": "",
                                 "can_get_free_license": "0",
                                 "is_free_license": false,
-                                "price_in_cents_with_discount": 359
+                                "price_in_cents_with_discount": 399
                             }
                         ]
                     }
