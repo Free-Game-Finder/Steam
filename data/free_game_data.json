@@ -1,1 +1,165 @@
-{}
+{
+    "1314765": {
+        "1314765": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "Battlefield 1 Shortcut Kit: Vehicle Bundle",
+                "steam_appid": 1314765,
+                "required_age": 0,
+                "is_free": true,
+                "controller_support": "full",
+                "detailed_description": "It\u2019s the dawn of all-out war, so you\u2019d better go in armed. The Vehicle Bundle immediately unlocks all vehicle packages and primary weapons earned for Pilot and Tanker classes in Battlefield\u2122 1 multiplayer.<br />\r\n<br />\r\n<br />\r\nOnly base game progression items included. This Shortcut Kit does not contain items offered in future downloadable content, items added in expansion packs, content that must be unlocked through Battlepacks, or promotional offer items.",
+                "about_the_game": "It\u2019s the dawn of all-out war, so you\u2019d better go in armed. The Vehicle Bundle immediately unlocks all vehicle packages and primary weapons earned for Pilot and Tanker classes in Battlefield\u2122 1 multiplayer.<br />\r\n<br />\r\n<br />\r\nOnly base game progression items included. This Shortcut Kit does not contain items offered in future downloadable content, items added in expansion packs, content that must be unlocked through Battlepacks, or promotional offer items.",
+                "short_description": "Win the day with Shortcut Kits",
+                "fullgame": {
+                    "appid": "1238840",
+                    "name": "Battlefield 1 \u2122"
+                },
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian, Spanish - Latin America<strong>*</strong>, Traditional Chinese, Turkish, Japanese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/header.jpg?t=1626817584",
+                "website": null,
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 7, Windows 8.1 and Windows 10<br></li><li><strong>Processor:</strong> Processor (AMD): AMD FX-6350 Processor (Intel): Intel Core i5 6600K<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card (AMD): AMD Radeon\u2122 HD 7850 2GB Graphics card (NVIDIA): NVIDIA GeForce\u00ae GTX 660 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10 or later<br></li><li><strong>Processor:</strong> Processor (AMD): AMD FX 8350 Wraith Processor (Intel): Intel Core i7 4790 or equivalent<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card (AMD): AMD Radeon\u2122 RX 480 4GB Graphics card (NVIDIA): NVIDIA GeForce\u00ae GTX 1060 3GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "legal_notice": "Germany, Austria, and Switzerland only: EA\u2019S PRIVACY & COOKIE POLICY (privacy.ea.com/de) APPLIES. <br />\r\nOther EU, United Kingdom, Norway, Iceland, Andorra, Bosnia and Herzegovina, Georgia, Kosovo, Macedonia (FYROM), Moldova, Monaco, Montenegro, San Marino, Serbia, Turkey, Vatican City (Holy See), Liechtenstein only: ACKNOWLEDGEMENT OF EA's PRIVACY & COOKIE POLICY (privacy.ea.com) REQUIRED TO PLAY. <br />\r\nAll other residents: ACCEPTANCE OF EA PRIVACY & COOKIE POLICY (privacy.ea.com) REQUIRED TO PLAY. <br />\r\n<br />\r\nINTERNET CONNECTION; EA ACCOUNT; STEAM ACCOUNT; ACCEPTANCE OF EA USER AGREEMENT (terms.ea.com) & ORIGIN END USER LICENSE AGREEMENT (ea.com/legal); AND DOWNLOAD & INSTALLATION OF THE ORIGIN CLIENT SOFTWARE (origin.com/download) REQUIRED TO PLAY. YOU MUST LINK YOUR EA AND STEAM ACCOUNTS TO PLAY; EA WILL SHARE YOUR ACCOUNT ID AND INDIVIDUAL GAME AND PLAY RECORDS WITH STEAM TO VALIDATE YOUR PURCHASE AND/OR REFUND REQUEST. ACCESS TO SOFTWARE CONTENT IS LIMITED TO ONE EA & ONE STEAM ACCOUNT & IS NON-TRANSFERABLE AFTER PURCHASE. YOU MAY NEED TO BE 13+ or 16+ TO REGISTER FOR AN EA ACCOUNT (AGE MAY VARY, SEE http://o.ea.com/ea/child-access FOR DETAILS). SOME CONTENT MAY REQUIRE GAMEPLAY TO UNLOCK. CONTENT UPDATES MAY BE DOWNLOADED AUTOMATICALLY, REQUIRE ADDITIONAL STORAGE, AND INCUR BANDWIDTH USAGE FEES. EA MAY PROVIDE CERTAIN FREE INCREMENTAL CONTENT &/OR UPDATES. EA MAY RETIRE ONLINE FEATURES AFTER 30 DAYS NOTICE POSTED ON ea.com/service-updates.<br />\r\n<br />\r\nEA User Agreement: terms.ea.com/de for German residents and terms.ea.com for all other residents<br />\r\nEA Privacy & Cookie Policy: privacy.ea.com/de for German residents and privacy.ea.com for all other residents<br />\r\nOrigin EULA: ea.com/de-de/legal for German residents and ea.com/legal for all other residents",
+                "developers": [
+                    "DICE"
+                ],
+                "publishers": [
+                    "Electronic Arts"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 1499,
+                    "final": 1499,
+                    "discount_percent": 100,
+                    "initial_formatted": "$14.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    607755,
+                    458980
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Battlefield 1 Shortcut Kit: Vehicle Bundle",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 607755,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Battlefield 1 Shortcut Kit: Vehicle Bundle Limited Free Promotional Package - Jul 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 458980,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Battlefield 1 Shortcut Kit: Vehicle Bundle - $14.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 1499
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/ss_c345d0964a18f2d5c4de7c4939e43eb631c6a1ed.600x338.jpg?t=1626817584",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/ss_c345d0964a18f2d5c4de7c4939e43eb631c6a1ed.1920x1080.jpg?t=1626817584"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/ss_b914b0daf3c46d908d403bdec2881cf2b8d34915.600x338.jpg?t=1626817584",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/ss_b914b0daf3c46d908d403bdec2881cf2b8d34915.1920x1080.jpg?t=1626817584"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/ss_a608c2726850f7ee69d0db51282811dc33d9d083.600x338.jpg?t=1626817584",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/ss_a608c2726850f7ee69d0db51282811dc33d9d083.1920x1080.jpg?t=1626817584"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/ss_25fbf466cb86f59e47ad06827788c003f079d403.600x338.jpg?t=1626817584",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/ss_25fbf466cb86f59e47ad06827788c003f079d403.1920x1080.jpg?t=1626817584"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/ss_a42f55d9b2b1d2084a7dff4540de42b7d4c36f7f.600x338.jpg?t=1626817584",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/ss_a42f55d9b2b1d2084a7dff4540de42b7d4c36f7f.1920x1080.jpg?t=1626817584"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Jun 11, 2020"
+                },
+                "support_info": {
+                    "url": "https://help.ea.com/",
+                    "email": ""
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1314765/page_bg_generated_v6b.jpg?t=1626817584",
+                "content_descriptors": {
+                    "ids": [
+                        2,
+                        5
+                    ],
+                    "notes": "Strong Language\r\nViolence"
+                }
+            }
+        }
+    }
+}
