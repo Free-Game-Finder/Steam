@@ -47,9 +47,13 @@ class steam:
         self.all_data_json = os.path.join(self.steam_loc, "id")
         self.free_game_data_json = os.path.join(
             self.steam_loc, "free_game_data.json")
+        self.discounted_game_data_json = os.path.join(
+            self.steam_loc, "discounted_game_data.json"
+        )
         self.price_data_dict = {}
         self.all_data_dict = {}
         self.free_game_data_dict = {}
+        self.discounted_game_data_dict = {}
         self.threads = []
         self.session = requests.session()
 
@@ -213,6 +217,26 @@ class steam:
                 pass
 
         self.write_json(self.free_game_data_json, self.free_game_data_dict)
+        return
+
+    def get_discounted_games(self):
+        price_dict = self.read_json(self.price_data_json)
+
+        for key, value in price_dict.items():
+            try:
+                if value["data"]["price_overview"]["discount_percent"] != 0:
+                    self.discounted_game_data_dict.update(
+                        {
+                            key: self.get_url_json(
+                                f"https://store.steampowered.com/api/appdetails?appids={key}&cc=US"
+                            )
+                        }
+                    )
+            except Exception as e:
+                self.debug_print(e)
+                pass
+
+        self.write_json(self.discounted_game_data_json, self.discounted_game_data_dict)
         return
 
 
