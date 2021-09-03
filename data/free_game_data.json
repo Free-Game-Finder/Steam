@@ -1,53 +1,59 @@
 {
-    "1628250": {
-        "1628250": {
+    "1314764": {
+        "1314764": {
             "success": true,
             "data": {
                 "type": "dlc",
-                "name": "RiMS Racing: Bahrain International Circuit",
-                "steam_appid": 1628250,
+                "name": "Battlefield 1 Shortcut Kit: Infantry Bundle",
+                "steam_appid": 1314764,
                 "required_age": 0,
                 "is_free": true,
                 "controller_support": "full",
-                "detailed_description": "Bahrain International Circuit, also known as the Sakhir International Circuit, is an ultra-modern track that hosts some of the biggest motorsport competitions. It is known for the series of short straights and slow bends that make up its total length of 5.412km, which put the emphasis on precision when entering the bends and changes of pace rather than pure speed.",
-                "about_the_game": "Bahrain International Circuit, also known as the Sakhir International Circuit, is an ultra-modern track that hosts some of the biggest motorsport competitions. It is known for the series of short straights and slow bends that make up its total length of 5.412km, which put the emphasis on precision when entering the bends and changes of pace rather than pure speed.",
-                "short_description": "Bahrain International Circuit is an iconic track for motorsport fans. With 5.412km of short straights and slow bends, the changes in pace are highly demanding and present a unique challenge in the middle of the desert!",
+                "detailed_description": "It\u2019s the dawn of all-out war, so you\u2019d better go in armed. The Infantry Bundle gets you all primary weapons, sidearms, and gadgets earned for all four infantry classes \u2013 Assault, Medic, Scout, and Support \u2013 in Battlefield\u2122 1 multiplayer. You\u2019ll also unlock progression-based melee weapons, sidearms, and grenades that are not tied to any specific class.<br />\r\n<br />\r\n<br />\r\nOnly base game progression items included. This Shortcut Kit does not contain items offered in future downloadable content, items added in expansion packs, content that must be unlocked through Battlepacks, or promotional offer items.",
+                "about_the_game": "It\u2019s the dawn of all-out war, so you\u2019d better go in armed. The Infantry Bundle gets you all primary weapons, sidearms, and gadgets earned for all four infantry classes \u2013 Assault, Medic, Scout, and Support \u2013 in Battlefield\u2122 1 multiplayer. You\u2019ll also unlock progression-based melee weapons, sidearms, and grenades that are not tied to any specific class.<br />\r\n<br />\r\n<br />\r\nOnly base game progression items included. This Shortcut Kit does not contain items offered in future downloadable content, items added in expansion packs, content that must be unlocked through Battlepacks, or promotional offer items.",
+                "short_description": "Win the day with Shortcut Kits",
                 "fullgame": {
-                    "appid": "1346010",
-                    "name": "RiMS Racing"
+                    "appid": "1238840",
+                    "name": "Battlefield 1 \u2122"
                 },
-                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1628250/header.jpg?t=1629360044",
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic<strong>*</strong>, Polish, Portuguese - Brazil<strong>*</strong>, Russian, Spanish - Latin America<strong>*</strong>, Traditional Chinese, Japanese<strong>*</strong>, Turkish<br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/header.jpg?t=1630429949",
                 "website": null,
                 "pc_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-2300 or AMD FX-6300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVDIA GeForce GTX 750, 2 GB or AMD Radeon HD 7850, 2 GB<br></li><li><strong>DirectX:</strong> Version 11</li></ul>",
-                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7-4790 or AMD Ryzen 5 1500X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060, 6 GB or AMD Radeon RX 580, 4 GB<br></li><li><strong>DirectX:</strong> Version 11</li></ul>"
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 7, Windows 8.1 and Windows 10<br></li><li><strong>Processor:</strong> Processor (AMD): AMD FX-6350 Processor (Intel): Intel Core i5 6600K<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card (AMD): AMD Radeon\u2122 HD 7850 2GB Graphics card (NVIDIA): NVIDIA GeForce\u00ae GTX 660 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10 or later<br></li><li><strong>Processor:</strong> Processor (AMD): AMD FX 8350 Wraith Processor (Intel): Intel Core i7 4790 or equivalent<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Graphics card (AMD): AMD Radeon\u2122 RX 480 4GB Graphics card (NVIDIA): NVIDIA GeForce\u00ae GTX 1060 3GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>"
                 },
-                "mac_requirements": [],
-                "linux_requirements": [],
-                "legal_notice": "RiMS Racing \u00a92021 Published by Nacon and developed by RaceWard Studio. Aprilia \u00ae Official Licensee. Aprilia \u00ae is a registered trademark owned by Piaggio & C. S.p.A. and used under license by Nacon SAS. \"SUZUKI\", \"S\", and \u201cGSX-R\u201d are trademarks of Suzuki Motor Corporation and used under license. However, this product is neither manufactured nor distributed by Suzuki Motor Corporation. HONDA OFFICIAL LICENSED PRODUCT.  Designed, manufactured, and distributed by or for Nacon SA.  Intellectual property of Honda Motor Co., Ltd. used under license by American Honda Motor Co. Inc.  The BMW logo, the BMW word mark and the BMW model designation are trademarks of BMW AG and are used under License. Official Product under license of Ducati Motor Holding S.p.A. Trademarks, design patents and copyrights are used with the approval of the owner N\u00dcRBURGRING 1927 GmbH & Co. KG. MOTUL and the MOTUL LOGO are registered trademarks of MOTUL (SA). All rights reserved. The CASTROL logo, POWER 1 and OIL IN ACTION \u2013 POWER 1 are trademarks and are used with permission from Castrol Limited. PIRELLI and PIRELLI logo are trademarks of Pirelli & C. S.p.A.; SCORPION, SCORPION logo, METZELER, ELEPHANT logo, \u201cFLASH\u201d logo are trademarks of Pirelli Tyre S.p.A. All trademarks are used under license. Tyre designs are property of Pirelli Tyre S.p.A. and used under license.",
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "legal_notice": "Germany, Austria, and Switzerland only: EA\u2019S PRIVACY & COOKIE POLICY (privacy.ea.com/de) APPLIES. <br />\r\nOther EU, United Kingdom, Norway, Iceland, Andorra, Bosnia and Herzegovina, Georgia, Kosovo, Macedonia (FYROM), Moldova, Monaco, Montenegro, San Marino, Serbia, Turkey, Vatican City (Holy See), Liechtenstein only: ACKNOWLEDGEMENT OF EA's PRIVACY & COOKIE POLICY (privacy.ea.com) REQUIRED TO PLAY. <br />\r\nAll other residents: ACCEPTANCE OF EA PRIVACY & COOKIE POLICY (privacy.ea.com) REQUIRED TO PLAY. <br />\r\n<br />\r\nINTERNET CONNECTION; EA ACCOUNT; STEAM ACCOUNT; ACCEPTANCE OF EA USER AGREEMENT (terms.ea.com) & ORIGIN END USER LICENSE AGREEMENT (ea.com/legal); AND DOWNLOAD & INSTALLATION OF THE ORIGIN CLIENT SOFTWARE (origin.com/download) REQUIRED TO PLAY. YOU MUST LINK YOUR EA AND STEAM ACCOUNTS TO PLAY; EA WILL SHARE YOUR ACCOUNT ID AND INDIVIDUAL GAME AND PLAY RECORDS WITH STEAM TO VALIDATE YOUR PURCHASE AND/OR REFUND REQUEST. ACCESS TO SOFTWARE CONTENT IS LIMITED TO ONE EA & ONE STEAM ACCOUNT & IS NON-TRANSFERABLE AFTER PURCHASE. YOU MAY NEED TO BE 13+ or 16+ TO REGISTER FOR AN EA ACCOUNT (AGE MAY VARY, SEE http://o.ea.com/ea/child-access FOR DETAILS). SOME CONTENT MAY REQUIRE GAMEPLAY TO UNLOCK. CONTENT UPDATES MAY BE DOWNLOADED AUTOMATICALLY, REQUIRE ADDITIONAL STORAGE, AND INCUR BANDWIDTH USAGE FEES. EA MAY PROVIDE CERTAIN FREE INCREMENTAL CONTENT &/OR UPDATES. EA MAY RETIRE ONLINE FEATURES AFTER 30 DAYS NOTICE POSTED ON ea.com/service-updates.<br />\r\n<br />\r\nEA User Agreement: terms.ea.com/de for German residents and terms.ea.com for all other residents<br />\r\nEA Privacy & Cookie Policy: privacy.ea.com/de for German residents and privacy.ea.com for all other residents<br />\r\nOrigin EULA: ea.com/de-de/legal for German residents and ea.com/legal for all other residents",
                 "developers": [
-                    "Raceward Studio"
+                    "DICE"
                 ],
                 "publishers": [
-                    "Nacon"
+                    "Electronic Arts"
                 ],
                 "price_overview": {
                     "currency": "USD",
-                    "initial": 499,
-                    "final": 499,
+                    "initial": 2999,
+                    "final": 2999,
                     "discount_percent": 100,
-                    "initial_formatted": "$4.99",
+                    "initial_formatted": "$29.99",
                     "final_formatted": "Free"
                 },
                 "packages": [
-                    620272,
-                    578078
+                    625654,
+                    458977
                 ],
                 "package_groups": [
                     {
                         "name": "default",
-                        "title": "Buy RiMS Racing: Bahrain International Circuit",
+                        "title": "Buy Battlefield 1 Shortcut Kit: Infantry Bundle",
                         "description": "",
                         "selection_text": "Select a purchase option",
                         "save_text": "",
@@ -55,24 +61,24 @@
                         "is_recurring_subscription": "false",
                         "subs": [
                             {
-                                "packageid": 620272,
+                                "packageid": 625654,
                                 "percent_savings_text": "-100% ",
                                 "percent_savings": 0,
-                                "option_text": "RiMS Racing: Bahrain International Circuit Limited Free Promotional Package - Aug 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_text": "Battlefield 1 Shortcut Kit: Infantry Bundle Limited Free Promotional Package - Sep 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
                                 "option_description": "",
                                 "can_get_free_license": "0",
                                 "is_free_license": true,
                                 "price_in_cents_with_discount": 0
                             },
                             {
-                                "packageid": 578078,
+                                "packageid": 458977,
                                 "percent_savings_text": " ",
                                 "percent_savings": 0,
-                                "option_text": "RiMS Racing: Bahrain International Circuit - $4.99",
+                                "option_text": "Battlefield 1 Shortcut Kit: Infantry Bundle - $29.99",
                                 "option_description": "",
                                 "can_get_free_license": "0",
                                 "is_free_license": false,
-                                "price_in_cents_with_discount": 499
+                                "price_in_cents_with_discount": 2999
                             }
                         ]
                     }
@@ -100,63 +106,62 @@
                         "description": "Online PvP"
                     },
                     {
-                        "id": 37,
-                        "description": "Shared/Split Screen PvP"
-                    },
-                    {
-                        "id": 24,
-                        "description": "Shared/Split Screen"
-                    },
-                    {
                         "id": 21,
                         "description": "Downloadable Content"
                     },
                     {
-                        "id": 22,
-                        "description": "Steam Achievements"
-                    },
-                    {
                         "id": 28,
                         "description": "Full controller support"
-                    },
-                    {
-                        "id": 44,
-                        "description": "Remote Play Together"
                     }
                 ],
                 "genres": [
                     {
-                        "id": "9",
-                        "description": "Racing"
-                    },
-                    {
-                        "id": "28",
-                        "description": "Simulation"
-                    },
-                    {
-                        "id": "18",
-                        "description": "Sports"
+                        "id": "1",
+                        "description": "Action"
                     }
                 ],
                 "screenshots": [
                     {
                         "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1628250/ss_291d7783e41b7b90d0b1e55264e032fb34c319af.600x338.jpg?t=1629360044",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1628250/ss_291d7783e41b7b90d0b1e55264e032fb34c319af.1920x1080.jpg?t=1629360044"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/ss_c345d0964a18f2d5c4de7c4939e43eb631c6a1ed.600x338.jpg?t=1630429949",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/ss_c345d0964a18f2d5c4de7c4939e43eb631c6a1ed.1920x1080.jpg?t=1630429949"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/ss_a608c2726850f7ee69d0db51282811dc33d9d083.600x338.jpg?t=1630429949",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/ss_a608c2726850f7ee69d0db51282811dc33d9d083.1920x1080.jpg?t=1630429949"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/ss_b914b0daf3c46d908d403bdec2881cf2b8d34915.600x338.jpg?t=1630429949",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/ss_b914b0daf3c46d908d403bdec2881cf2b8d34915.1920x1080.jpg?t=1630429949"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/ss_25fbf466cb86f59e47ad06827788c003f079d403.600x338.jpg?t=1630429949",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/ss_25fbf466cb86f59e47ad06827788c003f079d403.1920x1080.jpg?t=1630429949"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/ss_a42f55d9b2b1d2084a7dff4540de42b7d4c36f7f.600x338.jpg?t=1630429949",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/ss_a42f55d9b2b1d2084a7dff4540de42b7d4c36f7f.1920x1080.jpg?t=1630429949"
                     }
                 ],
                 "release_date": {
                     "coming_soon": false,
-                    "date": "Aug 19, 2021"
+                    "date": "Jun 11, 2020"
                 },
                 "support_info": {
-                    "url": "",
-                    "email": "support@nacon.fr"
+                    "url": "https://help.ea.com/",
+                    "email": ""
                 },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1628250/page_bg_generated_v6b.jpg?t=1629360044",
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1314764/page_bg_generated_v6b.jpg?t=1630429949",
                 "content_descriptors": {
-                    "ids": [],
-                    "notes": null
+                    "ids": [
+                        2,
+                        5
+                    ],
+                    "notes": "Strong Language\r\nViolence"
                 }
             }
         }
