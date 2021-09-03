@@ -1,5 +1,5 @@
 {
-    "debug_steam": true,
+    "debug_steam": false,
     "steam_all_data": "1",
     "comment_0": "Above is referring to getting all Steam data on Monday"
 }

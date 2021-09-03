@@ -232,6 +232,7 @@ class steam:
                             )
                         }
                     )
+                    print(key)
             except Exception as e:
                 self.debug_print(e)
                 pass
@@ -242,15 +243,18 @@ class steam:
 
 print("Getting Proxy Data")
 steam_item = steam()
-# clear()
+# # clear()
 print("Getting Store Data")
 steam_item.get_store_data()
-# # clear()
+# # # clear()
 print("Getting Price Data")
 steam_item.get_price_data()
-# clear()
+# # clear()
 # print("Getting All Data")
 # steam_item.get_all_data()
-# clear()
+# # clear()
 print("Getting Free Games")
 steam_item.get_free_games()
+
+print("Getting Discounted Games")
+steam_item.get_discounted_games()
