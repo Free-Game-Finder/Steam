@@ -1,201 +1,4 @@
 {
-    "283270": {
-        "283270": {
-            "success": true,
-            "data": {
-                "type": "game",
-                "name": "Jagged Alliance 1: Gold Edition",
-                "steam_appid": 283270,
-                "required_age": 0,
-                "is_free": true,
-                "detailed_description": "<strong>Jagged Alliance is a true legend of tactical turn-based Strategy! The Gold Edition includes Jagged Alliance and Jagged Alliance: Deadly Games.</strong><br><br>The return of a real classic - for the first time on Steam! 20 years ago, Jagged Alliance made an impact and changed the strategy genre forever. Now you can experience this legend in its glorious original form.<br><br>A desperate call for help from the island Metavira: The scientist Jack Richards and his lovely daughter Brenda are reaching out to you. The Fallow trees and thus the precious, medical sap on which countless of lives depend, are under the control of the evil and traitorous Santino. That\u2019s why Jack and Brenda hire you, the commander of a mercenary force, to put an end to Santino's insane plans.<br><br>You and your mercenaries have to reclaim the island sector by sector, turn by turn. Cultivate the Fallow Trees and process their juices, as they are the basis for your funding. Hire better mercenaries, train local militias and manage your equipment wisely. Get your troops out there and help the people of Metavira!<br><br><ul class=\"bb_ul\"><li>Experience a true classic<br></li><li>60 mercenaries, 60 attitudes, 60 voices<br></li><li>Lots of authentic weapons and equipment<br></li><li>Intense turn-based combat<br></li><li>Non-linear gameplay<br></li><li>High replay value</li></ul>",
-                "about_the_game": "<strong>Jagged Alliance is a true legend of tactical turn-based Strategy! The Gold Edition includes Jagged Alliance and Jagged Alliance: Deadly Games.</strong><br><br>The return of a real classic - for the first time on Steam! 20 years ago, Jagged Alliance made an impact and changed the strategy genre forever. Now you can experience this legend in its glorious original form.<br><br>A desperate call for help from the island Metavira: The scientist Jack Richards and his lovely daughter Brenda are reaching out to you. The Fallow trees and thus the precious, medical sap on which countless of lives depend, are under the control of the evil and traitorous Santino. That\u2019s why Jack and Brenda hire you, the commander of a mercenary force, to put an end to Santino's insane plans.<br><br>You and your mercenaries have to reclaim the island sector by sector, turn by turn. Cultivate the Fallow Trees and process their juices, as they are the basis for your funding. Hire better mercenaries, train local militias and manage your equipment wisely. Get your troops out there and help the people of Metavira!<br><br><ul class=\"bb_ul\"><li>Experience a true classic<br></li><li>60 mercenaries, 60 attitudes, 60 voices<br></li><li>Lots of authentic weapons and equipment<br></li><li>Intense turn-based combat<br></li><li>Non-linear gameplay<br></li><li>High replay value</li></ul>",
-                "short_description": "Experience a true classic! This Gold edition includes the original Jagged Alliance plus the add-on Jagged Alliance: Deadly Games. Take a trip into retro land and learn why this is considered to be one the best turn-based games of all times.",
-                "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/283270/header.jpg?t=1631811802",
-                "website": "http://www.jaggedalliance.com/",
-                "pc_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP /Vista/7<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 16 MB RAM<br></li><li><strong>Graphics:</strong> 3D graphics card compatible<br></li><li><strong>DirectX:</strong> Version 7.0<br></li><li><strong>Storage:</strong> 1200 MB available space</li></ul>"
-                },
-                "mac_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.5 or later<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or later<br></li><li><strong>Storage:</strong> 1200 MB available space</li></ul>"
-                },
-                "linux_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 10.10 or later<br></li><li><strong>Graphics:</strong> 3D Graphics card with OpenGL support<br></li><li><strong>Storage:</strong> 1200 MB available space</li></ul>"
-                },
-                "legal_notice": "\u00a9 2015 THQ Nordic GmbH; THQ Nordic GmbH is a wholly owned publishing subsidiary of THQ Nordic AB. The THQ Nordic logo and the THQ Nordic symbol are registered trademarks or trademarks of THQ Nordic AB. All rights reserved. All other trademarks are the property of their respective owners and used under license.",
-                "developers": [
-                    "Sir-Tech",
-                    "Madlab Software"
-                ],
-                "publishers": [
-                    "THQ Nordic"
-                ],
-                "price_overview": {
-                    "currency": "USD",
-                    "initial": 999,
-                    "final": 999,
-                    "discount_percent": 100,
-                    "initial_formatted": "$9.99",
-                    "final_formatted": "Free"
-                },
-                "packages": [
-                    631278,
-                    39020
-                ],
-                "package_groups": [
-                    {
-                        "name": "default",
-                        "title": "Buy Jagged Alliance 1: Gold Edition",
-                        "description": "",
-                        "selection_text": "Select a purchase option",
-                        "save_text": "",
-                        "display_type": 0,
-                        "is_recurring_subscription": "false",
-                        "subs": [
-                            {
-                                "packageid": 631278,
-                                "percent_savings_text": "-100% ",
-                                "percent_savings": 0,
-                                "option_text": "Jagged Alliance Gold Limited Free Promotional Package - Sep 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": true,
-                                "price_in_cents_with_discount": 0
-                            },
-                            {
-                                "packageid": 39020,
-                                "percent_savings_text": " ",
-                                "percent_savings": 0,
-                                "option_text": "Jagged Alliance Gold - $9.99",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": false,
-                                "price_in_cents_with_discount": 999
-                            }
-                        ]
-                    }
-                ],
-                "platforms": {
-                    "windows": true,
-                    "mac": true,
-                    "linux": true
-                },
-                "categories": [
-                    {
-                        "id": 2,
-                        "description": "Single-player"
-                    },
-                    {
-                        "id": 1,
-                        "description": "Multi-player"
-                    }
-                ],
-                "genres": [
-                    {
-                        "id": "1",
-                        "description": "Action"
-                    },
-                    {
-                        "id": "3",
-                        "description": "RPG"
-                    },
-                    {
-                        "id": "2",
-                        "description": "Strategy"
-                    }
-                ],
-                "screenshots": [
-                    {
-                        "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_4dca070d4561a293bb6378b7047736cf5077028c.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_4dca070d4561a293bb6378b7047736cf5077028c.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 1,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_bc5227cb7ffee73ab2c8273db4325fdb5cf3682d.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_bc5227cb7ffee73ab2c8273db4325fdb5cf3682d.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 2,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_a048632c2ffc26aac87cb74652b2fa36693fc3ec.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_a048632c2ffc26aac87cb74652b2fa36693fc3ec.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 3,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_97fdc2088d3144cac96d1e82202f5f84fc6694cb.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_97fdc2088d3144cac96d1e82202f5f84fc6694cb.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 4,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_965c4ddcb154451518e802ea9224ebbc19b3af99.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_965c4ddcb154451518e802ea9224ebbc19b3af99.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 5,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_79a3bfa01d9db721be1e5af444f7ea535448bbae.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_79a3bfa01d9db721be1e5af444f7ea535448bbae.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 6,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_db98f4b6600daffe99f836644e402a34e566dcb3.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_db98f4b6600daffe99f836644e402a34e566dcb3.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 7,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_4dca070d4561a293bb6378b7047736cf5077028c.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_4dca070d4561a293bb6378b7047736cf5077028c.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 8,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_bc5227cb7ffee73ab2c8273db4325fdb5cf3682d.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_bc5227cb7ffee73ab2c8273db4325fdb5cf3682d.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 9,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_db98f4b6600daffe99f836644e402a34e566dcb3.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_db98f4b6600daffe99f836644e402a34e566dcb3.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 10,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_965c4ddcb154451518e802ea9224ebbc19b3af99.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_965c4ddcb154451518e802ea9224ebbc19b3af99.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 11,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_a048632c2ffc26aac87cb74652b2fa36693fc3ec.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_a048632c2ffc26aac87cb74652b2fa36693fc3ec.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 12,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_97fdc2088d3144cac96d1e82202f5f84fc6694cb.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_97fdc2088d3144cac96d1e82202f5f84fc6694cb.1920x1080.jpg?t=1631811802"
-                    },
-                    {
-                        "id": 13,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_79a3bfa01d9db721be1e5af444f7ea535448bbae.600x338.jpg?t=1631811802",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_79a3bfa01d9db721be1e5af444f7ea535448bbae.1920x1080.jpg?t=1631811802"
-                    }
-                ],
-                "recommendations": {
-                    "total": 115
-                },
-                "release_date": {
-                    "coming_soon": false,
-                    "date": "Apr 23, 2014"
-                },
-                "support_info": {
-                    "url": "",
-                    "email": "support@quanticlab.com"
-                },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/283270/page_bg_generated_v6b.jpg?t=1631811802",
-                "content_descriptors": {
-                    "ids": [],
-                    "notes": null
-                }
-            }
-        }
-    },
     "475150": {
         "475150": {
             "success": true,
@@ -209,7 +12,7 @@
                     741350,
                     1071200
                 ],
-                "detailed_description": "<h1>Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?url=https://discord.gg/titanquest\" target=\"_blank\" rel=\"noopener\"  ><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/475150/extras/TQ_JoinUsOnDiscord.png?t=1631811776\" /></a></p><br><h1>About the Game</h1>For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience.<h2 class=\"bb_tag\"><strong>Anniversary Edition update</strong></h2><ul class=\"bb_ul\"><li>Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity<br></li><li>Support for more resolutions, larger camera distance and scaleable UI size<br></li><li>Improved performance and general stability<br></li><li>Support for modders through new modding options and a fully integrated Steam Workshop<br></li><li>Complete balance rework with improvements to all Masteries, damage types, unique items and sets<br></li><li>Countless bug fixes and other improvements, including ten years\u2019 worth of community fixes<br></li><li>Increased challenges and rewards for larger parties and on higher difficulty levels<br></li><li>Dozens of new heroes and bosses to encounter<br></li><li>Improved enemy and pet AI<br></li><li>Quality of life features like higher stack limits, quick item pickup, a larger stash and a speed setting<br></li><li>Reduced cheating with curbed exploits, removal of test items and mod comparison in multiplayer<br></li><li>Steam Friend Invites<br></li><li>Steam Achievements<br></li><li>Steam Trading Cards</li></ul><h2 class=\"bb_tag\"><strong>Discover the Courage that Turns Heroes Into Legends</strong></h2>From Age of Empires co-creator Brian Sullivan and Braveheart writer Randall Wallace comes an innovative action role playing game set in ancient Greece, Egypt and Asia. The Titans have escaped their eternal prison, wreaking havoc upon the earth. The gods seek a hero who can turn the tide in an epic struggle that will determine the fate of both men and gods.<br><br><br>In this epic quest of good versus evil, players will encounter the greatest villains of Greek mythology, brave the attacks of Cerberus, and hazard the banks of the River Styx. Players will interpret the prophecies of the blind seer Tiresias, fight alongside Agamemnon and Achilles, and use the wiles of Odysseus to conquer this dark new adventure.<br><br><strong>Are you ready for the quest?</strong><h2 class=\"bb_tag\"><strong>Key features</strong></h2><ul class=\"bb_ul\"><li>Explore the Ancient World - Unlock arcane mysteries and battle the beasts of mythology as you journey to the Parthenon, Great Pyramids, Hanging Gardens of Babylon, The Great Wall and other legendary locations<br></li><li>Atmospheric Graphics - Take a hero's journey through authentic Ancient World settings crafted in stunning, realistic, 3D detail<br></li><li>Conquer Monsters of Legend - Battle horrific monsters and mythical beasts in a story-driven campaign that will determine the fate of all existence<br></li><li>Highly Customizable Characters - Build and customize your characters with 28 classes and over 1000 pieces of unique and legendary items to create the ultimate champion<br></li><li>Online Multiplayer Gameplay - Challenge others to experience your map creations in fast-action, 2-6 player online cooperative gameplay<br></li><li>Create Your Own Worlds - Create your own maps with the easy-to-use World Editor for endless adventuring</li></ul>",
+                "detailed_description": "<h1>Discord</h1><p><a href=\"https://steamcommunity.com/linkfilter/?url=https://discord.gg/titanquest\" target=\"_blank\" rel=\"noopener\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/475150/extras/TQ_JoinUsOnDiscord.png?t=1631811776\" /></a></p><br><h1>About the Game</h1>For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience.<h2 class=\"bb_tag\"><strong>Anniversary Edition update</strong></h2><ul class=\"bb_ul\"><li>Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity<br></li><li>Support for more resolutions, larger camera distance and scaleable UI size<br></li><li>Improved performance and general stability<br></li><li>Support for modders through new modding options and a fully integrated Steam Workshop<br></li><li>Complete balance rework with improvements to all Masteries, damage types, unique items and sets<br></li><li>Countless bug fixes and other improvements, including ten years\u2019 worth of community fixes<br></li><li>Increased challenges and rewards for larger parties and on higher difficulty levels<br></li><li>Dozens of new heroes and bosses to encounter<br></li><li>Improved enemy and pet AI<br></li><li>Quality of life features like higher stack limits, quick item pickup, a larger stash and a speed setting<br></li><li>Reduced cheating with curbed exploits, removal of test items and mod comparison in multiplayer<br></li><li>Steam Friend Invites<br></li><li>Steam Achievements<br></li><li>Steam Trading Cards</li></ul><h2 class=\"bb_tag\"><strong>Discover the Courage that Turns Heroes Into Legends</strong></h2>From Age of Empires co-creator Brian Sullivan and Braveheart writer Randall Wallace comes an innovative action role playing game set in ancient Greece, Egypt and Asia. The Titans have escaped their eternal prison, wreaking havoc upon the earth. The gods seek a hero who can turn the tide in an epic struggle that will determine the fate of both men and gods.<br><br><br>In this epic quest of good versus evil, players will encounter the greatest villains of Greek mythology, brave the attacks of Cerberus, and hazard the banks of the River Styx. Players will interpret the prophecies of the blind seer Tiresias, fight alongside Agamemnon and Achilles, and use the wiles of Odysseus to conquer this dark new adventure.<br><br><strong>Are you ready for the quest?</strong><h2 class=\"bb_tag\"><strong>Key features</strong></h2><ul class=\"bb_ul\"><li>Explore the Ancient World - Unlock arcane mysteries and battle the beasts of mythology as you journey to the Parthenon, Great Pyramids, Hanging Gardens of Babylon, The Great Wall and other legendary locations<br></li><li>Atmospheric Graphics - Take a hero's journey through authentic Ancient World settings crafted in stunning, realistic, 3D detail<br></li><li>Conquer Monsters of Legend - Battle horrific monsters and mythical beasts in a story-driven campaign that will determine the fate of all existence<br></li><li>Highly Customizable Characters - Build and customize your characters with 28 classes and over 1000 pieces of unique and legendary items to create the ultimate champion<br></li><li>Online Multiplayer Gameplay - Challenge others to experience your map creations in fast-action, 2-6 player online cooperative gameplay<br></li><li>Create Your Own Worlds - Create your own maps with the easy-to-use World Editor for endless adventuring</li></ul>",
                 "about_the_game": "For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience.<h2 class=\"bb_tag\"><strong>Anniversary Edition update</strong></h2><ul class=\"bb_ul\"><li>Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity<br></li><li>Support for more resolutions, larger camera distance and scaleable UI size<br></li><li>Improved performance and general stability<br></li><li>Support for modders through new modding options and a fully integrated Steam Workshop<br></li><li>Complete balance rework with improvements to all Masteries, damage types, unique items and sets<br></li><li>Countless bug fixes and other improvements, including ten years\u2019 worth of community fixes<br></li><li>Increased challenges and rewards for larger parties and on higher difficulty levels<br></li><li>Dozens of new heroes and bosses to encounter<br></li><li>Improved enemy and pet AI<br></li><li>Quality of life features like higher stack limits, quick item pickup, a larger stash and a speed setting<br></li><li>Reduced cheating with curbed exploits, removal of test items and mod comparison in multiplayer<br></li><li>Steam Friend Invites<br></li><li>Steam Achievements<br></li><li>Steam Trading Cards</li></ul><h2 class=\"bb_tag\"><strong>Discover the Courage that Turns Heroes Into Legends</strong></h2>From Age of Empires co-creator Brian Sullivan and Braveheart writer Randall Wallace comes an innovative action role playing game set in ancient Greece, Egypt and Asia. The Titans have escaped their eternal prison, wreaking havoc upon the earth. The gods seek a hero who can turn the tide in an epic struggle that will determine the fate of both men and gods.<br><br><br>In this epic quest of good versus evil, players will encounter the greatest villains of Greek mythology, brave the attacks of Cerberus, and hazard the banks of the River Styx. Players will interpret the prophecies of the blind seer Tiresias, fight alongside Agamemnon and Achilles, and use the wiles of Odysseus to conquer this dark new adventure.<br><br><strong>Are you ready for the quest?</strong><h2 class=\"bb_tag\"><strong>Key features</strong></h2><ul class=\"bb_ul\"><li>Explore the Ancient World - Unlock arcane mysteries and battle the beasts of mythology as you journey to the Parthenon, Great Pyramids, Hanging Gardens of Babylon, The Great Wall and other legendary locations<br></li><li>Atmospheric Graphics - Take a hero's journey through authentic Ancient World settings crafted in stunning, realistic, 3D detail<br></li><li>Conquer Monsters of Legend - Battle horrific monsters and mythical beasts in a story-driven campaign that will determine the fate of all existence<br></li><li>Highly Customizable Characters - Build and customize your characters with 28 classes and over 1000 pieces of unique and legendary items to create the ultimate champion<br></li><li>Online Multiplayer Gameplay - Challenge others to experience your map creations in fast-action, 2-6 player online cooperative gameplay<br></li><li>Create Your Own Worlds - Create your own maps with the easy-to-use World Editor for endless adventuring</li></ul>",
                 "short_description": "For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience.",
                 "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain, Czech, Polish, Russian<strong>*</strong>, Japanese, Korean, Simplified Chinese, Ukrainian, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
@@ -408,7 +211,7 @@
                     }
                 ],
                 "recommendations": {
-                    "total": 17804
+                    "total": 17816
                 },
                 "achievements": {
                     "total": 96,
@@ -817,6 +620,203 @@
                     "email": "support@betadwarf.com"
                 },
                 "background": "https://cdn.akamai.steamstatic.com/steam/apps/1748780/page_bg_generated_v6b.jpg?t=1632157120",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    },
+    "283270": {
+        "283270": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Jagged Alliance 1: Gold Edition",
+                "steam_appid": 283270,
+                "required_age": 0,
+                "is_free": true,
+                "detailed_description": "<strong>Jagged Alliance is a true legend of tactical turn-based Strategy! The Gold Edition includes Jagged Alliance and Jagged Alliance: Deadly Games.</strong><br><br>The return of a real classic - for the first time on Steam! 20 years ago, Jagged Alliance made an impact and changed the strategy genre forever. Now you can experience this legend in its glorious original form.<br><br>A desperate call for help from the island Metavira: The scientist Jack Richards and his lovely daughter Brenda are reaching out to you. The Fallow trees and thus the precious, medical sap on which countless of lives depend, are under the control of the evil and traitorous Santino. That\u2019s why Jack and Brenda hire you, the commander of a mercenary force, to put an end to Santino's insane plans.<br><br>You and your mercenaries have to reclaim the island sector by sector, turn by turn. Cultivate the Fallow Trees and process their juices, as they are the basis for your funding. Hire better mercenaries, train local militias and manage your equipment wisely. Get your troops out there and help the people of Metavira!<br><br><ul class=\"bb_ul\"><li>Experience a true classic<br></li><li>60 mercenaries, 60 attitudes, 60 voices<br></li><li>Lots of authentic weapons and equipment<br></li><li>Intense turn-based combat<br></li><li>Non-linear gameplay<br></li><li>High replay value</li></ul>",
+                "about_the_game": "<strong>Jagged Alliance is a true legend of tactical turn-based Strategy! The Gold Edition includes Jagged Alliance and Jagged Alliance: Deadly Games.</strong><br><br>The return of a real classic - for the first time on Steam! 20 years ago, Jagged Alliance made an impact and changed the strategy genre forever. Now you can experience this legend in its glorious original form.<br><br>A desperate call for help from the island Metavira: The scientist Jack Richards and his lovely daughter Brenda are reaching out to you. The Fallow trees and thus the precious, medical sap on which countless of lives depend, are under the control of the evil and traitorous Santino. That\u2019s why Jack and Brenda hire you, the commander of a mercenary force, to put an end to Santino's insane plans.<br><br>You and your mercenaries have to reclaim the island sector by sector, turn by turn. Cultivate the Fallow Trees and process their juices, as they are the basis for your funding. Hire better mercenaries, train local militias and manage your equipment wisely. Get your troops out there and help the people of Metavira!<br><br><ul class=\"bb_ul\"><li>Experience a true classic<br></li><li>60 mercenaries, 60 attitudes, 60 voices<br></li><li>Lots of authentic weapons and equipment<br></li><li>Intense turn-based combat<br></li><li>Non-linear gameplay<br></li><li>High replay value</li></ul>",
+                "short_description": "Experience a true classic! This Gold edition includes the original Jagged Alliance plus the add-on Jagged Alliance: Deadly Games. Take a trip into retro land and learn why this is considered to be one the best turn-based games of all times.",
+                "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/283270/header.jpg?t=1631811802",
+                "website": "http://www.jaggedalliance.com/",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP /Vista/7<br></li><li><strong>Processor:</strong> 1 GHz<br></li><li><strong>Memory:</strong> 16 MB RAM<br></li><li><strong>Graphics:</strong> 3D graphics card compatible<br></li><li><strong>DirectX:</strong> Version 7.0<br></li><li><strong>Storage:</strong> 1200 MB available space</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.5 or later<br></li><li><strong>Graphics:</strong> Intel HD Graphics 3000 or later<br></li><li><strong>Storage:</strong> 1200 MB available space</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 10.10 or later<br></li><li><strong>Graphics:</strong> 3D Graphics card with OpenGL support<br></li><li><strong>Storage:</strong> 1200 MB available space</li></ul>"
+                },
+                "legal_notice": "\u00a9 2015 THQ Nordic GmbH; THQ Nordic GmbH is a wholly owned publishing subsidiary of THQ Nordic AB. The THQ Nordic logo and the THQ Nordic symbol are registered trademarks or trademarks of THQ Nordic AB. All rights reserved. All other trademarks are the property of their respective owners and used under license.",
+                "developers": [
+                    "Sir-Tech",
+                    "Madlab Software"
+                ],
+                "publishers": [
+                    "THQ Nordic"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 999,
+                    "final": 999,
+                    "discount_percent": 100,
+                    "initial_formatted": "$9.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    631278,
+                    39020
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Jagged Alliance 1: Gold Edition",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 631278,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Jagged Alliance Gold Limited Free Promotional Package - Sep 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 39020,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Jagged Alliance Gold - $9.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 999
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": true,
+                    "linux": true
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Strategy"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_4dca070d4561a293bb6378b7047736cf5077028c.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_4dca070d4561a293bb6378b7047736cf5077028c.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_bc5227cb7ffee73ab2c8273db4325fdb5cf3682d.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_bc5227cb7ffee73ab2c8273db4325fdb5cf3682d.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_a048632c2ffc26aac87cb74652b2fa36693fc3ec.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_a048632c2ffc26aac87cb74652b2fa36693fc3ec.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_97fdc2088d3144cac96d1e82202f5f84fc6694cb.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_97fdc2088d3144cac96d1e82202f5f84fc6694cb.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_965c4ddcb154451518e802ea9224ebbc19b3af99.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_965c4ddcb154451518e802ea9224ebbc19b3af99.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_79a3bfa01d9db721be1e5af444f7ea535448bbae.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_79a3bfa01d9db721be1e5af444f7ea535448bbae.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_db98f4b6600daffe99f836644e402a34e566dcb3.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_db98f4b6600daffe99f836644e402a34e566dcb3.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_4dca070d4561a293bb6378b7047736cf5077028c.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_4dca070d4561a293bb6378b7047736cf5077028c.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 8,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_bc5227cb7ffee73ab2c8273db4325fdb5cf3682d.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_bc5227cb7ffee73ab2c8273db4325fdb5cf3682d.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 9,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_db98f4b6600daffe99f836644e402a34e566dcb3.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_db98f4b6600daffe99f836644e402a34e566dcb3.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 10,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_965c4ddcb154451518e802ea9224ebbc19b3af99.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_965c4ddcb154451518e802ea9224ebbc19b3af99.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 11,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_a048632c2ffc26aac87cb74652b2fa36693fc3ec.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_a048632c2ffc26aac87cb74652b2fa36693fc3ec.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 12,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_97fdc2088d3144cac96d1e82202f5f84fc6694cb.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_97fdc2088d3144cac96d1e82202f5f84fc6694cb.1920x1080.jpg?t=1631811802"
+                    },
+                    {
+                        "id": 13,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_79a3bfa01d9db721be1e5af444f7ea535448bbae.600x338.jpg?t=1631811802",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/283270/ss_79a3bfa01d9db721be1e5af444f7ea535448bbae.1920x1080.jpg?t=1631811802"
+                    }
+                ],
+                "recommendations": {
+                    "total": 115
+                },
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Apr 23, 2014"
+                },
+                "support_info": {
+                    "url": "",
+                    "email": "support@quanticlab.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/283270/page_bg_generated_v6b.jpg?t=1631811802",
                 "content_descriptors": {
                     "ids": [],
                     "notes": null
