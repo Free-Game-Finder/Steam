@@ -1,53 +1,50 @@
 {
-    "1748780": {
-        "1748780": {
+    "46510": {
+        "46510": {
             "success": true,
             "data": {
-                "type": "dlc",
-                "name": "Minion Masters - Mordar\u2019s Malediction",
-                "steam_appid": 1748780,
+                "type": "game",
+                "name": "Syberia II",
+                "steam_appid": 46510,
                 "required_age": 0,
                 "is_free": true,
-                "controller_support": "full",
-                "detailed_description": "Mordar the Mad Necromancer\u2019s cruelty knows no bounds. Mordar\u2019s Malediction is a great +300% value bundle that gives you what you need to build your own Mordar deck, including the Mordar master himself and the infamous Ghost card (Legendary!). It also gives you a headstart in this month\u2019s Season Pass.<br> <br><strong>Includes:</strong><br><ul class=\"bb_ul\"><li>Mordar (Master)<br></li><li>Soul Collector Mordar (Legendary Skin)<br></li><li>3x Ghost (Legendary Card)<br></li><li>20x Spirit Vessel<br></li><li>20x Undying Skeleton<br></li><li>5x Power Tokens (Get 5 extra random surprises)<br></li><li>3x Season Pass Tiers </li></ul><br>Mordar\u2019s specialty is raising minions from the dead with his Tombstone ability. Use Ghost to take over your opponent\u2019s minions, then raise them from the dead on your side! Use your trusted skeleton servants to bolster your ranks: Undying Skeleton won\u2019t stay dead for long, and Spirit Vessel gives your other minions a bonus on death. Use all this death-y goodness and more to overwhelm your opponents!<br>With this Master Box, you have the perfect kit to become a supreme necromancer!",
-                "about_the_game": "Mordar the Mad Necromancer\u2019s cruelty knows no bounds. Mordar\u2019s Malediction is a great +300% value bundle that gives you what you need to build your own Mordar deck, including the Mordar master himself and the infamous Ghost card (Legendary!). It also gives you a headstart in this month\u2019s Season Pass.<br> <br><strong>Includes:</strong><br><ul class=\"bb_ul\"><li>Mordar (Master)<br></li><li>Soul Collector Mordar (Legendary Skin)<br></li><li>3x Ghost (Legendary Card)<br></li><li>20x Spirit Vessel<br></li><li>20x Undying Skeleton<br></li><li>5x Power Tokens (Get 5 extra random surprises)<br></li><li>3x Season Pass Tiers </li></ul><br>Mordar\u2019s specialty is raising minions from the dead with his Tombstone ability. Use Ghost to take over your opponent\u2019s minions, then raise them from the dead on your side! Use your trusted skeleton servants to bolster your ranks: Undying Skeleton won\u2019t stay dead for long, and Spirit Vessel gives your other minions a bonus on death. Use all this death-y goodness and more to overwhelm your opponents!<br>With this Master Box, you have the perfect kit to become a supreme necromancer!",
-                "short_description": "Mordar the Mad Necromancer\u2019s cruelty knows no bounds. Mordar\u2019s Malediction is a great +300% value bundle that gives you what you need to build your own Mordar deck, including the Mordar master himself and the infamous Ghost card (Legendary!). It also gives you a headstart in this month\u2019s Season Pass",
-                "fullgame": {
-                    "appid": "489520",
-                    "name": "Minion Masters"
-                },
-                "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1748780/header.jpg?t=1632157120",
-                "website": "http://minionmastersthegame.com",
+                "detailed_description": "<h1>Discover our new game coming soon:</h1><p><a href=\"https://store.steampowered.com/app/1449320/Alfred_Hitchcock__Vertigo/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1449320/Alfred_Hitchcock__Vertigo/</a></p><br><h1>About the Game</h1>Having searched Eastern and Western Europe for a missing heir, Kate Walker finally completed her long and arduous journey, obtaining the signature of Hans Voralberg and closing the automaton factory buyout.<br>\t\t\t\tMission accomplished? Not for this sophisticated New York lawyer\u2026<br>\t\t\t\tAn unlikely pair, young Kate Walker and old, eccentric Hans Voralberg now set off on a journey together: in search of the last of the fabled Syberian mammoths at the heart of a long and forgotten universe. The surreal quest Hans began alone several years ago will come to a final close as he and Kate face obstacles far more dangerous than ever before, testing their courage and determination.<br>\t\t\t\tFar and beyond, a mystical Syberia awaits their arrival\u2026<br>\t\t\t\t<h2 class=\"bb_tag\">Key Features</h2>\t\t\t\t<ul class=\"bb_ul\"><li>Original and captivating storyline<br>\t\t\t\t</li><li>Rich and intriguing new characters with new, realistically detailed 3D environments<br>\t\t\t\t</li><li>Completely integrated, original puzzles that test the players skill throughout the game<br>\t\t\t\t</li></ul>",
+                "about_the_game": "Having searched Eastern and Western Europe for a missing heir, Kate Walker finally completed her long and arduous journey, obtaining the signature of Hans Voralberg and closing the automaton factory buyout.<br>\t\t\t\tMission accomplished? Not for this sophisticated New York lawyer\u2026<br>\t\t\t\tAn unlikely pair, young Kate Walker and old, eccentric Hans Voralberg now set off on a journey together: in search of the last of the fabled Syberian mammoths at the heart of a long and forgotten universe. The surreal quest Hans began alone several years ago will come to a final close as he and Kate face obstacles far more dangerous than ever before, testing their courage and determination.<br>\t\t\t\tFar and beyond, a mystical Syberia awaits their arrival\u2026<br>\t\t\t\t<h2 class=\"bb_tag\">Key Features</h2>\t\t\t\t<ul class=\"bb_ul\"><li>Original and captivating storyline<br>\t\t\t\t</li><li>Rich and intriguing new characters with new, realistically detailed 3D environments<br>\t\t\t\t</li><li>Completely integrated, original puzzles that test the players skill throughout the game<br>\t\t\t\t</li></ul>",
+                "short_description": "Having searched Eastern and Western Europe for a missing heir, Kate Walker finally completed her long and arduous journey, obtaining the signature of Hans Voralberg and closing the automaton factory buyout. Mission accomplished?",
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain, Italian<strong>*</strong>, Japanese, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "reviews": "\u201cIf you loved the first one or thought that it would be excellent if only the puzzles were more challenging, this is a game you will not want to be without.\u201d<br />\r\n80% \u2013 AdventureGamers<br />\r\n\t\t\t\t         \u201cLike the final part of 'The Lord of the Rings,' the completion of the journey of Hans and Kate deserves the highest marks.\u201d<br />\r\n100% \u2013 Quandary<br />\r\n\t\t\t\t         \u201cIt has a great storyline that grips you from the get-go. Superb graphics, sound and music push Syberia II above being good, and just short of being great.\u201d<br />\r\n86% \u2013 IGN",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/46510/header.jpg?t=1632333190",
+                "website": null,
                 "pc_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3, 2.4 Ghz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GT 240 or equivalent, minimum 512 MB of VRAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+                    "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/10<br>\t\t\t\t</li><li><strong>Processor:</strong> 1.5GHz CPU <br>\t\t\t\t</li><li><strong>Memory:</strong> 512MB<br>\t\t\t\t</li><li><strong>Hard Disk Space:</strong> 1.5GB<br>\t\t\t\t</li><li><strong>Video Card:</strong> DirectX compatible graphics card with 128 MB memory<br>\t\t\t\t</li><li><strong>DirectX\u00ae:</strong> 9.0c<br>\t\t\t\t</li><li><strong>Sound:</strong> Sound card with DirectX 9.0c support\t<br>\t\t\t</li></ul><ul class=\"bb_ul\"><li></li></ul>"
                 },
                 "mac_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12.4+<br></li><li><strong>Processor:</strong> Intel Core i3, 2.4 Ghz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+                    "minimum": "<ul class=\"bb_ul\"><li>Mac OS X\t10.8\t*<br>\t\t\t\t</li><li><strong>CPU Type:</strong> Intel Mac Only<br>\t\t\t\t</li><li><strong>CPU Speed: </strong>1.5 GHz<br>\t\t\t\t</li><li><strong>System RAM:</strong> 512 MB<br>\t\t\t\t</li><li><strong>Drive Space:</strong> 2.5 GB<br>\t\t\t\t</li><li><strong>Video RAM:</strong> 128 MB<br>\t\t\t\t</li><li><strong>Video (ati): </strong>ATI Radeon HD 2400 XT *<br>\t\t\t\t</li><li><strong>Video (nvidia):</strong> NVIDIA GeForce 8600M GT *<br>\t\t\t\t</li><li><strong>Video (intel):</strong> Intel HD Graphics *</li></ul><br>*Not compatible with MacOS Big Sur"
                 },
                 "linux_requirements": [],
+                "legal_notice": "2014 \u00a9 Microids. All rights reserved. Syberia 2 is a trademark of Anuman and Microids. All rights reserved. All other trademarks and copyrights are the properties of their respective owners.",
                 "developers": [
-                    "BetaDwarf"
+                    "Microids"
                 ],
                 "publishers": [
-                    "BetaDwarf"
+                    "Microids"
                 ],
                 "price_overview": {
                     "currency": "USD",
-                    "initial": 1499,
-                    "final": 1499,
+                    "initial": 1299,
+                    "final": 194,
                     "discount_percent": 100,
-                    "initial_formatted": "$14.99",
+                    "initial_formatted": "$12.99",
                     "final_formatted": "Free"
                 },
                 "packages": [
-                    631249,
-                    627110
+                    634706,
+                    8226
                 ],
                 "package_groups": [
                     {
                         "name": "default",
-                        "title": "Buy Minion Masters - Mordar\u2019s Malediction",
+                        "title": "Buy Syberia II",
                         "description": "",
                         "selection_text": "Select a purchase option",
                         "save_text": "",
@@ -55,24 +52,24 @@
                         "is_recurring_subscription": "false",
                         "subs": [
                             {
-                                "packageid": 631249,
+                                "packageid": 634706,
                                 "percent_savings_text": "-100% ",
                                 "percent_savings": 0,
-                                "option_text": "Minion Masters - Mordar\u2019s Malediction Limited Free Promotional Package - Sep 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_text": "Syberia 2 Limited Free Promotional Package - Sep 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
                                 "option_description": "",
                                 "can_get_free_license": "0",
                                 "is_free_license": true,
                                 "price_in_cents_with_discount": 0
                             },
                             {
-                                "packageid": 627110,
-                                "percent_savings_text": " ",
+                                "packageid": 8226,
+                                "percent_savings_text": "-85% ",
                                 "percent_savings": 0,
-                                "option_text": "Minion Masters - Mordar\u2019s Malediction - $14.99",
+                                "option_text": "Syberia 2 - <span class=\"discount_original_price\">$12.99</span> $1.94",
                                 "option_description": "",
                                 "can_get_free_license": "0",
                                 "is_free_license": false,
-                                "price_in_cents_with_discount": 1499
+                                "price_in_cents_with_discount": 194
                             }
                         ]
                     }
@@ -82,102 +79,93 @@
                     "mac": true,
                     "linux": false
                 },
+                "metacritic": {
+                    "score": 80,
+                    "url": "https://www.metacritic.com/game/pc/syberia-ii?ftag=MCD-06-10aaa1f"
+                },
                 "categories": [
                     {
                         "id": 2,
                         "description": "Single-player"
                     },
                     {
-                        "id": 1,
-                        "description": "Multi-player"
-                    },
-                    {
-                        "id": 49,
-                        "description": "PvP"
-                    },
-                    {
-                        "id": 36,
-                        "description": "Online PvP"
-                    },
-                    {
-                        "id": 9,
-                        "description": "Co-op"
-                    },
-                    {
-                        "id": 38,
-                        "description": "Online Co-op"
-                    },
-                    {
-                        "id": 27,
-                        "description": "Cross-Platform Multiplayer"
-                    },
-                    {
-                        "id": 21,
-                        "description": "Downloadable Content"
-                    },
-                    {
-                        "id": 22,
-                        "description": "Steam Achievements"
-                    },
-                    {
-                        "id": 28,
-                        "description": "Full controller support"
-                    },
-                    {
                         "id": 29,
                         "description": "Steam Trading Cards"
                     },
                     {
-                        "id": 35,
-                        "description": "In-App Purchases"
+                        "id": 41,
+                        "description": "Remote Play on Phone"
                     },
                     {
-                        "id": 23,
-                        "description": "Steam Cloud"
+                        "id": 42,
+                        "description": "Remote Play on Tablet"
                     }
                 ],
                 "genres": [
                     {
-                        "id": "1",
-                        "description": "Action"
-                    },
-                    {
                         "id": "25",
                         "description": "Adventure"
-                    },
-                    {
-                        "id": "37",
-                        "description": "Free to Play"
-                    },
-                    {
-                        "id": "23",
-                        "description": "Indie"
-                    },
-                    {
-                        "id": "3",
-                        "description": "RPG"
-                    },
-                    {
-                        "id": "2",
-                        "description": "Strategy"
                     }
                 ],
                 "screenshots": [
                     {
                         "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1748780/ss_d2ef7c33cebc6c0605d8b6952998ec0d2cd94ffc.600x338.jpg?t=1632157120",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1748780/ss_d2ef7c33cebc6c0605d8b6952998ec0d2cd94ffc.1920x1080.jpg?t=1632157120"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_d63d6ef1a75a5f4198fb624dd49ef68053190c29.600x338.jpg?t=1632333190",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_d63d6ef1a75a5f4198fb624dd49ef68053190c29.1920x1080.jpg?t=1632333190"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_00ba0291f32c20c14651c7f8b290ec222cb2d0e2.600x338.jpg?t=1632333190",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_00ba0291f32c20c14651c7f8b290ec222cb2d0e2.1920x1080.jpg?t=1632333190"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_e5e6728554a7b4c1024af4d4ede021821adf1370.600x338.jpg?t=1632333190",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_e5e6728554a7b4c1024af4d4ede021821adf1370.1920x1080.jpg?t=1632333190"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_f058357e16c7a4518ca2ca82d2aec856ea153bbb.600x338.jpg?t=1632333190",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_f058357e16c7a4518ca2ca82d2aec856ea153bbb.1920x1080.jpg?t=1632333190"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_a5594b823644a91e5273f803407f5da607f77ead.600x338.jpg?t=1632333190",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_a5594b823644a91e5273f803407f5da607f77ead.1920x1080.jpg?t=1632333190"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_8e62348881304fa68f7a5514fc954465050b8fa3.600x338.jpg?t=1632333190",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_8e62348881304fa68f7a5514fc954465050b8fa3.1920x1080.jpg?t=1632333190"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_5c75ad65877812bbfe695c651767529396a621ae.600x338.jpg?t=1632333190",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_5c75ad65877812bbfe695c651767529396a621ae.1920x1080.jpg?t=1632333190"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_4d9261bc5f793813f2f5787c35861d104073122e.600x338.jpg?t=1632333190",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_4d9261bc5f793813f2f5787c35861d104073122e.1920x1080.jpg?t=1632333190"
+                    },
+                    {
+                        "id": 8,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_4a1605cc47c7837582856243529ae24c6f2aa040.600x338.jpg?t=1632333190",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46510/ss_4a1605cc47c7837582856243529ae24c6f2aa040.1920x1080.jpg?t=1632333190"
                     }
                 ],
+                "recommendations": {
+                    "total": 1057
+                },
                 "release_date": {
                     "coming_soon": false,
-                    "date": "Sep 20, 2021"
+                    "date": "May 19, 2011"
                 },
                 "support_info": {
                     "url": "",
-                    "email": "support@betadwarf.com"
+                    "email": "support@microids.com"
                 },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1748780/page_bg_generated_v6b.jpg?t=1632157120",
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/46510/page_bg_generated_v6b.jpg?t=1632333190",
                 "content_descriptors": {
                     "ids": [],
                     "notes": null
@@ -185,50 +173,53 @@
             }
         }
     },
-    "1260130": {
-        "1260130": {
+    "46500": {
+        "46500": {
             "success": true,
             "data": {
                 "type": "game",
-                "name": "Banana Hell",
-                "steam_appid": 1260130,
+                "name": "Syberia",
+                "steam_appid": 46500,
                 "required_age": 0,
                 "is_free": true,
-                "controller_support": "full",
-                "detailed_description": "<strong>Banana Hell</strong> is a platform jumping challenge game, move upwards to collect mysterious crystals! An adventure that will require full control and mastery of your jumping techniques. An extremely hard platform game filled with banana monologues.<h2 class=\"bb_tag\">Gameplay:</h2><strong>- Jumping your way up!</strong><br>Jump through the platforms and move your way up to complete the levels! Avoid the enemies or you'll be knocked down, simple as that (or maybe not).<br><br><strong>- Simple controls, but hard to master!</strong><br>The right time to move, the precise moment to duck, and the perfect jump, you will need to master these simple commands to beat the game. Maybe it sounds easy, but it's harder than it looks!<br><br><strong>- Extremely challenging!</strong><br>It's a really hard game, prepare to spend hours to finish! Pixel perfect jumps, using the enemies in your favor, and progressively harder design, can you beat this?<br><br><strong>- Banana monologues!</strong><br>You are not alone in this quest, Bananaman is a very chattery person. You've got an amazing company full of bad jokes!<h2 class=\"bb_tag\">-The higher you climb, the heavier you fall!</h2>- 5 extremely challenging levels!<br>- Over 300 banana lines of speech!<br><br>&quot;This is a hard game. I mean... really hard. A rage game, some would say.<br>And it's about me, a Banana... that's also a man, at the same time I mean -- I'm sorry is this too confusing? This game doesn't make sense, I know.<br>Ah, I've forgotten to tell you, I'm very annoying, and also don't like you - the player.&quot;<br>-- 2020, Bananaman Johnson about Banana Hell.",
-                "about_the_game": "<strong>Banana Hell</strong> is a platform jumping challenge game, move upwards to collect mysterious crystals! An adventure that will require full control and mastery of your jumping techniques. An extremely hard platform game filled with banana monologues.<h2 class=\"bb_tag\">Gameplay:</h2><strong>- Jumping your way up!</strong><br>Jump through the platforms and move your way up to complete the levels! Avoid the enemies or you'll be knocked down, simple as that (or maybe not).<br><br><strong>- Simple controls, but hard to master!</strong><br>The right time to move, the precise moment to duck, and the perfect jump, you will need to master these simple commands to beat the game. Maybe it sounds easy, but it's harder than it looks!<br><br><strong>- Extremely challenging!</strong><br>It's a really hard game, prepare to spend hours to finish! Pixel perfect jumps, using the enemies in your favor, and progressively harder design, can you beat this?<br><br><strong>- Banana monologues!</strong><br>You are not alone in this quest, Bananaman is a very chattery person. You've got an amazing company full of bad jokes!<h2 class=\"bb_tag\">-The higher you climb, the heavier you fall!</h2>- 5 extremely challenging levels!<br>- Over 300 banana lines of speech!<br><br>&quot;This is a hard game. I mean... really hard. A rage game, some would say.<br>And it's about me, a Banana... that's also a man, at the same time I mean -- I'm sorry is this too confusing? This game doesn't make sense, I know.<br>Ah, I've forgotten to tell you, I'm very annoying, and also don't like you - the player.&quot;<br>-- 2020, Bananaman Johnson about Banana Hell.",
-                "short_description": "Jump your way to get the blue diamonds as you try to survive a very annoying banana monologue! A REALLY HARD game!",
-                "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/header.jpg?t=1632168490",
+                "detailed_description": "<h1>Discover our new adventure, coming soon:</h1><p><a href=\"https://store.steampowered.com/app/1449320/Alfred_Hitchcock__Vertigo/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1449320/Alfred_Hitchcock__Vertigo/</a></p><br><h1>About the Game</h1>Kate Walker, a young ambitious lawyer from New York, is handed what seems a fairly straight forward assignment - a quick stopover to handle the sale of an old automaton factory hidden in the alpine valleys, then straight back home to the US.<br><br>Little did she imagine when embarking on this task that her life would be turned upside down. On her expedition across Europe, traveling from Western Europe to the far reaches of Eastern Russia, she encounters a host of incredible characters and locations in her attempt to track down Hans, the genius inventor - the final key to unlock the mystery of Syberia. Her voyage across land and time throws all she values into question, while the deal she sets out to sign turns into a pact with destiny.<br><br>\t\t\t\t\t\t\t<h2 class=\"bb_tag\">Key Features</h2>\t\t\t\t\t\t\t<ul class=\"bb_ul\"><li>A gripping script that goes beyond your imagination<br>\t\t\t\t\t\t\t</li><li>Rich and intriguing characters with detailed and realistic 3D environments<br>\t\t\t\t\t\t\t</li><li>Film-like camera angles, movements and framing<br>\t\t\t\t\t\t\t</li><li>Original and creative puzzles (completely integrated into the scenario)<br>\t\t\t\t\t\t\t</li></ul>",
+                "about_the_game": "Kate Walker, a young ambitious lawyer from New York, is handed what seems a fairly straight forward assignment - a quick stopover to handle the sale of an old automaton factory hidden in the alpine valleys, then straight back home to the US.<br><br>Little did she imagine when embarking on this task that her life would be turned upside down. On her expedition across Europe, traveling from Western Europe to the far reaches of Eastern Russia, she encounters a host of incredible characters and locations in her attempt to track down Hans, the genius inventor - the final key to unlock the mystery of Syberia. Her voyage across land and time throws all she values into question, while the deal she sets out to sign turns into a pact with destiny.<br><br>\t\t\t\t\t\t\t<h2 class=\"bb_tag\">Key Features</h2>\t\t\t\t\t\t\t<ul class=\"bb_ul\"><li>A gripping script that goes beyond your imagination<br>\t\t\t\t\t\t\t</li><li>Rich and intriguing characters with detailed and realistic 3D environments<br>\t\t\t\t\t\t\t</li><li>Film-like camera angles, movements and framing<br>\t\t\t\t\t\t\t</li><li>Original and creative puzzles (completely integrated into the scenario)<br>\t\t\t\t\t\t\t</li></ul>",
+                "short_description": "Join Kate Walker as she travels to remote locations and time periods in this timeless voyage to discover her true destiny.",
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Italian<strong>*</strong>, Japanese, Polish<strong>*</strong>, Russian<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "reviews": "\u201cProvides a huge dose of what adventure gamers are hungry for: a rich story, complicated characters, tons of puzzles and exploration of a series of beautiful and intriguing environments.\u201d<br><strong>100%</strong> \u2013 JustAdventure<br><br>\u201cSyberia is an adventure-game tour de force, with an engrossing story, a truly imaginative gameworld, and stunning visuals.\u201d<br><strong>91%</strong> \u2013 Gamespot<br><br>\u201cIt will delight those of you who are hungry for something different than your average adventure title\u201d<br><strong>90%</strong> \u2013 Gamezone",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/46500/header.jpg?t=1632765569",
                 "website": null,
                 "pc_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64-bit Version)<br></li><li><strong>Processor:</strong> Intel Core2Duo E8200 @ 2.6 GHz or AMD Athlon II X2 240 @ 2.8 GHz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce 8800 GT or AMD Radeon HD2900 XT (512MB VRAM with Shader Model 4.0 or higher)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers<br></li><li><strong>Additional Notes:</strong> Windows-compatible keyboard required, optional Microsoft XBOX360 controller or compatible</li></ul>",
-                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 (64-bit Version)<br></li><li><strong>Processor:</strong> Intel Core2Quad Q8400 @ 2.6 GHz or AMD Athlon II X4 620 @ 2.6 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> nVidia GeForce GTX260 or AMD Radeon HD4870 (512MB VRAM with Shader Model 4.0 or higher)<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Sound Card:</strong> DirectX Compatible Sound Card with latest drivers<br></li><li><strong>Additional Notes:</strong> Windows-compatible keyboard required, optional Microsoft XBOX360 controller or compatible</li></ul>"
+                    "minimum": "<ul class=\"bb_ul\"><li><strong>OS:</strong> Windows XP/Vista/7/10<br>\t\t\t\t</li><li><strong>Processor:</strong> 1GHz CPU <br>\t\t\t\t</li><li><strong>Memory:</strong> 512MB<br>\t\t\t\t</li><li><strong>Hard Disk Space:</strong> 1.2GB<br>\t\t\t\t</li><li><strong>Video Card:</strong> DirectX compatible graphics card with 128 MB memory<br>\t\t\t\t</li><li><strong>DirectX\u00ae:</strong> 9.0c<br>\t\t\t\t</li><li><strong>Sound:</strong> Sound card with DirectX 9.0c support\t<br>\t\t\t</li></ul>"
                 },
-                "mac_requirements": [],
+                "mac_requirements": {
+                    "minimum": "<ul class=\"bb_ul\"><li>OS: 10.6 or later*<br></li><li>CPU: 600 Mhz (INTEL ONLY)<br></li><li>RAM: 128 MB<br></li><li>Hard Drive: 1,5 GB</li></ul><br>*Not compatible with MacOS Big Sur"
+                },
                 "linux_requirements": [],
+                "legal_notice": "2014 \u00a9 Microids. All rights reserved. Syberia is a trademark of Anuman and Microids. All rights reserved. All other trademarks and copyrights are the properties of their respective owners.",
                 "developers": [
-                    "Petriheart"
+                    "Microids"
                 ],
                 "publishers": [
-                    "Petriheart"
+                    "Microids"
                 ],
                 "price_overview": {
                     "currency": "USD",
-                    "initial": 299,
-                    "final": 299,
+                    "initial": 1299,
+                    "final": 194,
                     "discount_percent": 100,
-                    "initial_formatted": "$2.99",
+                    "initial_formatted": "$12.99",
                     "final_formatted": "Free"
                 },
                 "packages": [
-                    633793,
-                    437740
+                    634705,
+                    634704,
+                    8225
                 ],
                 "package_groups": [
                     {
                         "name": "default",
-                        "title": "Buy Banana Hell",
+                        "title": "Buy Syberia",
                         "description": "",
                         "selection_text": "Select a purchase option",
                         "save_text": "",
@@ -236,32 +227,36 @@
                         "is_recurring_subscription": "false",
                         "subs": [
                             {
-                                "packageid": 633793,
+                                "packageid": 634705,
                                 "percent_savings_text": "-100% ",
                                 "percent_savings": 0,
-                                "option_text": "Banana Hell Limited Free Promotional Package - Sep 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_text": "Syberia Limited Free Promotional Package - Sep 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
                                 "option_description": "",
                                 "can_get_free_license": "0",
                                 "is_free_license": true,
                                 "price_in_cents_with_discount": 0
                             },
                             {
-                                "packageid": 437740,
-                                "percent_savings_text": " ",
+                                "packageid": 8225,
+                                "percent_savings_text": "-85% ",
                                 "percent_savings": 0,
-                                "option_text": "Banana Hell - $2.99",
+                                "option_text": "Syberia - <span class=\"discount_original_price\">$12.99</span> $1.94",
                                 "option_description": "",
                                 "can_get_free_license": "0",
                                 "is_free_license": false,
-                                "price_in_cents_with_discount": 299
+                                "price_in_cents_with_discount": 194
                             }
                         ]
                     }
                 ],
                 "platforms": {
                     "windows": true,
-                    "mac": false,
+                    "mac": true,
                     "linux": false
+                },
+                "metacritic": {
+                    "score": 82,
+                    "url": "https://www.metacritic.com/game/pc/syberia?ftag=MCD-06-10aaa1f"
                 },
                 "categories": [
                     {
@@ -269,81 +264,92 @@
                         "description": "Single-player"
                     },
                     {
-                        "id": 28,
-                        "description": "Full controller support"
+                        "id": 29,
+                        "description": "Steam Trading Cards"
+                    },
+                    {
+                        "id": 41,
+                        "description": "Remote Play on Phone"
+                    },
+                    {
+                        "id": 42,
+                        "description": "Remote Play on Tablet"
                     }
                 ],
                 "genres": [
                     {
+                        "id": "25",
+                        "description": "Adventure"
+                    },
+                    {
                         "id": "4",
                         "description": "Casual"
-                    },
-                    {
-                        "id": "23",
-                        "description": "Indie"
-                    },
-                    {
-                        "id": "2",
-                        "description": "Strategy"
                     }
                 ],
                 "screenshots": [
                     {
                         "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_7aa4fdc78677eb4cd3e0c606d8a94e8b133f5397.600x338.jpg?t=1632168490",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_7aa4fdc78677eb4cd3e0c606d8a94e8b133f5397.1920x1080.jpg?t=1632168490"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_501c62765e70e40218b9f75b85be8c3f26ecf06f.600x338.jpg?t=1632765569",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_501c62765e70e40218b9f75b85be8c3f26ecf06f.1920x1080.jpg?t=1632765569"
                     },
                     {
                         "id": 1,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_c62e51370ed1753f7ed7efced0b71a6b31e168ce.600x338.jpg?t=1632168490",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_c62e51370ed1753f7ed7efced0b71a6b31e168ce.1920x1080.jpg?t=1632168490"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_730b51f627a020e6b0b2f174d4f8d7a1ef52f8a8.600x338.jpg?t=1632765569",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_730b51f627a020e6b0b2f174d4f8d7a1ef52f8a8.1920x1080.jpg?t=1632765569"
                     },
                     {
                         "id": 2,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_dcd6922fbfb73643b03a5c2844d03707d4794c74.600x338.jpg?t=1632168490",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_dcd6922fbfb73643b03a5c2844d03707d4794c74.1920x1080.jpg?t=1632168490"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_8925e46a4a89d8751e71791899784d25e09a25ca.600x338.jpg?t=1632765569",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_8925e46a4a89d8751e71791899784d25e09a25ca.1920x1080.jpg?t=1632765569"
                     },
                     {
                         "id": 3,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_39dd3272d3c8c0be010f9d7eb11474cba456a162.600x338.jpg?t=1632168490",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_39dd3272d3c8c0be010f9d7eb11474cba456a162.1920x1080.jpg?t=1632168490"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_5e55468140d084571cb9a439a00040705fd56e40.600x338.jpg?t=1632765569",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_5e55468140d084571cb9a439a00040705fd56e40.1920x1080.jpg?t=1632765569"
                     },
                     {
                         "id": 4,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_0408fe38826cfd5e96d616a936f891b5aa01f1d8.600x338.jpg?t=1632168490",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_0408fe38826cfd5e96d616a936f891b5aa01f1d8.1920x1080.jpg?t=1632168490"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_f4f3ed7ff9ce9b1c21e7ee0988977fac4f48dc99.600x338.jpg?t=1632765569",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_f4f3ed7ff9ce9b1c21e7ee0988977fac4f48dc99.1920x1080.jpg?t=1632765569"
                     },
                     {
                         "id": 5,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_556eaff0d9ddf05d653f42329687884ecaa6dba2.600x338.jpg?t=1632168490",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/ss_556eaff0d9ddf05d653f42329687884ecaa6dba2.1920x1080.jpg?t=1632168490"
-                    }
-                ],
-                "movies": [
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_dd3c16f7ed0f11daa8ca57ebedfd573c30d83d96.600x338.jpg?t=1632765569",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_dd3c16f7ed0f11daa8ca57ebedfd573c30d83d96.1920x1080.jpg?t=1632765569"
+                    },
                     {
-                        "id": 256794490,
-                        "name": "Banana Hell Trailer",
-                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256794490/movie.293x165.jpg?t=1596039490",
-                        "webm": {
-                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256794490/movie480_vp9.webm?t=1596039490",
-                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256794490/movie_max_vp9.webm?t=1596039490"
-                        },
-                        "mp4": {
-                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256794490/movie480.mp4?t=1596039490",
-                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256794490/movie_max.mp4?t=1596039490"
-                        },
-                        "highlight": true
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_63ffad447fc113b659ad0b3545e961c7840c9372.600x338.jpg?t=1632765569",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_63ffad447fc113b659ad0b3545e961c7840c9372.1920x1080.jpg?t=1632765569"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_8873be2a836daf8bc8334c464ead708d1eda2cbc.600x338.jpg?t=1632765569",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_8873be2a836daf8bc8334c464ead708d1eda2cbc.1920x1080.jpg?t=1632765569"
+                    },
+                    {
+                        "id": 8,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_979a7d1c1f9e6e463b52622158c810b672d04475.600x338.jpg?t=1632765569",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_979a7d1c1f9e6e463b52622158c810b672d04475.1920x1080.jpg?t=1632765569"
+                    },
+                    {
+                        "id": 9,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_85f7c039593596c20e230b5611f6bc0874261b6a.600x338.jpg?t=1632765569",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/46500/ss_85f7c039593596c20e230b5611f6bc0874261b6a.1920x1080.jpg?t=1632765569"
                     }
                 ],
+                "recommendations": {
+                    "total": 2530
+                },
                 "release_date": {
                     "coming_soon": false,
-                    "date": "Nov 7, 2020"
+                    "date": "May 19, 2011"
                 },
                 "support_info": {
                     "url": "",
-                    "email": "petriheart@gmail.com"
+                    "email": "support@microids.com"
                 },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1260130/page_bg_generated_v6b.jpg?t=1632168490",
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/46500/page_bg_generated_v6b.jpg?t=1632765569",
                 "content_descriptors": {
                     "ids": [],
                     "notes": null
