@@ -256,5 +256,5 @@ steam_item.get_price_data()
 print("Getting Free Games")
 steam_item.get_free_games()
 
-print("Getting Discounted Games")
-steam_item.get_discounted_games()
+# print("Getting Discounted Games")
+# steam_item.get_discounted_games()
