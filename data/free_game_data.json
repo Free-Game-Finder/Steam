@@ -1,1 +1,164 @@
-{}
+{
+    "1628251": {
+        "1628251": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "RiMS Racing: The Bloody Beetroots Specials",
+                "steam_appid": 1628251,
+                "required_age": 0,
+                "is_free": true,
+                "controller_support": "full",
+                "detailed_description": "As the composer of the game's soundtrack and a motorcycling fan, Sir Bob Cornelius Rifo, aka The Bloody Beetroots, worked with Dainese, AGV and Ducati to create a livery for the Ducati Panigale V4 R and an exclusive full rider outfit, including boots, helmet, gloves and leather jacket! Wear this unique equipment for RiMS Racing with pride!",
+                "about_the_game": "As the composer of the game's soundtrack and a motorcycling fan, Sir Bob Cornelius Rifo, aka The Bloody Beetroots, worked with Dainese, AGV and Ducati to create a livery for the Ducati Panigale V4 R and an exclusive full rider outfit, including boots, helmet, gloves and leather jacket! Wear this unique equipment for RiMS Racing with pride!",
+                "short_description": "Get a unique Ducati Panigale V4 R livery and complete rider outfit in partnership with Dainese and AGV in the colours of the famous electronic dance group The Bloody Beetroots.",
+                "fullgame": {
+                    "appid": "1346010",
+                    "name": "RiMS Racing"
+                },
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Arabic, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1628251/header.jpg?t=1634151879",
+                "website": null,
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-2300 or AMD FX-6300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVDIA GeForce GTX 750, 2 GB or AMD Radeon HD 7850, 2 GB<br></li><li><strong>DirectX:</strong> Version 11</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i7-4790 or AMD Ryzen 5 1500X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060, 6 GB or AMD Radeon RX 580, 4 GB<br></li><li><strong>DirectX:</strong> Version 11</li></ul>"
+                },
+                "mac_requirements": [],
+                "linux_requirements": [],
+                "legal_notice": "RiMS Racing \u00a92021 Published by Nacon and developed by RaceWard Studio. Aprilia \u00ae Official Licensee. Aprilia \u00ae is a registered trademark owned by Piaggio & C. S.p.A. and used under license by Nacon SAS. \"SUZUKI\", \"S\", and \u201cGSX-R\u201d are trademarks of Suzuki Motor Corporation and used under license. However, this product is neither manufactured nor distributed by Suzuki Motor Corporation. HONDA OFFICIAL LICENSED PRODUCT.  Designed, manufactured, and distributed by or for Nacon SA.  Intellectual property of Honda Motor Co., Ltd. used under license by American Honda Motor Co. Inc.  The BMW logo, the BMW word mark and the BMW model designation are trademarks of BMW AG and are used under License. Official Product under license of Ducati Motor Holding S.p.A. Trademarks, design patents and copyrights are used with the approval of the owner N\u00dcRBURGRING 1927 GmbH & Co. KG. MOTUL and the MOTUL LOGO are registered trademarks of MOTUL (SA). All rights reserved. The CASTROL logo, POWER 1 and OIL IN ACTION \u2013 POWER 1 are trademarks and are used with permission from Castrol Limited. PIRELLI and PIRELLI logo are trademarks of Pirelli & C. S.p.A.; SCORPION, SCORPION logo, METZELER, ELEPHANT logo, \u201cFLASH\u201d logo are trademarks of Pirelli Tyre S.p.A. All trademarks are used under license. Tyre designs are property of Pirelli Tyre S.p.A. and used under license.",
+                "developers": [
+                    "Raceward Studio"
+                ],
+                "publishers": [
+                    "Nacon"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 399,
+                    "final": 339,
+                    "discount_percent": 100,
+                    "initial_formatted": "$3.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    643140,
+                    578081
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy RiMS Racing: The Bloody Beetroots Specials",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 643140,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "RiMS Racing: The Bloody Beetroots Specials Limited Free Promotional Package - Oct 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 578081,
+                                "percent_savings_text": "-15% ",
+                                "percent_savings": 0,
+                                "option_text": "RiMS Racing: The Bloody Beetroots Specials - <span class=\"discount_original_price\">$3.99</span> $3.39",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 339
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 37,
+                        "description": "Shared/Split Screen PvP"
+                    },
+                    {
+                        "id": 24,
+                        "description": "Shared/Split Screen"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    },
+                    {
+                        "id": 44,
+                        "description": "Remote Play Together"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "9",
+                        "description": "Racing"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulation"
+                    },
+                    {
+                        "id": "18",
+                        "description": "Sports"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1628251/ss_4fc3d6038b5271105d2c11969220c826d9f0eeb4.600x338.jpg?t=1634151879",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1628251/ss_4fc3d6038b5271105d2c11969220c826d9f0eeb4.1920x1080.jpg?t=1634151879"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Aug 19, 2021"
+                },
+                "support_info": {
+                    "url": "",
+                    "email": "support@nacon.fr"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1628251/page_bg_generated_v6b.jpg?t=1634151879",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    }
+}
