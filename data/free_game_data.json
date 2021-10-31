@@ -160,5 +160,247 @@
                 }
             }
         }
+    },
+    "556130": {
+        "556130": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Drones, The Human Condition",
+                "steam_appid": 556130,
+                "required_age": 0,
+                "is_free": true,
+                "controller_support": "full",
+                "detailed_description": "<h1>New Game Announcement</h1><p><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/556130/extras/wishlist-now-2.gif?t=1635544091\" /><br><a href=\"https://store.steampowered.com/app/1079500/Sky_Harrier_Alpha_Code/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/1079500/Sky_Harrier_Alpha_Code/</a></p><br><h1>About the Game</h1><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/556130/extras/about.gif?t=1635544091\" /><br>In 2084 Cloud 9 the world government body perfected armed AI Drones, a cloud controlled advanced robot species created from bio-mechanical material traded with alien races who influence power on earth. Guided by their infallible logic, the drones conclude: &quot;the human race is draining the earth's resources and therefore must be imprisoned and destroyed&quot;. <br>You can save Humanity!<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/556130/extras/dthc_gameplay.gif?t=1635544091\" /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/556130/extras/features.gif?t=1635544091\" /><br>Nostalgic arcade style gameplay, <br>13 levels of chaotic destruction,<br>Original adrenaline-pumping electronic sound track,<br>Secrets to uncover,<br>Achievements,<br>Trading Cards,<br>Full gamepad support.",
+                "about_the_game": "<img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/556130/extras/about.gif?t=1635544091\" /><br>In 2084 Cloud 9 the world government body perfected armed AI Drones, a cloud controlled advanced robot species created from bio-mechanical material traded with alien races who influence power on earth. Guided by their infallible logic, the drones conclude: &quot;the human race is draining the earth's resources and therefore must be imprisoned and destroyed&quot;. <br>You can save Humanity!<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/556130/extras/dthc_gameplay.gif?t=1635544091\" /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/556130/extras/features.gif?t=1635544091\" /><br>Nostalgic arcade style gameplay, <br>13 levels of chaotic destruction,<br>Original adrenaline-pumping electronic sound track,<br>Secrets to uncover,<br>Achievements,<br>Trading Cards,<br>Full gamepad support.",
+                "short_description": "An addictive fast paced twin stick arena shooter with banging electronic sound track, nostalgic nods and a barrage of flashing lights and bullets. Your task is simple, kill drones, free humans, don't die!",
+                "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/556130/header.jpg?t=1635544091",
+                "website": "https://ninjainatux.com",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows<br></li><li><strong>Processor:</strong> 2.2Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB VRAM<br></li><li><strong>DirectX:</strong> Version 9.0<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Quad Core 2.2Ghz+<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 3GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+                },
+                "mac_requirements": [],
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14, Steam OS<br></li><li><strong>Processor:</strong> 2.2Ghz<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> 512MB VRAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Quad Core 2.2Ghz+<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 3GB VRAM<br></li><li><strong>Storage:</strong> 200 MB available space</li></ul>"
+                },
+                "legal_notice": "\u00a9 ninjainatux 2016. Published by NIAT Media LTD All Rights Reserved.",
+                "developers": [
+                    "Blunt Games"
+                ],
+                "publishers": [
+                    "ninjainatux"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 599,
+                    "final": 599,
+                    "discount_percent": 100,
+                    "initial_formatted": "$5.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    649596,
+                    138918
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Drones, The Human Condition",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 649596,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Drones, The Human Condition Limited Free Promotional Package - Oct 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 138918,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Drones, The Human Condition - $5.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 599
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": true
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Steam Trading Cards"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 43,
+                        "description": "Remote Play on TV"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "18",
+                        "description": "Sports"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_ef29a5046c13ac452c4d5c062bd4a8011862f8ac.600x338.jpg?t=1635544091",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_ef29a5046c13ac452c4d5c062bd4a8011862f8ac.1920x1080.jpg?t=1635544091"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_689180bf8100a71432b2e15638d239db211a2063.600x338.jpg?t=1635544091",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_689180bf8100a71432b2e15638d239db211a2063.1920x1080.jpg?t=1635544091"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_9f9e9daa296e01e1110cd1e77c35efb65a020e6f.600x338.jpg?t=1635544091",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_9f9e9daa296e01e1110cd1e77c35efb65a020e6f.1920x1080.jpg?t=1635544091"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_00e65bb05e48751511683ee1aba1042a7ad3fa50.600x338.jpg?t=1635544091",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_00e65bb05e48751511683ee1aba1042a7ad3fa50.1920x1080.jpg?t=1635544091"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_a2a552b779d2598c064cc97b5a6ea080677624ba.600x338.jpg?t=1635544091",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_a2a552b779d2598c064cc97b5a6ea080677624ba.1920x1080.jpg?t=1635544091"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_5a5eec0c8dabc62704484d39315973b4dd130331.600x338.jpg?t=1635544091",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_5a5eec0c8dabc62704484d39315973b4dd130331.1920x1080.jpg?t=1635544091"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_bdf8861472bdd8dc1d429027d58384150905eb3b.600x338.jpg?t=1635544091",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_bdf8861472bdd8dc1d429027d58384150905eb3b.1920x1080.jpg?t=1635544091"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_0d3a0d5341812f9efc2da5287191c45bd272e30a.600x338.jpg?t=1635544091",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_0d3a0d5341812f9efc2da5287191c45bd272e30a.1920x1080.jpg?t=1635544091"
+                    },
+                    {
+                        "id": 8,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_aa0abb6920e6a801ad31894a8513a07b9ffbc928.600x338.jpg?t=1635544091",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/556130/ss_aa0abb6920e6a801ad31894a8513a07b9ffbc928.1920x1080.jpg?t=1635544091"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256674973,
+                        "name": "Game Play 1",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256674973/movie.293x165.jpg?t=1480030622",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256674973/movie480.webm?t=1480030622",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256674973/movie_max.webm?t=1480030622"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256674973/movie480.mp4?t=1480030622",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256674973/movie_max.mp4?t=1480030622"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "achievements": {
+                    "total": 9,
+                    "highlighted": [
+                        {
+                            "name": "Tweaker",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/556130/75d4b37ae6ebe7545e4f4886b726c41733075ec3.jpg"
+                        },
+                        {
+                            "name": "Debt Free",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/556130/2eb09727c23168a85985da6f2122c4ea47a1caa7.jpg"
+                        },
+                        {
+                            "name": "Dead Beef",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/556130/443222bf8af9d820da873a8c58103ad574b88cca.jpg"
+                        },
+                        {
+                            "name": "Off to the Scrapyard",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/556130/80478f20fc1bd31588f7cdf7281f499384de92f1.jpg"
+                        },
+                        {
+                            "name": "The Decommissioner ",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/556130/4dc2ed31b259276377c2f5353839a1ecebd122cd.jpg"
+                        },
+                        {
+                            "name": "Hack the Gibson",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/556130/0f1de2efc318a4f63d015b827871ca232fb4b903.jpg"
+                        },
+                        {
+                            "name": "Look at all the Sheeple",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/556130/e26948b5710f46fd8c6b00c7b47338e3e9a8e207.jpg"
+                        },
+                        {
+                            "name": "Save Humanity",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/556130/8699a78fc63b26ef7601826542ab8727c2d2892a.jpg"
+                        },
+                        {
+                            "name": "In the Main-Frame",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/556130/5ae65b54e2656dfed6126312f6833b2dc8a78402.jpg"
+                        }
+                    ]
+                },
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Dec 1, 2016"
+                },
+                "support_info": {
+                    "url": "https://www.ninjainatux.com",
+                    "email": "support@ninjainatux.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/556130/page_bg_generated_v6b.jpg?t=1635544091",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
     }
 }
