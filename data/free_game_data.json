@@ -16,7 +16,7 @@
                     "name": "World of Warships"
                 },
                 "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Czech, Japanese<strong>*</strong>, Polish<strong>*</strong>, Russian<strong>*</strong>, Thai, Turkish, Spanish - Spain, Korean<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Traditional Chinese<strong>*</strong>, Italian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Ukrainian, Dutch<strong>*</strong><br><strong>*</strong>languages with full audio support",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/844890/header.jpg?t=1636066737",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/844890/header.jpg?t=1637059501",
                 "website": "https://steam.worldofwarships.com/",
                 "pc_requirements": {
                     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 x64 SP1<br></li><li><strong>Processor:</strong> Intel Core 2 Duo 2.66 GHz, Core i3 2.5 GHz, AMD Athlon II X2 2.7 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GT 440/630, AMD Radeon HD 7660<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 43 GB available space<br></li><li><strong>Sound Card:</strong> DirectX 10.1<br></li><li><strong>Additional Notes:</strong> 1280\u00d7720</li></ul>",
@@ -150,33 +150,33 @@
                 "screenshots": [
                     {
                         "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_e485af573bbf910d623e76b0609cb3d942cb3b5f.600x338.jpg?t=1636066737",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_e485af573bbf910d623e76b0609cb3d942cb3b5f.1920x1080.jpg?t=1636066737"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_e485af573bbf910d623e76b0609cb3d942cb3b5f.600x338.jpg?t=1637059501",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_e485af573bbf910d623e76b0609cb3d942cb3b5f.1920x1080.jpg?t=1637059501"
                     },
                     {
                         "id": 1,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_add9add4c3b1a69c4683c9d2917895011953a4db.600x338.jpg?t=1636066737",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_add9add4c3b1a69c4683c9d2917895011953a4db.1920x1080.jpg?t=1636066737"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_add9add4c3b1a69c4683c9d2917895011953a4db.600x338.jpg?t=1637059501",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_add9add4c3b1a69c4683c9d2917895011953a4db.1920x1080.jpg?t=1637059501"
                     },
                     {
                         "id": 2,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_d02317bbb12041ececa7fbe31c0ff5a797705306.600x338.jpg?t=1636066737",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_d02317bbb12041ececa7fbe31c0ff5a797705306.1920x1080.jpg?t=1636066737"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_d02317bbb12041ececa7fbe31c0ff5a797705306.600x338.jpg?t=1637059501",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_d02317bbb12041ececa7fbe31c0ff5a797705306.1920x1080.jpg?t=1637059501"
                     },
                     {
                         "id": 3,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_d1f27e5afb732c41d69545093f7f83b2c05ae094.600x338.jpg?t=1636066737",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_d1f27e5afb732c41d69545093f7f83b2c05ae094.1920x1080.jpg?t=1636066737"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_d1f27e5afb732c41d69545093f7f83b2c05ae094.600x338.jpg?t=1637059501",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_d1f27e5afb732c41d69545093f7f83b2c05ae094.1920x1080.jpg?t=1637059501"
                     },
                     {
                         "id": 4,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_ed9fe79caf097737fbb6e5f93a4ca15ffcdf55f8.600x338.jpg?t=1636066737",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_ed9fe79caf097737fbb6e5f93a4ca15ffcdf55f8.1920x1080.jpg?t=1636066737"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_ed9fe79caf097737fbb6e5f93a4ca15ffcdf55f8.600x338.jpg?t=1637059501",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_ed9fe79caf097737fbb6e5f93a4ca15ffcdf55f8.1920x1080.jpg?t=1637059501"
                     },
                     {
                         "id": 5,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_103ce83566ab03a2898a0458dd8e5641abcf0c2b.600x338.jpg?t=1636066737",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_103ce83566ab03a2898a0458dd8e5641abcf0c2b.1920x1080.jpg?t=1636066737"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_103ce83566ab03a2898a0458dd8e5641abcf0c2b.600x338.jpg?t=1637059501",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/844890/ss_103ce83566ab03a2898a0458dd8e5641abcf0c2b.1920x1080.jpg?t=1637059501"
                     }
                 ],
                 "movies": [
@@ -206,7 +206,7 @@
                     "url": "https://wargaming.net/support/products/wows/",
                     "email": ""
                 },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/844890/page_bg_generated_v6b.jpg?t=1636066737",
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/844890/page_bg_generated_v6b.jpg?t=1637059501",
                 "content_descriptors": {
                     "ids": [],
                     "notes": null
