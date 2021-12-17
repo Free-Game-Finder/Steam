@@ -1,1 +1,196 @@
-{}
+{
+    "1262000": {
+        "1262000": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "Neon Abyss - Lovable Rogues Pack",
+                "steam_appid": 1262000,
+                "required_age": 0,
+                "is_free": true,
+                "controller_support": "full",
+                "detailed_description": "Add two new colorful rogues to your roster of characters, each with a unique ability to help you tackle the Abyss and bring the New Gods to their knees! <br><br><strong>Saya</strong><br><br>An experiment conducted by Titan Corp, Saya will bring a katana to the fight, slaying enemies in close combat with powerful sword strikes. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1262000/extras/Saya.gif?t=1639432737\" /><br><br><strong>Amir</strong><br><br>Another member who was subject to nefarious experiments by Titan Corp. Amir can preview the description of items without picking them up.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1262000/extras/Amir.gif?t=1639432737\" />",
+                "about_the_game": "Add two new colorful rogues to your roster of characters, each with a unique ability to help you tackle the Abyss and bring the New Gods to their knees! <br><br><strong>Saya</strong><br><br>An experiment conducted by Titan Corp, Saya will bring a katana to the fight, slaying enemies in close combat with powerful sword strikes. <br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1262000/extras/Saya.gif?t=1639432737\" /><br><br><strong>Amir</strong><br><br>Another member who was subject to nefarious experiments by Titan Corp. Amir can preview the description of items without picking them up.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1262000/extras/Amir.gif?t=1639432737\" />",
+                "short_description": "Want some back-up to take into Neon Abyss? Bring in the Lovable Rogues with this character pack containing two of Titan\u2019s experiments with their own unique abilities - the katana wielding Saya and mind-bending Amir.",
+                "fullgame": {
+                    "appid": "788100",
+                    "name": "Neon Abyss"
+                },
+                "supported_languages": "English, Simplified Chinese, French, Italian, German, Spanish - Spain, Japanese, Russian, Traditional Chinese",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/header.jpg?t=1639432737",
+                "website": "https://www.veewo.com/neonabyss",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E6320 (2*1866)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> GeForce 7600 GS (512 MB)<br></li><li><strong>DirectX:</strong> Version 11</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "legal_notice": "Neon Abyss \u00a9 2019 Veewo Games, Published under licence by TEAM17 Digital Limited.",
+                "developers": [
+                    "Veewo Games"
+                ],
+                "publishers": [
+                    "Team17"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 199,
+                    "final": 199,
+                    "discount_percent": 100,
+                    "initial_formatted": "$1.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    665642,
+                    438594
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Neon Abyss - Lovable Rogues Pack",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 665642,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "The Lovable Rogues Pack Limited Free Promotional Package - Dec 2021 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 438594,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Neon Abyss - The Lovable Rogues Pack - $1.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 199
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Adventure"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_8e0c586fd7115252541ebcc5e74c695cd2ee8190.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_8e0c586fd7115252541ebcc5e74c695cd2ee8190.1920x1080.jpg?t=1639432737"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_56431cb6f9caba8e842d6f1399b2220d44c63f5f.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_56431cb6f9caba8e842d6f1399b2220d44c63f5f.1920x1080.jpg?t=1639432737"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_dd17120029df700e16dccd1673636272cc870d24.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_dd17120029df700e16dccd1673636272cc870d24.1920x1080.jpg?t=1639432737"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_671922aedd1458ffce1e34729419f138ad59f21d.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_671922aedd1458ffce1e34729419f138ad59f21d.1920x1080.jpg?t=1639432737"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_ba6d3a8fedfe6e3973edf63c8b8429704e59f79b.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_ba6d3a8fedfe6e3973edf63c8b8429704e59f79b.1920x1080.jpg?t=1639432737"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_5f37bf68b8dd4acd90f88f0ebb47526be1fd2f32.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_5f37bf68b8dd4acd90f88f0ebb47526be1fd2f32.1920x1080.jpg?t=1639432737"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_e1184f844a7b722cb6be68540d7665f9f9231843.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_e1184f844a7b722cb6be68540d7665f9f9231843.1920x1080.jpg?t=1639432737"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_583086071eebd1e9637971c6c46bdd9f01d2de52.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_583086071eebd1e9637971c6c46bdd9f01d2de52.1920x1080.jpg?t=1639432737"
+                    },
+                    {
+                        "id": 8,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_16df5d1fad37baabee42a5e3a9f797e04e47737b.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_16df5d1fad37baabee42a5e3a9f797e04e47737b.1920x1080.jpg?t=1639432737"
+                    },
+                    {
+                        "id": 9,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_8082c9cd50f53262c3443ce0fd0c1b69de06db6f.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_8082c9cd50f53262c3443ce0fd0c1b69de06db6f.1920x1080.jpg?t=1639432737"
+                    },
+                    {
+                        "id": 10,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_351538eefc03328966e2e098bf63ed0306cb8763.600x338.jpg?t=1639432737",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/ss_351538eefc03328966e2e098bf63ed0306cb8763.1920x1080.jpg?t=1639432737"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Jul 22, 2020"
+                },
+                "support_info": {
+                    "url": "https://www.team17.com/support/",
+                    "email": "support@team17.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1262000/page_bg_generated_v6b.jpg?t=1639432737",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    }
+}
