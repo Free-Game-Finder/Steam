@@ -1,154 +1,4 @@
 {
-    "1438020": {
-        "1438020": {
-            "success": true,
-            "data": {
-                "type": "dlc",
-                "name": "Potion Commotion Fanbook",
-                "steam_appid": 1438020,
-                "required_age": 0,
-                "is_free": true,
-                "detailed_description": "Introducing the Potion Commotion Digital Fanbook!!<br>Featuring a variety of cool and interesting content about the game and its development.<h2 class=\"bb_tag\">In-Game Bonuses</h2>For purchasing &amp; installing the Fanbook, you will be rewarded with the following in-game goodies:<br><ul class=\"bb_ul\"><li>An instantly collectible 250 Tokens<br></li><li>Three Bonus Tokens for you to collect daily!<br></li><li>An exclusive Golden Wogglebogg Costume</li></ul><br><i>If you enjoyed Potion Commotion, then purchasing the Fanbook is a fantastic way to go the extra mile to help support the Developer's work on future updates and projects.</i><h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Character Profiles<br></li><li>Game Art<br></li><li>Cut Content<br></li><li>Commentary &amp; Trivia<br></li><li>And a bonus Puzzle Page, featuring fun and games!!</li></ul><br><strong>Get yourself a copy of the Potion Commotion Fanbook today!!</strong><br><br><i>To access a purchased Fanbook, go to Library &gt; Potion Commotion &gt; Manage &gt; Browse Local Files &gt; Potion Commotion Fanbook.pdf</i>",
-                "about_the_game": "Introducing the Potion Commotion Digital Fanbook!!<br>Featuring a variety of cool and interesting content about the game and its development.<h2 class=\"bb_tag\">In-Game Bonuses</h2>For purchasing &amp; installing the Fanbook, you will be rewarded with the following in-game goodies:<br><ul class=\"bb_ul\"><li>An instantly collectible 250 Tokens<br></li><li>Three Bonus Tokens for you to collect daily!<br></li><li>An exclusive Golden Wogglebogg Costume</li></ul><br><i>If you enjoyed Potion Commotion, then purchasing the Fanbook is a fantastic way to go the extra mile to help support the Developer's work on future updates and projects.</i><h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Character Profiles<br></li><li>Game Art<br></li><li>Cut Content<br></li><li>Commentary &amp; Trivia<br></li><li>And a bonus Puzzle Page, featuring fun and games!!</li></ul><br><strong>Get yourself a copy of the Potion Commotion Fanbook today!!</strong><br><br><i>To access a purchased Fanbook, go to Library &gt; Potion Commotion &gt; Manage &gt; Browse Local Files &gt; Potion Commotion Fanbook.pdf</i>",
-                "short_description": "Introducing the Potion Commotion Digital Fanbook!! Featuring a variety of cool and interesting content about the game and its development.",
-                "fullgame": {
-                    "appid": "1209450",
-                    "name": "Potion Commotion"
-                },
-                "supported_languages": "English",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/header.jpg?t=1641332966",
-                "website": "https://www.facebook.com/NerdyBirdStudios/",
-                "pc_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional Notes:</strong> An application able to open a .pdf file</li></ul>"
-                },
-                "mac_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional Notes:</strong> An application able to open a .pdf file</li></ul>"
-                },
-                "linux_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional Notes:</strong> An application able to open a .pdf file</li></ul>"
-                },
-                "legal_notice": "Potion Commotion\u2122 \u00a9 NerdyBird Studios LTD. All Rights Reserved. \u00a9 2019 NerdyBird Studios\u2122",
-                "developers": [
-                    "NerdyBird Studios"
-                ],
-                "publishers": [
-                    "NerdyBird Studios"
-                ],
-                "price_overview": {
-                    "currency": "USD",
-                    "initial": 199,
-                    "final": 199,
-                    "discount_percent": 100,
-                    "initial_formatted": "$1.99",
-                    "final_formatted": "Free"
-                },
-                "packages": [
-                    671870,
-                    505328
-                ],
-                "package_groups": [
-                    {
-                        "name": "default",
-                        "title": "Buy Potion Commotion Fanbook",
-                        "description": "",
-                        "selection_text": "Select a purchase option",
-                        "save_text": "",
-                        "display_type": 0,
-                        "is_recurring_subscription": "false",
-                        "subs": [
-                            {
-                                "packageid": 671870,
-                                "percent_savings_text": "-100% ",
-                                "percent_savings": 0,
-                                "option_text": "Potion Commotion Fanbook Limited Free Promotional Package - Jan 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": true,
-                                "price_in_cents_with_discount": 0
-                            },
-                            {
-                                "packageid": 505328,
-                                "percent_savings_text": " ",
-                                "percent_savings": 0,
-                                "option_text": "Potion Commotion Fanbook - $1.99",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": false,
-                                "price_in_cents_with_discount": 199
-                            }
-                        ]
-                    }
-                ],
-                "platforms": {
-                    "windows": true,
-                    "mac": true,
-                    "linux": true
-                },
-                "categories": [
-                    {
-                        "id": 2,
-                        "description": "Single-player"
-                    },
-                    {
-                        "id": 21,
-                        "description": "Downloadable Content"
-                    }
-                ],
-                "genres": [
-                    {
-                        "id": "25",
-                        "description": "Adventure"
-                    },
-                    {
-                        "id": "4",
-                        "description": "Casual"
-                    },
-                    {
-                        "id": "23",
-                        "description": "Indie"
-                    },
-                    {
-                        "id": "28",
-                        "description": "Simulation"
-                    },
-                    {
-                        "id": "2",
-                        "description": "Strategy"
-                    }
-                ],
-                "screenshots": [
-                    {
-                        "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_2f2902866befe113b5d0c95d3c24eee584a86250.600x338.jpg?t=1641332966",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_2f2902866befe113b5d0c95d3c24eee584a86250.1920x1080.jpg?t=1641332966"
-                    },
-                    {
-                        "id": 1,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_c8dc7b30a6e044716e70745fd432ec367b91ee9f.600x338.jpg?t=1641332966",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_c8dc7b30a6e044716e70745fd432ec367b91ee9f.1920x1080.jpg?t=1641332966"
-                    },
-                    {
-                        "id": 2,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_302e4d022e355af81528f6c2c327b1deb2b9e424.600x338.jpg?t=1641332966",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_302e4d022e355af81528f6c2c327b1deb2b9e424.1920x1080.jpg?t=1641332966"
-                    }
-                ],
-                "release_date": {
-                    "coming_soon": false,
-                    "date": "Oct 26, 2020"
-                },
-                "support_info": {
-                    "url": "",
-                    "email": "NerdyBirdStudiosUK@gmail.com"
-                },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/page_bg_generated_v6b.jpg?t=1641332966",
-                "content_descriptors": {
-                    "ids": [],
-                    "notes": null
-                }
-            }
-        }
-    },
     "1846520": {
         "1846520": {
             "success": true,
@@ -328,6 +178,156 @@
                     "email": "support@betadwarf.com"
                 },
                 "background": "https://cdn.akamai.steamstatic.com/steam/apps/1846520/page_bg_generated_v6b.jpg?t=1641480162",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    },
+    "1438020": {
+        "1438020": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "Potion Commotion Fanbook",
+                "steam_appid": 1438020,
+                "required_age": 0,
+                "is_free": true,
+                "detailed_description": "Introducing the Potion Commotion Digital Fanbook!!<br>Featuring a variety of cool and interesting content about the game and its development.<h2 class=\"bb_tag\">In-Game Bonuses</h2>For purchasing &amp; installing the Fanbook, you will be rewarded with the following in-game goodies:<br><ul class=\"bb_ul\"><li>An instantly collectible 250 Tokens<br></li><li>Three Bonus Tokens for you to collect daily!<br></li><li>An exclusive Golden Wogglebogg Costume</li></ul><br><i>If you enjoyed Potion Commotion, then purchasing the Fanbook is a fantastic way to go the extra mile to help support the Developer's work on future updates and projects.</i><h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Character Profiles<br></li><li>Game Art<br></li><li>Cut Content<br></li><li>Commentary &amp; Trivia<br></li><li>And a bonus Puzzle Page, featuring fun and games!!</li></ul><br><strong>Get yourself a copy of the Potion Commotion Fanbook today!!</strong><br><br><i>To access a purchased Fanbook, go to Library &gt; Potion Commotion &gt; Manage &gt; Browse Local Files &gt; Potion Commotion Fanbook.pdf</i>",
+                "about_the_game": "Introducing the Potion Commotion Digital Fanbook!!<br>Featuring a variety of cool and interesting content about the game and its development.<h2 class=\"bb_tag\">In-Game Bonuses</h2>For purchasing &amp; installing the Fanbook, you will be rewarded with the following in-game goodies:<br><ul class=\"bb_ul\"><li>An instantly collectible 250 Tokens<br></li><li>Three Bonus Tokens for you to collect daily!<br></li><li>An exclusive Golden Wogglebogg Costume</li></ul><br><i>If you enjoyed Potion Commotion, then purchasing the Fanbook is a fantastic way to go the extra mile to help support the Developer's work on future updates and projects.</i><h2 class=\"bb_tag\">Key Features</h2><ul class=\"bb_ul\"><li>Character Profiles<br></li><li>Game Art<br></li><li>Cut Content<br></li><li>Commentary &amp; Trivia<br></li><li>And a bonus Puzzle Page, featuring fun and games!!</li></ul><br><strong>Get yourself a copy of the Potion Commotion Fanbook today!!</strong><br><br><i>To access a purchased Fanbook, go to Library &gt; Potion Commotion &gt; Manage &gt; Browse Local Files &gt; Potion Commotion Fanbook.pdf</i>",
+                "short_description": "Introducing the Potion Commotion Digital Fanbook!! Featuring a variety of cool and interesting content about the game and its development.",
+                "fullgame": {
+                    "appid": "1209450",
+                    "name": "Potion Commotion"
+                },
+                "supported_languages": "English",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/header.jpg?t=1641332966",
+                "website": "https://www.facebook.com/NerdyBirdStudios/",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional Notes:</strong> An application able to open a .pdf file</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional Notes:</strong> An application able to open a .pdf file</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional Notes:</strong> An application able to open a .pdf file</li></ul>"
+                },
+                "legal_notice": "Potion Commotion\u2122 \u00a9 NerdyBird Studios LTD. All Rights Reserved. \u00a9 2019 NerdyBird Studios\u2122",
+                "developers": [
+                    "NerdyBird Studios"
+                ],
+                "publishers": [
+                    "NerdyBird Studios"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 199,
+                    "final": 199,
+                    "discount_percent": 100,
+                    "initial_formatted": "$1.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    671870,
+                    505328
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Potion Commotion Fanbook",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 671870,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Potion Commotion Fanbook Limited Free Promotional Package - Jan 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 505328,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Potion Commotion Fanbook - $1.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 199
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": true,
+                    "linux": true
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "25",
+                        "description": "Adventure"
+                    },
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulation"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Strategy"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_2f2902866befe113b5d0c95d3c24eee584a86250.600x338.jpg?t=1641332966",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_2f2902866befe113b5d0c95d3c24eee584a86250.1920x1080.jpg?t=1641332966"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_c8dc7b30a6e044716e70745fd432ec367b91ee9f.600x338.jpg?t=1641332966",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_c8dc7b30a6e044716e70745fd432ec367b91ee9f.1920x1080.jpg?t=1641332966"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_302e4d022e355af81528f6c2c327b1deb2b9e424.600x338.jpg?t=1641332966",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_302e4d022e355af81528f6c2c327b1deb2b9e424.1920x1080.jpg?t=1641332966"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Oct 26, 2020"
+                },
+                "support_info": {
+                    "url": "",
+                    "email": "NerdyBirdStudiosUK@gmail.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/page_bg_generated_v6b.jpg?t=1641332966",
                 "content_descriptors": {
                     "ids": [],
                     "notes": null
