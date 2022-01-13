@@ -202,7 +202,7 @@
                     "name": "Potion Commotion"
                 },
                 "supported_languages": "English",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/header.jpg?t=1641332966",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/header.jpg?t=1641979933",
                 "website": "https://www.facebook.com/NerdyBirdStudios/",
                 "pc_requirements": {
                     "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Storage:</strong> 45 MB available space<br></li><li><strong>Additional Notes:</strong> An application able to open a .pdf file</li></ul>"
@@ -305,18 +305,18 @@
                 "screenshots": [
                     {
                         "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_2f2902866befe113b5d0c95d3c24eee584a86250.600x338.jpg?t=1641332966",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_2f2902866befe113b5d0c95d3c24eee584a86250.1920x1080.jpg?t=1641332966"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_2f2902866befe113b5d0c95d3c24eee584a86250.600x338.jpg?t=1641979933",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_2f2902866befe113b5d0c95d3c24eee584a86250.1920x1080.jpg?t=1641979933"
                     },
                     {
                         "id": 1,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_c8dc7b30a6e044716e70745fd432ec367b91ee9f.600x338.jpg?t=1641332966",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_c8dc7b30a6e044716e70745fd432ec367b91ee9f.1920x1080.jpg?t=1641332966"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_c8dc7b30a6e044716e70745fd432ec367b91ee9f.600x338.jpg?t=1641979933",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_c8dc7b30a6e044716e70745fd432ec367b91ee9f.1920x1080.jpg?t=1641979933"
                     },
                     {
                         "id": 2,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_302e4d022e355af81528f6c2c327b1deb2b9e424.600x338.jpg?t=1641332966",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_302e4d022e355af81528f6c2c327b1deb2b9e424.1920x1080.jpg?t=1641332966"
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_302e4d022e355af81528f6c2c327b1deb2b9e424.600x338.jpg?t=1641979933",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/ss_302e4d022e355af81528f6c2c327b1deb2b9e424.1920x1080.jpg?t=1641979933"
                     }
                 ],
                 "release_date": {
@@ -327,7 +327,7 @@
                     "url": "",
                     "email": "NerdyBirdStudiosUK@gmail.com"
                 },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/page_bg_generated_v6b.jpg?t=1641332966",
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1438020/page_bg_generated_v6b.jpg?t=1641979933",
                 "content_descriptors": {
                     "ids": [],
                     "notes": null
