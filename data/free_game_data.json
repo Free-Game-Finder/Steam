@@ -1,1 +1,166 @@
-{}
+{
+    "1869350": {
+        "1869350": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "KARDS - US Starter Pack",
+                "steam_appid": 1869350,
+                "required_age": 0,
+                "is_free": true,
+                "detailed_description": "The US Starter Pack contains everything you need to start expanding your own US collection and take a step upwards in your progression!<br><br>The US Starter Pack contains cards for you to storm the frontline and take control of the battlefield. The legendary 507th Parachute Infantry Regiment (PIR) builds up your other troops while the B-17 Flying Fortress defends you from the sky. <br><br>Full content of the US Starter Pack:<br><br><ul class=\"bb_ul\"><li>Card back - 507th PIR<br></li><li>Elite Card: 507th PIR<br></li><li>Special Card: B-17 Flying Fortress <br></li><li>Limited Card: 1st Marines<br></li><li>Limited Card: M7 Priest<br></li><li>Limited Card: War Bonds<br></li><li>Limited Card: We Can Do It! <br></li><li>2 Standard Cards: 5th Infantry<br></li><li>2 Standard Cards: 7th Regiment <br></li><li>2 Standard Cards: Stars &amp; Stripes</li></ul><h2 class=\"bb_tag\">507th PIR Card back</h2>Customize your presence on the battlefield with this unique Steam card back, created specifically for the US Starter Pack and the only way to receive it.<h2 class=\"bb_tag\">Elite: 507th PIR</h2>The 507th PIR is an elite card that comes into play with smokescreen and cannot be targeted by other units. Each turn, they give a random friendly infantry unit +2 attack. This can bolster your attacking presence and force your opponent into more defensive tactics.<h2 class=\"bb_tag\">B-17 Flying Fortress</h2>The B-17 Flying Fortress is a powerhouse in its own right, delivering destruction from afar while relying on protection from your forces up close.<h2 class=\"bb_tag\">10 Standard and Limited cards</h2>The standard and limited cards included in this pack are the support units and orders you need to make your presence felt. These cards can be used to upgrade your US Starter deck, you receive for free during the tutorials<br><br><strong>This pack can only be purchased once per account.</strong>",
+                "about_the_game": "The US Starter Pack contains everything you need to start expanding your own US collection and take a step upwards in your progression!<br><br>The US Starter Pack contains cards for you to storm the frontline and take control of the battlefield. The legendary 507th Parachute Infantry Regiment (PIR) builds up your other troops while the B-17 Flying Fortress defends you from the sky. <br><br>Full content of the US Starter Pack:<br><br><ul class=\"bb_ul\"><li>Card back - 507th PIR<br></li><li>Elite Card: 507th PIR<br></li><li>Special Card: B-17 Flying Fortress <br></li><li>Limited Card: 1st Marines<br></li><li>Limited Card: M7 Priest<br></li><li>Limited Card: War Bonds<br></li><li>Limited Card: We Can Do It! <br></li><li>2 Standard Cards: 5th Infantry<br></li><li>2 Standard Cards: 7th Regiment <br></li><li>2 Standard Cards: Stars &amp; Stripes</li></ul><h2 class=\"bb_tag\">507th PIR Card back</h2>Customize your presence on the battlefield with this unique Steam card back, created specifically for the US Starter Pack and the only way to receive it.<h2 class=\"bb_tag\">Elite: 507th PIR</h2>The 507th PIR is an elite card that comes into play with smokescreen and cannot be targeted by other units. Each turn, they give a random friendly infantry unit +2 attack. This can bolster your attacking presence and force your opponent into more defensive tactics.<h2 class=\"bb_tag\">B-17 Flying Fortress</h2>The B-17 Flying Fortress is a powerhouse in its own right, delivering destruction from afar while relying on protection from your forces up close.<h2 class=\"bb_tag\">10 Standard and Limited cards</h2>The standard and limited cards included in this pack are the support units and orders you need to make your presence felt. These cards can be used to upgrade your US Starter deck, you receive for free during the tutorials<br><br><strong>This pack can only be purchased once per account.</strong>",
+                "short_description": "The US Starter Pack contains everything you need to start expanding your own US collection and take a step upwards in your progression! This content requires the base game KARDS on Steam in order to play.",
+                "fullgame": {
+                    "appid": "544810",
+                    "name": "KARDS - The WWII Card Game"
+                },
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Italian<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1869350/header.jpg?t=1642183218",
+                "website": "https://www.kards.com/",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 SP 1<br></li><li><strong>Additional Notes:</strong> Not recommended for Intel integrated graphics</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 7 SP 1</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "legal_notice": "Copyright \u00a9 2017 KARDS. All rights reserved.\u00a0",
+                "developers": [
+                    "1939 Games"
+                ],
+                "publishers": [
+                    "1939 Games"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 999,
+                    "final": 999,
+                    "discount_percent": 100,
+                    "initial_formatted": "$9.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    675958,
+                    672576
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy KARDS - US Starter Pack",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 675958,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "KARDS - US Starter Pack Limited Free Promotional Package - Jan 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 672576,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "KARDS - USA Starter Pack - $9.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 999
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 35,
+                        "description": "In-App Purchases"
+                    },
+                    {
+                        "id": 42,
+                        "description": "Remote Play on Tablet"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "37",
+                        "description": "Free to Play"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Strategy"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1869350/ss_5ae1a07fe938f97b0bc59d7dfefce23173351473.600x338.jpg?t=1642183218",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1869350/ss_5ae1a07fe938f97b0bc59d7dfefce23173351473.1920x1080.jpg?t=1642183218"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1869350/ss_f264fd360459039d2f99ebc4deb146a5a02da7e5.600x338.jpg?t=1642183218",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1869350/ss_f264fd360459039d2f99ebc4deb146a5a02da7e5.1920x1080.jpg?t=1642183218"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Jan 14, 2022"
+                },
+                "support_info": {
+                    "url": "https://www.1939games.com/contact",
+                    "email": "support@1939games.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1869350/page_bg_generated_v6b.jpg?t=1642183218",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    }
+}
