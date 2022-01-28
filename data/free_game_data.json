@@ -1,1 +1,196 @@
-{}
+{
+    "1851340": {
+        "1851340": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "Neon Abyss - Chrono Trap",
+                "steam_appid": 1851340,
+                "required_age": 0,
+                "is_free": true,
+                "detailed_description": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1851340/extras/store_dlc3_en_1.png?t=1643300645\" /><br><br>The Chrono Trap DLC brings a new Endless Mode and the Titan, Chronos, to Neon Abyss.<br><br>Endless Mode: Face down endless challenges and new elite monsters to unleash your full potential. It's a perilous journey to your final battle against the all-powerful Chronos! How long will you last?<br><br>Chronos: Upon purchase of the Chrono Trap DLC, you will be able to challenge the new Chrono Titan in two different play modes!<br><br><strong><h2 class=\"bb_tag\">How to begin the Chrono Trap adventure: There is a play mode switching device at the edge of the cliff by the bar. Change the mode to \u2018Endless Mode\u2019 to gain access.</h2></strong><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1851340/extras/Switch_gif.gif?t=1643300645\" />",
+                "about_the_game": "<img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1851340/extras/store_dlc3_en_1.png?t=1643300645\" /><br><br>The Chrono Trap DLC brings a new Endless Mode and the Titan, Chronos, to Neon Abyss.<br><br>Endless Mode: Face down endless challenges and new elite monsters to unleash your full potential. It's a perilous journey to your final battle against the all-powerful Chronos! How long will you last?<br><br>Chronos: Upon purchase of the Chrono Trap DLC, you will be able to challenge the new Chrono Titan in two different play modes!<br><br><strong><h2 class=\"bb_tag\">How to begin the Chrono Trap adventure: There is a play mode switching device at the edge of the cliff by the bar. Change the mode to \u2018Endless Mode\u2019 to gain access.</h2></strong><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1851340/extras/Switch_gif.gif?t=1643300645\" />",
+                "short_description": "The Chrono Trap DLC brings a new Endless Mode and the Titan, Chronos, to Neon Abyss.",
+                "fullgame": {
+                    "appid": "788100",
+                    "name": "Neon Abyss"
+                },
+                "supported_languages": "English, Simplified Chinese, French, Italian, German, Spanish - Spain, Japanese, Russian, Traditional Chinese",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/header.jpg?t=1643300645",
+                "website": "https://www.veewo.com/neonabyss",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel i3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Geforce 650<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel i3-2100 / AMD A8-5600k<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX 630 / Radeon HD 6570<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "legal_notice": "Neon Abyss \u00a9 2022 Veewo Games, Published under licence by TEAM17 Digital Limited.",
+                "developers": [
+                    "Veewo Games"
+                ],
+                "publishers": [
+                    "Team17 Digital Ltd",
+                    "Yooreka Studio (China)"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 399,
+                    "final": 399,
+                    "discount_percent": 100,
+                    "initial_formatted": "$3.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    679714,
+                    666158
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Neon Abyss - Chrono Trap",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 679714,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Neon Abyss - Chrono Trap Limited Free Promotional Package - Jan 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 666158,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Neon Abyss - Chrono Trap - $3.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 399
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Steam Trading Cards"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Partial Controller Support"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 41,
+                        "description": "Remote Play on Phone"
+                    },
+                    {
+                        "id": 42,
+                        "description": "Remote Play on Tablet"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Adventure"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_2f3c99c27cf1761e872ae4c40a6bd93791c5efd2.600x338.jpg?t=1643300645",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_2f3c99c27cf1761e872ae4c40a6bd93791c5efd2.1920x1080.jpg?t=1643300645"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_e419150a15be88e99d74516ccc3f008e2de9cce6.600x338.jpg?t=1643300645",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_e419150a15be88e99d74516ccc3f008e2de9cce6.1920x1080.jpg?t=1643300645"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_017d573b6c380668d0a5f3694c369b823f2cff8f.600x338.jpg?t=1643300645",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_017d573b6c380668d0a5f3694c369b823f2cff8f.1920x1080.jpg?t=1643300645"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_b258f15b4734773b89bcb91e2d3c7f41cf47ef44.600x338.jpg?t=1643300645",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_b258f15b4734773b89bcb91e2d3c7f41cf47ef44.1920x1080.jpg?t=1643300645"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_86fb6ab5a91731e012ac10a7ee1bb6438780863c.600x338.jpg?t=1643300645",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_86fb6ab5a91731e012ac10a7ee1bb6438780863c.1920x1080.jpg?t=1643300645"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_f811a89a275d9e7e307e60c2a8fe1106f2ebb5a5.600x338.jpg?t=1643300645",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_f811a89a275d9e7e307e60c2a8fe1106f2ebb5a5.1920x1080.jpg?t=1643300645"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_32ba61b5dff0fb7e07faadb7e3816c4d3f81eaea.600x338.jpg?t=1643300645",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/ss_32ba61b5dff0fb7e07faadb7e3816c4d3f81eaea.1920x1080.jpg?t=1643300645"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Jan 27, 2022"
+                },
+                "support_info": {
+                    "url": "https://www.team17.com/support/",
+                    "email": "help@team17support.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1851340/page_bg_generated_v6b.jpg?t=1643300645",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    }
+}
