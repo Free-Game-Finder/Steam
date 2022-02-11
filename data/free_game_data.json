@@ -1,1 +1,421 @@
-{}
+{
+    "921950": {
+        "921950": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "Kingdom Come: Deliverance \u2013 The Amorous Adventures of Bold Sir Hans Capon",
+                "steam_appid": 921950,
+                "required_age": "17",
+                "is_free": true,
+                "controller_support": "full",
+                "detailed_description": "<h1>Featured DLC</h1><p><a href=\"https://store.steampowered.com/sub/368777/\" target=\"_blank\" rel=\"noreferrer\"  ><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/921950/extras/616x250.png?t=1642006772\" /></a></p><br><h1>Steam Exclusive Offer</h1><p><a href=\"https://store.steampowered.com/app/970070/Fechtbuch_The_Real_Swordfighting_behind_Kingdom_Come/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/970070/Fechtbuch_The_Real_Swordfighting_behind_Kingdom_Come/</a></p><br><h1>About the Game</h1>The heart of our much-loved young Sir Hans Capon is bursting with overwhelming longing for... his latest flame. <br><br>The second DLC &quot;The Amorous Adventures of Bold Sir Hans Capon&quot; for Kingdom Come: Deliverance revolves around his attempts to woo the fairest maid he has ever set eyes upon, and his success will not depend only on his own mastery of the art of love \u2013 it\u2019s also up to his trusty wingman, you - Henry, to ensure that The Amorous Adventures of Bold Sir Hans Capon come to a happy end! <br><br>That\u2019s the main objective linking three new quests, in which you will not only have to read love poems, arrange a nighttime tryst and keep an enraged butcher at bay, but also infiltrate the camp of a band of bloodthirsty brigands, enter a dice tournament, dig up a corpse, investigate a murder and... er... perhaps commit a few. All for love, of course!",
+                "about_the_game": "The heart of our much-loved young Sir Hans Capon is bursting with overwhelming longing for... his latest flame. <br />\r\n<br />\r\nThe second DLC &quot;The Amorous Adventures of Bold Sir Hans Capon&quot; for Kingdom Come: Deliverance revolves around his attempts to woo the fairest maid he has ever set eyes upon, and his success will not depend only on his own mastery of the art of love \u2013 it\u2019s also up to his trusty wingman, you - Henry, to ensure that The Amorous Adventures of Bold Sir Hans Capon come to a happy end! <br />\r\n<br />\r\nThat\u2019s the main objective linking three new quests, in which you will not only have to read love poems, arrange a nighttime tryst and keep an enraged butcher at bay, but also infiltrate the camp of a band of bloodthirsty brigands, enter a dice tournament, dig up a corpse, investigate a murder and... er... perhaps commit a few. All for love, of course!",
+                "short_description": "The second DLC for Kingdom Come: Deliverance revolves around his attempts to woo the fairest maid he has ever set eyes upon, and his success will not depend only on his own mastery of the art of love \u2013 it\u2019s also up to his trusty wingman Henry!",
+                "fullgame": {
+                    "appid": "379430",
+                    "name": "Kingdom Come: Deliverance"
+                },
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain, Czech, Polish, Russian, Italian, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/921950/header.jpg?t=1642006772",
+                "website": "https://www.kingdomcomerpg.com",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> OS 64-bit Windows 7 or 64-bit Windows 8 (8.1) or Windows 10<br></li><li><strong>Processor:</strong> Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GPU GeForce GTX 660, AMD GPU Radeon HD 7870<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> Integrated</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> OS 64-bit Windows 7 or 64-bit Windows 8 (8.1) or Windows 10<br></li><li><strong>Processor:</strong> Intel CPU Core i7 3770 3,4 GHz, AMD CPU AMD FX-8350 4 GHz<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GPU GeForce GTX 1080 8GB VRAM, AMD GPU Radeon RX Vega 64 8GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Sound Card:</strong> Creative SOUND BLASTER Zx</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "legal_notice": "\u00a9 2018 Warhorse Studios s.r.o., Kingdom Come: Deliverance\u00ae is a trademark of Warhorse Studios s.r.o. All rights reserved.<br />\r\nPrime Matter is a division of Koch Media GmbH, Austria. Prime Matter and its respective logos are trademarks of Koch Media GmbH",
+                "developers": [
+                    "Warhorse Studios"
+                ],
+                "publishers": [
+                    "Warhorse Studios",
+                    "Prime Matter"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 599,
+                    "final": 239,
+                    "discount_percent": 100,
+                    "initial_formatted": "$5.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    675164,
+                    297573,
+                    368777,
+                    368776
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Kingdom Come: Deliverance \u2013 The Amorous Adventures of Bold Sir Hans Capon",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 675164,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Kingdom Come: Deliverance \u2013 The Amorous Adventures of Bold Sir Hans Capon Limited Free Promotional Package - Feb 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 297573,
+                                "percent_savings_text": "-60% ",
+                                "percent_savings": 0,
+                                "option_text": "Kingdom Come: Deliverance \u2013 The Amorous Adventures of Bold Sir Hans Capon - <span class=\"discount_original_price\">$5.99</span> $2.39",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 239
+                            },
+                            {
+                                "packageid": 368777,
+                                "percent_savings_text": "-60% ",
+                                "percent_savings": 0,
+                                "option_text": "Kingdom Come: Deliverance - Royal DLC Package - <span class=\"discount_original_price\">$19.99</span> $7.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 799
+                            },
+                            {
+                                "packageid": 368776,
+                                "percent_savings_text": "-70% ",
+                                "percent_savings": 0,
+                                "option_text": "Kingdom Come: Deliverance Royal Edition - <span class=\"discount_original_price\">$39.99</span> $11.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 1199
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "metacritic": {
+                    "score": 66,
+                    "url": "https://www.metacritic.com/game/pc/kingdom-come-deliverance---the-amorous-adventures-of-bold-sir-hans-capon?ftag=MCD-06-10aaa1f"
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Steam Trading Cards"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Adventure"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_8b08204bd6b7b05feea7bfd8c9a7338fd4315bb8.600x338.jpg?t=1642006772",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_8b08204bd6b7b05feea7bfd8c9a7338fd4315bb8.1920x1080.jpg?t=1642006772"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_3562b8db4f5ec03d71b6379018dae4e36c3157a7.600x338.jpg?t=1642006772",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_3562b8db4f5ec03d71b6379018dae4e36c3157a7.1920x1080.jpg?t=1642006772"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_19524855016ee72d82041e0198fb5bf68c63539b.600x338.jpg?t=1642006772",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_19524855016ee72d82041e0198fb5bf68c63539b.1920x1080.jpg?t=1642006772"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_6fc9435046d2c7d487690d17a7a49bde7f21ebe2.600x338.jpg?t=1642006772",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_6fc9435046d2c7d487690d17a7a49bde7f21ebe2.1920x1080.jpg?t=1642006772"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_8624eda96211771d1823588793354ef9fd38795e.600x338.jpg?t=1642006772",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_8624eda96211771d1823588793354ef9fd38795e.1920x1080.jpg?t=1642006772"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_e64febd39552612705c5b692ea38d40e4c9e75b4.600x338.jpg?t=1642006772",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_e64febd39552612705c5b692ea38d40e4c9e75b4.1920x1080.jpg?t=1642006772"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_e232043b56c0d9d7f6cc1116aeb9ee6ef83ac612.600x338.jpg?t=1642006772",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/921950/ss_e232043b56c0d9d7f6cc1116aeb9ee6ef83ac612.1920x1080.jpg?t=1642006772"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256727328,
+                        "name": "Kingdom Come: Deliverance \u2013 The Amorous Adventures of Bold Sir Hans Capon",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256727328/movie.293x165.jpg?t=1539702195",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256727328/movie480.webm?t=1539702195",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256727328/movie_max.webm?t=1539702195"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256727328/movie480.mp4?t=1539702195",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256727328/movie_max.mp4?t=1539702195"
+                        },
+                        "highlight": true
+                    },
+                    {
+                        "id": 256736831,
+                        "name": "Kingdom Come: Deliverance \u2013 The Amorous Adventures of Bold Sir Hans Capon Gameplay",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256736831/movie.293x165.jpg?t=1543410067",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256736831/movie480.webm?t=1543410067",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256736831/movie_max.webm?t=1543410067"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256736831/movie480.mp4?t=1543410067",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256736831/movie_max.mp4?t=1543410067"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "recommendations": {
+                    "total": 564
+                },
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Oct 16, 2018"
+                },
+                "support_info": {
+                    "url": "https://warhorse.zendesk.com/hc/en-us",
+                    "email": "support@kingdomcomerpg.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/921950/page_bg_generated_v6b.jpg?t=1642006772",
+                "content_descriptors": {
+                    "ids": [
+                        1,
+                        5
+                    ],
+                    "notes": "There are some sex scenes, but not explicit and sexual dialogs."
+                }
+            }
+        }
+    },
+    "1662503": {
+        "1662503": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "World of Tanks \u2014 French Express Pack",
+                "steam_appid": 1662503,
+                "required_age": 0,
+                "is_free": true,
+                "detailed_description": "This DLC\u2019s name speaks for itself: French Express. The AM 39 Gendron-Somua is a French wheeled vehicle. It can reach high speeds and has an accurate gun. Wheeled vehicles are a special type, and it may take some practice to get used to not having tracks. <br><br><strong>Speed.</strong> This is a light and very maneuverable vehicle. However, one thing you need to know about wheels\u2014you can\u2019t turn on the spot. <br><br><strong>Protection</strong>. This vehicle doesn\u2019t have much HP so you need to keep some distance between yourself and the enemies and choose the right time to attack while they can\u2019t get a shot in.  <br><br><strong>Firepower. </strong>The AM 39 has an accurate gun with a high rate of fire. Your best tactics will utilize your maneuverability, concealment and the strengths of your gun.<h2 class=\"bb_tag\">Also in the package: </h2><ul class=\"bb_ul\"><li>Garage Slot <br></li><li>100% crew (Commander with Sixth Sense) <br></li><li>3 days of WoT Premium Account  </li></ul><br><strong>DLC can be added to your World of Tanks account only once. <br>You\u00a0will\u00a0be\u00a0able\u00a0to\u00a0use\u00a0this\u00a0DLC\u00a0only\u00a0if\u00a0you\u00a0play\u00a0from\u00a0the\u00a0game\u00a0account\u00a0created\u00a0on\u00a0Steam.\u00a0</strong>",
+                "about_the_game": "This DLC\u2019s name speaks for itself: French Express. The AM 39 Gendron-Somua is a French wheeled vehicle. It can reach high speeds and has an accurate gun. Wheeled vehicles are a special type, and it may take some practice to get used to not having tracks. <br><br><strong>Speed.</strong> This is a light and very maneuverable vehicle. However, one thing you need to know about wheels\u2014you can\u2019t turn on the spot. <br><br><strong>Protection</strong>. This vehicle doesn\u2019t have much HP so you need to keep some distance between yourself and the enemies and choose the right time to attack while they can\u2019t get a shot in.  <br><br><strong>Firepower. </strong>The AM 39 has an accurate gun with a high rate of fire. Your best tactics will utilize your maneuverability, concealment and the strengths of your gun.<h2 class=\"bb_tag\">Also in the package: </h2><ul class=\"bb_ul\"><li>Garage Slot <br></li><li>100% crew (Commander with Sixth Sense) <br></li><li>3 days of WoT Premium Account  </li></ul><br><strong>DLC can be added to your World of Tanks account only once. <br>You\u00a0will\u00a0be\u00a0able\u00a0to\u00a0use\u00a0this\u00a0DLC\u00a0only\u00a0if\u00a0you\u00a0play\u00a0from\u00a0the\u00a0game\u00a0account\u00a0created\u00a0on\u00a0Steam.\u00a0</strong>",
+                "short_description": "This DLC\u2019s name speaks for itself: French Express. The AM 39 Gendron-Somua is a French wheeled vehicle. It can reach high speeds and has an accurate gun. Wheeled vehicles are a special type, and it may take some practice to get used to not having tracks.",
+                "fullgame": {
+                    "appid": "1407200",
+                    "name": "World of Tanks"
+                },
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Czech<strong>*</strong>, Dutch, Finnish, Hungarian, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Romanian, Russian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Traditional Chinese, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/header.jpg?t=1644493817",
+                "website": "https://wargaming.net/wot",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10<br></li><li><strong>Processor:</strong> A processor with at least two physical cores supporting SSE2<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600, ATI Radeon HD 4550<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 57 GB available space</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10 \u2013 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5 (Desktop)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX660 (2GB) / Radeon HD 7850 (2GB)<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 57 GB available space</li></ul>"
+                },
+                "mac_requirements": [],
+                "linux_requirements": [],
+                "legal_notice": "\u00a9 2009\u20132022 Wargaming.net",
+                "developers": [
+                    "Wargaming Group Limited"
+                ],
+                "publishers": [
+                    "Wargaming Group Limited"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 599,
+                    "final": 599,
+                    "discount_percent": 100,
+                    "initial_formatted": "$5.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    685060,
+                    590857
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy World of Tanks \u2014 French Express Pack",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 685060,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "World of Tanks - French Express Pack Limited Free Promotional Package - Feb 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 590857,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "World of Tanks - French Express Pack - $5.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 599
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 20,
+                        "description": "MMO"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 35,
+                        "description": "In-App Purchases"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "37",
+                        "description": "Free to Play"
+                    },
+                    {
+                        "id": "29",
+                        "description": "Massively Multiplayer"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulation"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_346410f7b7e91a60ffdc6557dbde6aacd4ece559.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_346410f7b7e91a60ffdc6557dbde6aacd4ece559.1920x1080.jpg?t=1644493817"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_7bb58dd23cffee2c05497b1edd337f4130889865.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_7bb58dd23cffee2c05497b1edd337f4130889865.1920x1080.jpg?t=1644493817"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_631bffe728ffe14efefce93128a3c99ed47c2682.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_631bffe728ffe14efefce93128a3c99ed47c2682.1920x1080.jpg?t=1644493817"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_0dc69fa01009b5f84731c1b4e18c167093db39c4.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_0dc69fa01009b5f84731c1b4e18c167093db39c4.1920x1080.jpg?t=1644493817"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_1377796bf8009cd0bf6fd126e40857e23b598434.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_1377796bf8009cd0bf6fd126e40857e23b598434.1920x1080.jpg?t=1644493817"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_e9e1496482051e50b4318dd969f230ca719c1af8.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_e9e1496482051e50b4318dd969f230ca719c1af8.1920x1080.jpg?t=1644493817"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Jun 24, 2021"
+                },
+                "support_info": {
+                    "url": "https://wargaming.net/support/products/wot",
+                    "email": ""
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/page_bg_generated_v6b.jpg?t=1644493817",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    }
+}
