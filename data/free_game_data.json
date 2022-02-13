@@ -1,4 +1,178 @@
 {
+    "1662503": {
+        "1662503": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "World of Tanks \u2014 French Express Pack",
+                "steam_appid": 1662503,
+                "required_age": 0,
+                "is_free": true,
+                "detailed_description": "This DLC\u2019s name speaks for itself: French Express. The AM 39 Gendron-Somua is a French wheeled vehicle. It can reach high speeds and has an accurate gun. Wheeled vehicles are a special type, and it may take some practice to get used to not having tracks. <br><br><strong>Speed.</strong> This is a light and very maneuverable vehicle. However, one thing you need to know about wheels\u2014you can\u2019t turn on the spot. <br><br><strong>Protection</strong>. This vehicle doesn\u2019t have much HP so you need to keep some distance between yourself and the enemies and choose the right time to attack while they can\u2019t get a shot in.  <br><br><strong>Firepower. </strong>The AM 39 has an accurate gun with a high rate of fire. Your best tactics will utilize your maneuverability, concealment and the strengths of your gun.<h2 class=\"bb_tag\">Also in the package: </h2><ul class=\"bb_ul\"><li>Garage Slot <br></li><li>100% crew (Commander with Sixth Sense) <br></li><li>3 days of WoT Premium Account  </li></ul><br><strong>DLC can be added to your World of Tanks account only once. <br>You\u00a0will\u00a0be\u00a0able\u00a0to\u00a0use\u00a0this\u00a0DLC\u00a0only\u00a0if\u00a0you\u00a0play\u00a0from\u00a0the\u00a0game\u00a0account\u00a0created\u00a0on\u00a0Steam.\u00a0</strong>",
+                "about_the_game": "This DLC\u2019s name speaks for itself: French Express. The AM 39 Gendron-Somua is a French wheeled vehicle. It can reach high speeds and has an accurate gun. Wheeled vehicles are a special type, and it may take some practice to get used to not having tracks. <br><br><strong>Speed.</strong> This is a light and very maneuverable vehicle. However, one thing you need to know about wheels\u2014you can\u2019t turn on the spot. <br><br><strong>Protection</strong>. This vehicle doesn\u2019t have much HP so you need to keep some distance between yourself and the enemies and choose the right time to attack while they can\u2019t get a shot in.  <br><br><strong>Firepower. </strong>The AM 39 has an accurate gun with a high rate of fire. Your best tactics will utilize your maneuverability, concealment and the strengths of your gun.<h2 class=\"bb_tag\">Also in the package: </h2><ul class=\"bb_ul\"><li>Garage Slot <br></li><li>100% crew (Commander with Sixth Sense) <br></li><li>3 days of WoT Premium Account  </li></ul><br><strong>DLC can be added to your World of Tanks account only once. <br>You\u00a0will\u00a0be\u00a0able\u00a0to\u00a0use\u00a0this\u00a0DLC\u00a0only\u00a0if\u00a0you\u00a0play\u00a0from\u00a0the\u00a0game\u00a0account\u00a0created\u00a0on\u00a0Steam.\u00a0</strong>",
+                "short_description": "This DLC\u2019s name speaks for itself: French Express. The AM 39 Gendron-Somua is a French wheeled vehicle. It can reach high speeds and has an accurate gun. Wheeled vehicles are a special type, and it may take some practice to get used to not having tracks.",
+                "fullgame": {
+                    "appid": "1407200",
+                    "name": "World of Tanks"
+                },
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Czech<strong>*</strong>, Dutch, Finnish, Hungarian, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Romanian, Russian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Traditional Chinese, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/header.jpg?t=1644493817",
+                "website": "https://wargaming.net/wot",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10<br></li><li><strong>Processor:</strong> A processor with at least two physical cores supporting SSE2<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600, ATI Radeon HD 4550<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 57 GB available space</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10 \u2013 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5 (Desktop)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX660 (2GB) / Radeon HD 7850 (2GB)<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 57 GB available space</li></ul>"
+                },
+                "mac_requirements": [],
+                "linux_requirements": [],
+                "legal_notice": "\u00a9 2009\u20132022 Wargaming.net",
+                "developers": [
+                    "Wargaming Group Limited"
+                ],
+                "publishers": [
+                    "Wargaming Group Limited"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 599,
+                    "final": 599,
+                    "discount_percent": 100,
+                    "initial_formatted": "$5.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    685060,
+                    590857
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy World of Tanks \u2014 French Express Pack",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 685060,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "World of Tanks - French Express Pack Limited Free Promotional Package - Feb 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 590857,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "World of Tanks - French Express Pack - $5.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 599
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 20,
+                        "description": "MMO"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 35,
+                        "description": "In-App Purchases"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "37",
+                        "description": "Free to Play"
+                    },
+                    {
+                        "id": "29",
+                        "description": "Massively Multiplayer"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulation"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_346410f7b7e91a60ffdc6557dbde6aacd4ece559.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_346410f7b7e91a60ffdc6557dbde6aacd4ece559.1920x1080.jpg?t=1644493817"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_7bb58dd23cffee2c05497b1edd337f4130889865.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_7bb58dd23cffee2c05497b1edd337f4130889865.1920x1080.jpg?t=1644493817"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_631bffe728ffe14efefce93128a3c99ed47c2682.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_631bffe728ffe14efefce93128a3c99ed47c2682.1920x1080.jpg?t=1644493817"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_0dc69fa01009b5f84731c1b4e18c167093db39c4.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_0dc69fa01009b5f84731c1b4e18c167093db39c4.1920x1080.jpg?t=1644493817"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_1377796bf8009cd0bf6fd126e40857e23b598434.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_1377796bf8009cd0bf6fd126e40857e23b598434.1920x1080.jpg?t=1644493817"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_e9e1496482051e50b4318dd969f230ca719c1af8.600x338.jpg?t=1644493817",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_e9e1496482051e50b4318dd969f230ca719c1af8.1920x1080.jpg?t=1644493817"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Jun 24, 2021"
+                },
+                "support_info": {
+                    "url": "https://wargaming.net/support/products/wot",
+                    "email": ""
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/page_bg_generated_v6b.jpg?t=1644493817",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    },
     "921950": {
         "921950": {
             "success": true,
@@ -9,7 +183,7 @@
                 "required_age": "17",
                 "is_free": true,
                 "controller_support": "full",
-                "detailed_description": "<h1>Free Weekend</h1><p><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/921950/extras/KCD_DLC_CA_Cover_616.jpg?t=1644585940\" /></p><br><h1>Steam Exclusive Offer</h1><p><a href=\"https://store.steampowered.com/app/970070/Fechtbuch_The_Real_Swordfighting_behind_Kingdom_Come/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/970070/Fechtbuch_The_Real_Swordfighting_behind_Kingdom_Come/</a></p><br><h1>About the Game</h1>The heart of our much-loved young Sir Hans Capon is bursting with overwhelming longing for... his latest flame. <br><br>The second DLC &quot;The Amorous Adventures of Bold Sir Hans Capon&quot; for Kingdom Come: Deliverance revolves around his attempts to woo the fairest maid he has ever set eyes upon, and his success will not depend only on his own mastery of the art of love \u2013 it\u2019s also up to his trusty wingman, you - Henry, to ensure that The Amorous Adventures of Bold Sir Hans Capon come to a happy end! <br><br>That\u2019s the main objective linking three new quests, in which you will not only have to read love poems, arrange a nighttime tryst and keep an enraged butcher at bay, but also infiltrate the camp of a band of bloodthirsty brigands, enter a dice tournament, dig up a corpse, investigate a murder and... er... perhaps commit a few. All for love, of course!",
+                "detailed_description": "<h1>Free Weekend</h1><p><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/921950/extras/KCD_DLC_CA_Cover_616.jpg?t=1644585940\" /></p><br><h1>Steam Exclusive Offer</h1><p><a href=\"https://store.steampowered.com/app/970070/Fechtbuch_The_Real_Swordfighting_behind_Kingdom_Come/\" target=\"_blank\" rel=\"noreferrer\"  id=\"dynamiclink_0\" >https://store.steampowered.com/app/970070/Fechtbuch_The_Real_Swordfighting_behind_Kingdom_Come/</a></p><br><h1>About the Game</h1>The heart of our much-loved young Sir Hans Capon is bursting with overwhelming longing for... his latest flame. <br><br>The second DLC &quot;The Amorous Adventures of Bold Sir Hans Capon&quot; for Kingdom Come: Deliverance revolves around his attempts to woo the fairest maid he has ever set eyes upon, and his success will not depend only on his own mastery of the art of love \u2013 it\u2019s also up to his trusty wingman, you - Henry, to ensure that The Amorous Adventures of Bold Sir Hans Capon come to a happy end! <br><br>That\u2019s the main objective linking three new quests, in which you will not only have to read love poems, arrange a nighttime tryst and keep an enraged butcher at bay, but also infiltrate the camp of a band of bloodthirsty brigands, enter a dice tournament, dig up a corpse, investigate a murder and... er... perhaps commit a few. All for love, of course!",
                 "about_the_game": "The heart of our much-loved young Sir Hans Capon is bursting with overwhelming longing for... his latest flame. <br />\r\n<br />\r\nThe second DLC &quot;The Amorous Adventures of Bold Sir Hans Capon&quot; for Kingdom Come: Deliverance revolves around his attempts to woo the fairest maid he has ever set eyes upon, and his success will not depend only on his own mastery of the art of love \u2013 it\u2019s also up to his trusty wingman, you - Henry, to ensure that The Amorous Adventures of Bold Sir Hans Capon come to a happy end! <br />\r\n<br />\r\nThat\u2019s the main objective linking three new quests, in which you will not only have to read love poems, arrange a nighttime tryst and keep an enraged butcher at bay, but also infiltrate the camp of a band of bloodthirsty brigands, enter a dice tournament, dig up a corpse, investigate a murder and... er... perhaps commit a few. All for love, of course!",
                 "short_description": "The second DLC for Kingdom Come: Deliverance revolves around his attempts to woo the fairest maid he has ever set eyes upon, and his success will not depend only on his own mastery of the art of love \u2013 it\u2019s also up to his trusty wingman Henry!",
                 "fullgame": {
@@ -223,7 +397,7 @@
                     }
                 ],
                 "recommendations": {
-                    "total": 573
+                    "total": 581
                 },
                 "release_date": {
                     "coming_soon": false,
@@ -240,180 +414,6 @@
                         5
                     ],
                     "notes": "There are some sex scenes, but not explicit and sexual dialogs."
-                }
-            }
-        }
-    },
-    "1662503": {
-        "1662503": {
-            "success": true,
-            "data": {
-                "type": "dlc",
-                "name": "World of Tanks \u2014 French Express Pack",
-                "steam_appid": 1662503,
-                "required_age": 0,
-                "is_free": true,
-                "detailed_description": "This DLC\u2019s name speaks for itself: French Express. The AM 39 Gendron-Somua is a French wheeled vehicle. It can reach high speeds and has an accurate gun. Wheeled vehicles are a special type, and it may take some practice to get used to not having tracks. <br><br><strong>Speed.</strong> This is a light and very maneuverable vehicle. However, one thing you need to know about wheels\u2014you can\u2019t turn on the spot. <br><br><strong>Protection</strong>. This vehicle doesn\u2019t have much HP so you need to keep some distance between yourself and the enemies and choose the right time to attack while they can\u2019t get a shot in.  <br><br><strong>Firepower. </strong>The AM 39 has an accurate gun with a high rate of fire. Your best tactics will utilize your maneuverability, concealment and the strengths of your gun.<h2 class=\"bb_tag\">Also in the package: </h2><ul class=\"bb_ul\"><li>Garage Slot <br></li><li>100% crew (Commander with Sixth Sense) <br></li><li>3 days of WoT Premium Account  </li></ul><br><strong>DLC can be added to your World of Tanks account only once. <br>You\u00a0will\u00a0be\u00a0able\u00a0to\u00a0use\u00a0this\u00a0DLC\u00a0only\u00a0if\u00a0you\u00a0play\u00a0from\u00a0the\u00a0game\u00a0account\u00a0created\u00a0on\u00a0Steam.\u00a0</strong>",
-                "about_the_game": "This DLC\u2019s name speaks for itself: French Express. The AM 39 Gendron-Somua is a French wheeled vehicle. It can reach high speeds and has an accurate gun. Wheeled vehicles are a special type, and it may take some practice to get used to not having tracks. <br><br><strong>Speed.</strong> This is a light and very maneuverable vehicle. However, one thing you need to know about wheels\u2014you can\u2019t turn on the spot. <br><br><strong>Protection</strong>. This vehicle doesn\u2019t have much HP so you need to keep some distance between yourself and the enemies and choose the right time to attack while they can\u2019t get a shot in.  <br><br><strong>Firepower. </strong>The AM 39 has an accurate gun with a high rate of fire. Your best tactics will utilize your maneuverability, concealment and the strengths of your gun.<h2 class=\"bb_tag\">Also in the package: </h2><ul class=\"bb_ul\"><li>Garage Slot <br></li><li>100% crew (Commander with Sixth Sense) <br></li><li>3 days of WoT Premium Account  </li></ul><br><strong>DLC can be added to your World of Tanks account only once. <br>You\u00a0will\u00a0be\u00a0able\u00a0to\u00a0use\u00a0this\u00a0DLC\u00a0only\u00a0if\u00a0you\u00a0play\u00a0from\u00a0the\u00a0game\u00a0account\u00a0created\u00a0on\u00a0Steam.\u00a0</strong>",
-                "short_description": "This DLC\u2019s name speaks for itself: French Express. The AM 39 Gendron-Somua is a French wheeled vehicle. It can reach high speeds and has an accurate gun. Wheeled vehicles are a special type, and it may take some practice to get used to not having tracks.",
-                "fullgame": {
-                    "appid": "1407200",
-                    "name": "World of Tanks"
-                },
-                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Czech<strong>*</strong>, Dutch, Finnish, Hungarian, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Romanian, Russian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Traditional Chinese, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/header.jpg?t=1644493817",
-                "website": "https://wargaming.net/wot",
-                "pc_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10<br></li><li><strong>Processor:</strong> A processor with at least two physical cores supporting SSE2<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600, ATI Radeon HD 4550<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 57 GB available space</li></ul>",
-                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10 \u2013 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5 (Desktop)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX660 (2GB) / Radeon HD 7850 (2GB)<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 57 GB available space</li></ul>"
-                },
-                "mac_requirements": [],
-                "linux_requirements": [],
-                "legal_notice": "\u00a9 2009\u20132022 Wargaming.net",
-                "developers": [
-                    "Wargaming Group Limited"
-                ],
-                "publishers": [
-                    "Wargaming Group Limited"
-                ],
-                "price_overview": {
-                    "currency": "USD",
-                    "initial": 599,
-                    "final": 599,
-                    "discount_percent": 100,
-                    "initial_formatted": "$5.99",
-                    "final_formatted": "Free"
-                },
-                "packages": [
-                    685060,
-                    590857
-                ],
-                "package_groups": [
-                    {
-                        "name": "default",
-                        "title": "Buy World of Tanks \u2014 French Express Pack",
-                        "description": "",
-                        "selection_text": "Select a purchase option",
-                        "save_text": "",
-                        "display_type": 0,
-                        "is_recurring_subscription": "false",
-                        "subs": [
-                            {
-                                "packageid": 685060,
-                                "percent_savings_text": "-100% ",
-                                "percent_savings": 0,
-                                "option_text": "World of Tanks - French Express Pack Limited Free Promotional Package - Feb 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": true,
-                                "price_in_cents_with_discount": 0
-                            },
-                            {
-                                "packageid": 590857,
-                                "percent_savings_text": " ",
-                                "percent_savings": 0,
-                                "option_text": "World of Tanks - French Express Pack - $5.99",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": false,
-                                "price_in_cents_with_discount": 599
-                            }
-                        ]
-                    }
-                ],
-                "platforms": {
-                    "windows": true,
-                    "mac": false,
-                    "linux": false
-                },
-                "categories": [
-                    {
-                        "id": 1,
-                        "description": "Multi-player"
-                    },
-                    {
-                        "id": 20,
-                        "description": "MMO"
-                    },
-                    {
-                        "id": 49,
-                        "description": "PvP"
-                    },
-                    {
-                        "id": 36,
-                        "description": "Online PvP"
-                    },
-                    {
-                        "id": 21,
-                        "description": "Downloadable Content"
-                    },
-                    {
-                        "id": 35,
-                        "description": "In-App Purchases"
-                    }
-                ],
-                "genres": [
-                    {
-                        "id": "1",
-                        "description": "Action"
-                    },
-                    {
-                        "id": "37",
-                        "description": "Free to Play"
-                    },
-                    {
-                        "id": "29",
-                        "description": "Massively Multiplayer"
-                    },
-                    {
-                        "id": "28",
-                        "description": "Simulation"
-                    }
-                ],
-                "screenshots": [
-                    {
-                        "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_346410f7b7e91a60ffdc6557dbde6aacd4ece559.600x338.jpg?t=1644493817",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_346410f7b7e91a60ffdc6557dbde6aacd4ece559.1920x1080.jpg?t=1644493817"
-                    },
-                    {
-                        "id": 1,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_7bb58dd23cffee2c05497b1edd337f4130889865.600x338.jpg?t=1644493817",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_7bb58dd23cffee2c05497b1edd337f4130889865.1920x1080.jpg?t=1644493817"
-                    },
-                    {
-                        "id": 2,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_631bffe728ffe14efefce93128a3c99ed47c2682.600x338.jpg?t=1644493817",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_631bffe728ffe14efefce93128a3c99ed47c2682.1920x1080.jpg?t=1644493817"
-                    },
-                    {
-                        "id": 3,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_0dc69fa01009b5f84731c1b4e18c167093db39c4.600x338.jpg?t=1644493817",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_0dc69fa01009b5f84731c1b4e18c167093db39c4.1920x1080.jpg?t=1644493817"
-                    },
-                    {
-                        "id": 4,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_1377796bf8009cd0bf6fd126e40857e23b598434.600x338.jpg?t=1644493817",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_1377796bf8009cd0bf6fd126e40857e23b598434.1920x1080.jpg?t=1644493817"
-                    },
-                    {
-                        "id": 5,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_e9e1496482051e50b4318dd969f230ca719c1af8.600x338.jpg?t=1644493817",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/ss_e9e1496482051e50b4318dd969f230ca719c1af8.1920x1080.jpg?t=1644493817"
-                    }
-                ],
-                "release_date": {
-                    "coming_soon": false,
-                    "date": "Jun 24, 2021"
-                },
-                "support_info": {
-                    "url": "https://wargaming.net/support/products/wot",
-                    "email": ""
-                },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1662503/page_bg_generated_v6b.jpg?t=1644493817",
-                "content_descriptors": {
-                    "ids": [],
-                    "notes": null
                 }
             }
         }
