@@ -1,1 +1,255 @@
-{}
+{
+    "1455900": {
+        "1455900": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Plunder Panic",
+                "steam_appid": 1455900,
+                "required_age": 0,
+                "is_free": true,
+                "controller_support": "full",
+                "detailed_description": "Plunder Panic is a swashbuckling, up to 12-player action-arcade game where two rival crews battle for supremacy on the high seas! Featuring both local and online play, work with your crew to plunder booty, defeat the enemy captain, or scuttle their ship. The first team to capture an objective wins, so be on the lookout for other sneaky pirates!<br><br>Raise the Jolly Roger and dive into this blend of classic and modern games, where retro graphics and simple controls meet fast-paced, frantic arcade action. With multiple play modes, unique power-ups and game changing modify-arrs, there are hundreds of gameplay combinations guaranteed to shiver ye timbers! Plunder Panic features flexible team configurations, including local, online, and AI-controlled players. Time to assemble your crew, get all hands on deck and send your scurvy competition to Davey Jones\u2019 Locker!<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1455900/extras/plunder1.gif?t=1645121601\" /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1455900/extras/plunder2.gif?t=1645121601\" />",
+                "about_the_game": "Plunder Panic is a swashbuckling, up to 12-player action-arcade game where two rival crews battle for supremacy on the high seas! Featuring both local and online play, work with your crew to plunder booty, defeat the enemy captain, or scuttle their ship. The first team to capture an objective wins, so be on the lookout for other sneaky pirates!<br><br>Raise the Jolly Roger and dive into this blend of classic and modern games, where retro graphics and simple controls meet fast-paced, frantic arcade action. With multiple play modes, unique power-ups and game changing modify-arrs, there are hundreds of gameplay combinations guaranteed to shiver ye timbers! Plunder Panic features flexible team configurations, including local, online, and AI-controlled players. Time to assemble your crew, get all hands on deck and send your scurvy competition to Davey Jones\u2019 Locker!<br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1455900/extras/plunder1.gif?t=1645121601\" /><br><br><img src=\"https://cdn.cloudflare.steamstatic.com/steam/apps/1455900/extras/plunder2.gif?t=1645121601\" />",
+                "short_description": "Plunder Panic is a swashbuckling, up to 12-player action-arcade game where two rival crews battle for supremacy on the high seas! With both local and online play, work with your crew to plunder booty, defeat the enemy captain, or scuttle their ship. The first team to capture an objective wins!",
+                "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/header.jpg?t=1645121601",
+                "website": "http://plunderpanic.com",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7<br></li><li><strong>Processor:</strong> 32-bit processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 510<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 64-bit processor and operating system<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 510<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.12 or later<br></li><li><strong>Processor:</strong> 64-bit processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> 2GB VRAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Integrated</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> macOS 10.15<br></li><li><strong>Processor:</strong> 64-bit processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> 4GB VRAM<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Integrated</li></ul>"
+                },
+                "linux_requirements": [],
+                "legal_notice": "Copyright 2021 Will Winn Games, Inc.",
+                "developers": [
+                    "Will Winn Games"
+                ],
+                "publishers": [
+                    "Will Winn Games"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 999,
+                    "final": 999,
+                    "discount_percent": 100,
+                    "initial_formatted": "$9.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    689579,
+                    512351
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Plunder Panic",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 689579,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Plunder Panic Limited Free Promotional Package - Feb 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 512351,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Plunder Panic - $9.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 999
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": true,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 37,
+                        "description": "Shared/Split Screen PvP"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Online Co-op"
+                    },
+                    {
+                        "id": 39,
+                        "description": "Shared/Split Screen Co-op"
+                    },
+                    {
+                        "id": 24,
+                        "description": "Shared/Split Screen"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Cross-Platform Multiplayer"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "4",
+                        "description": "Casual"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Strategy"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Early Access"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_e57f7a8d29811e59ad59ec69674ce1c195c34553.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_e57f7a8d29811e59ad59ec69674ce1c195c34553.1920x1080.jpg?t=1645121601"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_c3b4290d536d1e821aed7e63248a03965e6cda18.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_c3b4290d536d1e821aed7e63248a03965e6cda18.1920x1080.jpg?t=1645121601"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_0a5f5b19e75fcd511dbcbf94cb22e6f62cb291b6.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_0a5f5b19e75fcd511dbcbf94cb22e6f62cb291b6.1920x1080.jpg?t=1645121601"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_983ca17b7bc4c9b15cb865f7cc4df31636c64c83.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_983ca17b7bc4c9b15cb865f7cc4df31636c64c83.1920x1080.jpg?t=1645121601"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_dc9d1318df6d9057ce867c83edcf95aa272344d0.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_dc9d1318df6d9057ce867c83edcf95aa272344d0.1920x1080.jpg?t=1645121601"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_c5cbf77f33e0e7fe3ebde9472ddf8000156bf5ea.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_c5cbf77f33e0e7fe3ebde9472ddf8000156bf5ea.1920x1080.jpg?t=1645121601"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_58feeb57d89444b6a0583f4d67adb2ab8fb78815.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_58feeb57d89444b6a0583f4d67adb2ab8fb78815.1920x1080.jpg?t=1645121601"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_9a2962c4a92254acd553c6fd0ac46d6c7b6ce44d.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_9a2962c4a92254acd553c6fd0ac46d6c7b6ce44d.1920x1080.jpg?t=1645121601"
+                    },
+                    {
+                        "id": 8,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_bbf92e4c18823124b1373c9ed0c64ed5a6611d9b.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_bbf92e4c18823124b1373c9ed0c64ed5a6611d9b.1920x1080.jpg?t=1645121601"
+                    },
+                    {
+                        "id": 9,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_a7bb43717b7c8701f00e9dfc38dc2611d86ad784.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_a7bb43717b7c8701f00e9dfc38dc2611d86ad784.1920x1080.jpg?t=1645121601"
+                    },
+                    {
+                        "id": 10,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_fa77328c99408ce6d5b2da9a7d1890463d09b136.600x338.jpg?t=1645121601",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/ss_fa77328c99408ce6d5b2da9a7d1890463d09b136.1920x1080.jpg?t=1645121601"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256851054,
+                        "name": "Early Access Trailer #2",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256851054/movie.293x165.jpg?t=1631305891",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256851054/movie480_vp9.webm?t=1631305891",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256851054/movie_max_vp9.webm?t=1631305891"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256851054/movie480.mp4?t=1631305891",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256851054/movie_max.mp4?t=1631305891"
+                        },
+                        "highlight": true
+                    },
+                    {
+                        "id": 256846551,
+                        "name": "Early Access Trailer",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256846551/movie.293x165.jpg?t=1631305897",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256846551/movie480_vp9.webm?t=1631305897",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256846551/movie_max_vp9.webm?t=1631305897"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256846551/movie480.mp4?t=1631305897",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256846551/movie_max.mp4?t=1631305897"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Sep 17, 2021"
+                },
+                "support_info": {
+                    "url": "https://willwinn.games/",
+                    "email": "community@willwinn.games"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1455900/page_bg_generated_v6b.jpg?t=1645121601",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    }
+}
