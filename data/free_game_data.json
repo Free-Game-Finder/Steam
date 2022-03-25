@@ -1,1 +1,257 @@
-{}
+{
+    "1424910": {
+        "1424910": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "KEO",
+                "steam_appid": 1424910,
+                "required_age": 0,
+                "is_free": true,
+                "detailed_description": "<h2 class=\"bb_tag\"><strong><i>Disclaimer</i></strong></h2><i>&quot;We\u2019re a small indie and we\u2019re in early access so we can trial new features and grow the community, but please understand it can be difficult to get players in different time zones playing in multiple lobbies. We suggest the following times as best to join our servers<br><br><ul class=\"bb_ul\"><li><strong>Europe</strong> 8pm-10pm CET (Paris) <br></li><li><strong>Americas</strong> 8pm-10pm EST (New York)<br></li><li><strong>Asia</strong> 8pm-10pm (Beijing)</li></ul>Please bear with us as we build the player base (we\u2019re bring new a new play-whilst-you-wait-feature soon!). In the meantime, please enjoy our lobby simulator.&quot;</i><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1424910/extras/banner_1.jpg?t=1645465600\" /><br><br>It is the year 2120, humans battle for resources in an intense combat sport using high-tech remote controlled vehicles scavenged from the old world that was destroyed 66 years ago.<br><br>Battle in this team-based online multiplayer vehicle combat game set in a sci-fi post-apocalyptic world featuring different game modes such as Deathmatch, and Domination. Build your loadout to suit your playstyle and balance your team to dominate the battlefield.<h2 class=\"bb_tag\">Class Based Vehicle Combat</h2><br>Select from 6 different vehicle classes and 24 weapons to create the vehicle that best fits your playstyle. Your arsenal includes a mix of missile launchers, EMP grenades, plasma beams, landmines, and more!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1424910/extras/360.gif?t=1645465600\" /><h2 class=\"bb_tag\">Game Modes</h2><br><strong>Team Deathmatch</strong> <br>Raw mayhem! The team with the most kills wins it all in 3v3 maps. <br><br><strong>Domination</strong><br>Control the battlefield by capturing and defending outposts spread around the map that will contribute to your teams score. Whoever reaches the target score first, or has the most points when the timer reaches zero, wins.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1424910/extras/banner_2.jpg?t=1645465600\" />",
+                "about_the_game": "<h2 class=\"bb_tag\"><strong><i>Disclaimer</i></strong></h2><i>&quot;We\u2019re a small indie and we\u2019re in early access so we can trial new features and grow the community, but please understand it can be difficult to get players in different time zones playing in multiple lobbies. We suggest the following times as best to join our servers<br><br><ul class=\"bb_ul\"><li><strong>Europe</strong> 8pm-10pm CET (Paris) <br></li><li><strong>Americas</strong> 8pm-10pm EST (New York)<br></li><li><strong>Asia</strong> 8pm-10pm (Beijing)</li></ul>Please bear with us as we build the player base (we\u2019re bring new a new play-whilst-you-wait-feature soon!). In the meantime, please enjoy our lobby simulator.&quot;</i><br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1424910/extras/banner_1.jpg?t=1645465600\" /><br><br>It is the year 2120, humans battle for resources in an intense combat sport using high-tech remote controlled vehicles scavenged from the old world that was destroyed 66 years ago.<br><br>Battle in this team-based online multiplayer vehicle combat game set in a sci-fi post-apocalyptic world featuring different game modes such as Deathmatch, and Domination. Build your loadout to suit your playstyle and balance your team to dominate the battlefield.<h2 class=\"bb_tag\">Class Based Vehicle Combat</h2><br>Select from 6 different vehicle classes and 24 weapons to create the vehicle that best fits your playstyle. Your arsenal includes a mix of missile launchers, EMP grenades, plasma beams, landmines, and more!<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1424910/extras/360.gif?t=1645465600\" /><h2 class=\"bb_tag\">Game Modes</h2><br><strong>Team Deathmatch</strong> <br>Raw mayhem! The team with the most kills wins it all in 3v3 maps. <br><br><strong>Domination</strong><br>Control the battlefield by capturing and defending outposts spread around the map that will contribute to your teams score. Whoever reaches the target score first, or has the most points when the timer reaches zero, wins.<br><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1424910/extras/banner_2.jpg?t=1645465600\" />",
+                "short_description": "KEO is a team-based online multiplayer vehicle combat game set in a sci-fi post-apocalyptic world. Build your loadout to suit your playstyle and balance your team to dominate the battlefield using futuristic remote controlled vehicles!",
+                "supported_languages": "English",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/header.jpg?t=1645465600",
+                "website": "https://www.playkeo.com/",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 3 Ghz<br></li><li><strong>Memory:</strong> 2048 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia 1060<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 4Ghz<br></li><li><strong>Memory:</strong> 4096 MB RAM<br></li><li><strong>Graphics:</strong> Nvidia 2070<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "developers": [
+                    "Redcatpig Studio"
+                ],
+                "publishers": [
+                    "Digital Matters Publishing"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 999,
+                    "final": 999,
+                    "discount_percent": 100,
+                    "initial_formatted": "$9.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    690868,
+                    500352
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy KEO",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 690868,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "KEO Limited Free Promotional Package - Mar 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 500352,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "KEO - $9.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 999
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Online Co-op"
+                    },
+                    {
+                        "id": 35,
+                        "description": "In-App Purchases"
+                    },
+                    {
+                        "id": 18,
+                        "description": "Partial Controller Support"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "9",
+                        "description": "Racing"
+                    },
+                    {
+                        "id": "70",
+                        "description": "Early Access"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_dee5df121986d55e102dcbf72da6e3a260d10a35.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_dee5df121986d55e102dcbf72da6e3a260d10a35.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_9d0abe1972d1c568de9ced7b6eb314253fcf6193.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_9d0abe1972d1c568de9ced7b6eb314253fcf6193.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_d57c41f0e224d588ead91259ac4146fd2e90da08.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_d57c41f0e224d588ead91259ac4146fd2e90da08.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_124a76ab1fe261a2bc6f9900c887a0ba69758686.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_124a76ab1fe261a2bc6f9900c887a0ba69758686.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_fb0060a3e3fd27a63b4556bee5270fa969245e51.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_fb0060a3e3fd27a63b4556bee5270fa969245e51.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_61c07bbb3728fc3037bb4fc65a24eb88928f8742.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_61c07bbb3728fc3037bb4fc65a24eb88928f8742.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_ea9a2fc34557937b54aac13a8d4152db42b332ba.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_ea9a2fc34557937b54aac13a8d4152db42b332ba.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_75f2df9cf37f0bd7fa7ee96ccbbe2b48fdac38c5.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_75f2df9cf37f0bd7fa7ee96ccbbe2b48fdac38c5.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 8,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_cd5d70cd308cf3ab99a86ad5d04e520b435de479.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_cd5d70cd308cf3ab99a86ad5d04e520b435de479.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 9,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_cd453f5162a3202e124496a61c5f7b036ff97b9b.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_cd453f5162a3202e124496a61c5f7b036ff97b9b.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 10,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_7b3d2db7770b882b40ad7ebef21ea5f303c4769b.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_7b3d2db7770b882b40ad7ebef21ea5f303c4769b.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 11,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_703934ad36ea0315fb57641832b71658a6238d89.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_703934ad36ea0315fb57641832b71658a6238d89.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 12,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_cdb8159c9a5b993a7a0e104e5fba4c4ab40d5c88.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_cdb8159c9a5b993a7a0e104e5fba4c4ab40d5c88.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 13,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_31694d57a9ff79892c45840f7f916a4a018d222c.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_31694d57a9ff79892c45840f7f916a4a018d222c.1920x1080.jpg?t=1645465600"
+                    },
+                    {
+                        "id": 14,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_01e7789447b28f6eefa90eb110c6390ab4c2bfcb.600x338.jpg?t=1645465600",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/ss_01e7789447b28f6eefa90eb110c6390ab4c2bfcb.1920x1080.jpg?t=1645465600"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256843238,
+                        "name": "Announcement Trailer",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256843238/movie.293x165.jpg?t=1639764015",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256843238/movie480_vp9.webm?t=1639764015",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256843238/movie_max_vp9.webm?t=1639764015"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256843238/movie480.mp4?t=1639764015",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256843238/movie_max.mp4?t=1639764015"
+                        },
+                        "highlight": true
+                    },
+                    {
+                        "id": 256865617,
+                        "name": "Gameplay Trailer 2",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256865617/movie.293x165.jpg?t=1639764021",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256865617/movie480_vp9.webm?t=1639764021",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256865617/movie_max_vp9.webm?t=1639764021"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256865617/movie480.mp4?t=1639764021",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256865617/movie_max.mp4?t=1639764021"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Dec 9, 2021"
+                },
+                "support_info": {
+                    "url": "www.redcatpig.com",
+                    "email": "studio@redcatpig.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/page_bg_generated_v6b.jpg?t=1645465600",
+                "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1424910/page.bg.jpg?t=1645465600",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    }
+}
