@@ -1,1 +1,258 @@
-{}
+{
+    "1691560": {
+        "1691560": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Mido and Di",
+                "steam_appid": 1691560,
+                "required_age": 0,
+                "is_free": true,
+                "controller_support": "full",
+                "dlc": [
+                    1793830
+                ],
+                "detailed_description": "Mido is an alien kid having nightmares about zombie aliens. One night he draws a creature, Di, and it comes alive to teach Mido how to fight zombies.<br />\r\n<br />\r\nMido and Di was a short animation project we wrote but couldn't complete nearly 15 years ago. This game is based on that story, but the story is not playing much part in the game. This is a frantic action, third person, zombie shooting game. You play in simplistic, beautiful looking levels, trying to shoot zombie aliens before they got you. The zombie aliens are coming in waves, like a tower defense game but this is a third person look to that mechanic. You have three different weapons and they are very fun to use. Combining ice and fire weapon, you can even get coins out of zombies. With that coins you upgrade weapons.<br />\r\n<br />\r\nIf you are interested to read the story of the animation, here it is (and I will write it like a storyboard concept) :<br />\r\n-Mido is having another nightmare. Objects in his room has changed shape and looks very scary.<br />\r\n-He wakes up. It is another school morning. He waits the school bus. When the bus comes camera goes black.<br />\r\n-Mido returns home from school. He goes to his room and throws his bag with anger.<br />\r\n-He draws a creature to a paper and hangs it on his wall. He names it Di.<br />\r\n-He goes to sleep and he is having another nightmare. But this time, his friend Di, rescues him.<br />\r\n-He wakes up. There is rain outside. He is afraid of thunder but he gets close to window. He opens it.<br />\r\n-Di approaches from sky and takes Mido's hand.<br />\r\n-They rise up above and we see a star like shine after they got out of our sight.",
+                "about_the_game": "Mido is an alien kid having nightmares about zombie aliens. One night he draws a creature, Di, and it comes alive to teach Mido how to fight zombies.<br />\r\n<br />\r\nMido and Di was a short animation project we wrote but couldn't complete nearly 15 years ago. This game is based on that story, but the story is not playing much part in the game. This is a frantic action, third person, zombie shooting game. You play in simplistic, beautiful looking levels, trying to shoot zombie aliens before they got you. The zombie aliens are coming in waves, like a tower defense game but this is a third person look to that mechanic. You have three different weapons and they are very fun to use. Combining ice and fire weapon, you can even get coins out of zombies. With that coins you upgrade weapons.<br />\r\n<br />\r\nIf you are interested to read the story of the animation, here it is (and I will write it like a storyboard concept) :<br />\r\n-Mido is having another nightmare. Objects in his room has changed shape and looks very scary.<br />\r\n-He wakes up. It is another school morning. He waits the school bus. When the bus comes camera goes black.<br />\r\n-Mido returns home from school. He goes to his room and throws his bag with anger.<br />\r\n-He draws a creature to a paper and hangs it on his wall. He names it Di.<br />\r\n-He goes to sleep and he is having another nightmare. But this time, his friend Di, rescues him.<br />\r\n-He wakes up. There is rain outside. He is afraid of thunder but he gets close to window. He opens it.<br />\r\n-Di approaches from sky and takes Mido's hand.<br />\r\n-They rise up above and we see a star like shine after they got out of our sight.",
+                "short_description": "Mido is an alien kid having nightmares about zombie aliens. One night he draws a creature, Di, and it comes alive to teach Mido how to fight zombies.",
+                "supported_languages": "English, French, Italian, German, Spanish - Spain, Hungarian, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Turkish",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/header.jpg?t=1650051102",
+                "website": null,
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> AMD / Intel CPU running at 3.0 GHz or higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD/NVIDIA dedicated graphics card, with at least 4GB of dedicated VRAM and with at least DirectX 11.0 and Shader Model 5.1 support<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Integrated or dedicated DirectX 9 compatible soundcard</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> AMD / Intel CPU running at 3.5 GHz or higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD/NVIDIA dedicated graphics card, with at least 4GB of dedicated VRAM and with at least DirectX 12.0 and Shader Model 6.0 support<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Integrated or dedicated DirectX 9 compatible soundcard</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "developers": [
+                    "Alper Gonen",
+                    "Dogan Dipcin"
+                ],
+                "publishers": [
+                    "Alper Gonen"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 599,
+                    "final": 599,
+                    "discount_percent": 100,
+                    "initial_formatted": "$5.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    712199,
+                    602480
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Mido and Di",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 712199,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Mido and Di Limited Free Promotional Package - Apr 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 602480,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Mido and Di - $5.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 599
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_5d4571773a62053304e423ead9c9815726ca2ea4.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_5d4571773a62053304e423ead9c9815726ca2ea4.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_46c27e22ea4b503b3d6dcb5dbee9c4f0e7ffad19.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_46c27e22ea4b503b3d6dcb5dbee9c4f0e7ffad19.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_e80a3d64cc41965f0428c43eee92de23918f2bd7.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_e80a3d64cc41965f0428c43eee92de23918f2bd7.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_5e53c09a2fe600c0e348d17f40cc42a0ffb173ac.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_5e53c09a2fe600c0e348d17f40cc42a0ffb173ac.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_0a70e381404b14bb8ac29bf7fb088276c007a455.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_0a70e381404b14bb8ac29bf7fb088276c007a455.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_0ce8351a4db6fecd1ed9b3e4aa9d7eadc4ff7f05.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_0ce8351a4db6fecd1ed9b3e4aa9d7eadc4ff7f05.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_d1b255e57b9a755fd355810d6387bb6376217aed.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_d1b255e57b9a755fd355810d6387bb6376217aed.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_a1ff25ebd847fabf95134c7c9f0169532b725204.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_a1ff25ebd847fabf95134c7c9f0169532b725204.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 8,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_ed0d23c7929df0731381538a58f198469e513e5e.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_ed0d23c7929df0731381538a58f198469e513e5e.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 9,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_ed8ebe096f26a2ca687dbf33181fae6b4a861790.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_ed8ebe096f26a2ca687dbf33181fae6b4a861790.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 10,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_b591efcb87dedb1c58b0a0037158bb0c55804c00.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_b591efcb87dedb1c58b0a0037158bb0c55804c00.1920x1080.jpg?t=1650051102"
+                    },
+                    {
+                        "id": 11,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_a69b73b54b80c5b30e9d584265578a41708cff6e.600x338.jpg?t=1650051102",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/ss_a69b73b54b80c5b30e9d584265578a41708cff6e.1920x1080.jpg?t=1650051102"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256844943,
+                        "name": "Trailer1",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256844943/movie.293x165.jpg?t=1628204541",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256844943/movie480_vp9.webm?t=1628204541",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256844943/movie_max_vp9.webm?t=1628204541"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256844943/movie480.mp4?t=1628204541",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256844943/movie_max.mp4?t=1628204541"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "achievements": {
+                    "total": 33,
+                    "highlighted": [
+                        {
+                            "name": "No more zombies at basketball court!",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/c29c1d62b85777248a72ebd0269d83116cdb6a9f.jpg"
+                        },
+                        {
+                            "name": "No more zombies at classroom!",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/2929ccfc7075a077b16bfb018ab709624eea6952.jpg"
+                        },
+                        {
+                            "name": "Zombie destroyer!",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/21cdd1687f7507d6060934d13ea0e6822d576541.jpg"
+                        },
+                        {
+                            "name": "No more zombies at coffee shop!",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/14ef25da6d6246cc814f54d4df3bc6cd228a3329.jpg"
+                        },
+                        {
+                            "name": "I have money now!",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/affb44d24862d0e82cc8ee47d285f1907c7b024d.jpg"
+                        },
+                        {
+                            "name": "Sweet coins!",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/593e4761080c058d845536b219cdfc2597576c49.jpg"
+                        },
+                        {
+                            "name": "I am rich!",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/9bf848e67018747c17af65f9d11f32007c84a9a5.jpg"
+                        },
+                        {
+                            "name": "No more zombies at gallery!",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/fcf04c789bab33f6f42ea093834cb7c616187ef2.jpg"
+                        },
+                        {
+                            "name": "No more zombies at greenhouse!",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/23e02603c46b042f54d219a499d6ed7da2bb7b7b.jpg"
+                        },
+                        {
+                            "name": "No more zombies at gym!",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1691560/dda5a8ffb65d77c6b467b30aca0d415d2e2ef090.jpg"
+                        }
+                    ]
+                },
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Nov 23, 2021"
+                },
+                "support_info": {
+                    "url": "",
+                    "email": "alper.gonen@hotmail.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/page_bg_generated_v6b.jpg?t=1650051102",
+                "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1691560/page.bg.jpg?t=1650051102",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    }
+}
