@@ -1,1 +1,172 @@
-{}
+{
+    "1662502": {
+        "1662502": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "World of Tanks \u2014 Lightweight Fighter Pack",
+                "steam_appid": 1662502,
+                "required_age": 0,
+                "is_free": true,
+                "detailed_description": "The Lightweight Fighter DLC comes with the dangerous Cromwell B. This famous tank has taken part in a lot of battles and can help you win some of your own. This tank is fast, and its gun can turn the tide of the battle. Still, this is a medium, not a heavy tank, so you need to watch out and not allow your rivals to get too many shots in. <br><br><strong>Cromwell B. </strong>The B stands for Berlin. The vehicle was made famous by the British 7th Armored Division. In their Cromwells they fought across France and into Germany, and eventually took part in the Victory Parade on September 7, 1945, in Berlin. <br><br><strong>Speed and Firepower. </strong>There are two things that stand out about the Cromwell: It\u2019s quick-firing gun can tear enemies apart and it boasts amazing speed. This tank plays nearly identically to the standard Cromwell, being able to be used as either an aggressive flanker or a mid-range support medium tank. <br><br><strong>Protection.</strong> It\u2019s a delicate tank and care must be taken to not take hits in the early stages of battle, as it will lower your ability to engage harder targets later on.<h2 class=\"bb_tag\">Also in the package: </h2><ul class=\"bb_ul\"><li>Garage Slot <br></li><li>100% crew (Commander with Sixth Sense) <br></li><li>700,000 credits  <br></li><li>3 Demount Kits </li></ul><br><strong>DLC can be added to your World of Tanks account only once. <br>You\u00a0will\u00a0be\u00a0able\u00a0to\u00a0use\u00a0this\u00a0DLC\u00a0only\u00a0if\u00a0you\u00a0play\u00a0from\u00a0the\u00a0game\u00a0account\u00a0created\u00a0on\u00a0Steam.\u00a0</strong>",
+                "about_the_game": "The Lightweight Fighter DLC comes with the dangerous Cromwell B. This famous tank has taken part in a lot of battles and can help you win some of your own. This tank is fast, and its gun can turn the tide of the battle. Still, this is a medium, not a heavy tank, so you need to watch out and not allow your rivals to get too many shots in. <br><br><strong>Cromwell B. </strong>The B stands for Berlin. The vehicle was made famous by the British 7th Armored Division. In their Cromwells they fought across France and into Germany, and eventually took part in the Victory Parade on September 7, 1945, in Berlin. <br><br><strong>Speed and Firepower. </strong>There are two things that stand out about the Cromwell: It\u2019s quick-firing gun can tear enemies apart and it boasts amazing speed. This tank plays nearly identically to the standard Cromwell, being able to be used as either an aggressive flanker or a mid-range support medium tank. <br><br><strong>Protection.</strong> It\u2019s a delicate tank and care must be taken to not take hits in the early stages of battle, as it will lower your ability to engage harder targets later on.<h2 class=\"bb_tag\">Also in the package: </h2><ul class=\"bb_ul\"><li>Garage Slot <br></li><li>100% crew (Commander with Sixth Sense) <br></li><li>700,000 credits  <br></li><li>3 Demount Kits </li></ul><br><strong>DLC can be added to your World of Tanks account only once. <br>You\u00a0will\u00a0be\u00a0able\u00a0to\u00a0use\u00a0this\u00a0DLC\u00a0only\u00a0if\u00a0you\u00a0play\u00a0from\u00a0the\u00a0game\u00a0account\u00a0created\u00a0on\u00a0Steam.\u00a0</strong>",
+                "short_description": "The Lightweight Fighter DLC comes with the dangerous Cromwell B. This tank is fast, and its gun can turn the tide of the battle. Still, this is a medium, not a heavy tank, so you need to watch out and not allow your rivals to get too many shots in.",
+                "fullgame": {
+                    "appid": "1407200",
+                    "name": "World of Tanks"
+                },
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Czech<strong>*</strong>, Dutch, Finnish, Hungarian, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Romanian, Russian<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Traditional Chinese, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/header.jpg?t=1651637145",
+                "website": "https://wargaming.net/wot",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10<br></li><li><strong>Processor:</strong> A processor with at least two physical cores supporting SSE2<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce 8600, ATI Radeon HD 4550<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 57 GB available space</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 / 8 / 10 \u2013 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5 (Desktop)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> GeForce GTX660 (2GB) / Radeon HD 7850 (2GB)<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 57 GB available space</li></ul>"
+                },
+                "mac_requirements": [],
+                "linux_requirements": [],
+                "legal_notice": "\u00a9 2009\u20132022 Wargaming.net",
+                "developers": [
+                    "Wargaming Group Limited"
+                ],
+                "publishers": [
+                    "Wargaming Group Limited"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 1999,
+                    "final": 1999,
+                    "discount_percent": 100,
+                    "initial_formatted": "$19.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    718646,
+                    590854
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy World of Tanks \u2014 Lightweight Fighter Pack",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 718646,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "World of Tanks - Lightweight Fighter Pack Limited Free Promotional Package - May 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 590854,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "World of Tanks - Lightweight Fighter Pack - $19.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 1999
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 20,
+                        "description": "MMO"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 35,
+                        "description": "In-App Purchases"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "37",
+                        "description": "Free to Play"
+                    },
+                    {
+                        "id": "29",
+                        "description": "Massively Multiplayer"
+                    },
+                    {
+                        "id": "28",
+                        "description": "Simulation"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/ss_1e771c87c427fbbf908cccf650c900a60cfe148f.600x338.jpg?t=1651637145",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/ss_1e771c87c427fbbf908cccf650c900a60cfe148f.1920x1080.jpg?t=1651637145"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/ss_0b323002d5d5554d8fe25d55c33546a8bfcd15d2.600x338.jpg?t=1651637145",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/ss_0b323002d5d5554d8fe25d55c33546a8bfcd15d2.1920x1080.jpg?t=1651637145"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/ss_10607da159e26b712715ced06df11719394d084b.600x338.jpg?t=1651637145",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/ss_10607da159e26b712715ced06df11719394d084b.1920x1080.jpg?t=1651637145"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/ss_8d54d1034a39916ce76a25d5cba177a29f7e7df7.600x338.jpg?t=1651637145",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/ss_8d54d1034a39916ce76a25d5cba177a29f7e7df7.1920x1080.jpg?t=1651637145"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/ss_59cfa744609dfd4e53b214ffc2c7a6a5061a5934.600x338.jpg?t=1651637145",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/ss_59cfa744609dfd4e53b214ffc2c7a6a5061a5934.1920x1080.jpg?t=1651637145"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Jun 24, 2021"
+                },
+                "support_info": {
+                    "url": "https://wargaming.net/support/products/wot",
+                    "email": ""
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/page_bg_generated_v6b.jpg?t=1651637145",
+                "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1662502/page.bg.jpg?t=1651637145",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    }
+}
