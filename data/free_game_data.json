@@ -7,7 +7,7 @@
                 "name": "Tell Me Why",
                 "steam_appid": 1180660,
                 "required_age": "17",
-                "is_free": false,
+                "is_free": true,
                 "controller_support": "full",
                 "dlc": [
                     1432030
@@ -40,6 +40,7 @@
                     "final_formatted": "Free"
                 },
                 "packages": [
+                    730490,
                     405719
                 ],
                 "package_groups": [
@@ -52,6 +53,16 @@
                         "display_type": 0,
                         "is_recurring_subscription": "false",
                         "subs": [
+                            {
+                                "packageid": 730490,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Tell Me Why Limited Free Promotional Package - Jun 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
                             {
                                 "packageid": 405719,
                                 "percent_savings_text": " ",
@@ -209,6 +220,626 @@
                         5
                     ],
                     "notes": "Drug Reference\r\nMild Blood\r\nStrong Language\r\nViolence"
+                }
+            }
+        }
+    },
+    "1543420": {
+        "1543420": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "Dying Light - Harran Tactical Unit Bundle",
+                "steam_appid": 1543420,
+                "required_age": "17",
+                "is_free": true,
+                "controller_support": "full",
+                "detailed_description": "Join the Harran Tactical Unit with this new bundle and help your team members pacify the zombie situation!<br><br>Here, only the best will make it. Become a part of an elite police unit and investigate the dangers lurking in Harran. Form a team with your friends to make sure you\u2019re covered!<br><br>The zombies refuse to give up; in fact, their numbers are rising as we speak. With the situation in Harran getting worse by the hour, we\u2019re left with no other choice but to send a <strong>Harran Tactical Unit</strong> into the city. Become one of these <i>elite officers and give the infected a taste of what happens when professionals enter the scene</i>. Which you\u2019ll do at roaring speed in your new buggy, the <strong>Four-Wheeler</strong>. By the time zombies see your lights flashing, it will be too late for them to retreat. Clear your way with a special <strong>HTU hammer</strong> that\u2019ll send your enemies flying with its <strong>permanent hypermode effect</strong>. Then, open fire before they rally and pick them off with your <strong>new rifle or shotgun</strong>. Do whatever\u2019s necessary, but remember: the operation must not fail.<br><br><ul class=\"bb_ul\">The bundle contains:<li>Protector \u2013 a Harran Tactical Unit armor skin<br></li><li>Dispatcher \u2013 a Harran Tactical Unit shotgun<br></li><li>Guardian \u2013 a Harran Tactical Unit rifle with burst fire<br></li><li>HyperArgument \u2013 a Harran Tactical Unit Hammer with permanent hypermode effect<br></li><li>Four-Wheeler \u2013 a Harran Tactical Unit buggy skin with police lights effect</li><li></li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1543420/extras/HQ_HTU_GIF.gif?t=1654101972\" /><br><br><i>Please note, buggy paint job requires Dying Light: The Following expansion pack.</i>",
+                "about_the_game": "Join the Harran Tactical Unit with this new bundle and help your team members pacify the zombie situation!<br><br>Here, only the best will make it. Become a part of an elite police unit and investigate the dangers lurking in Harran. Form a team with your friends to make sure you\u2019re covered!<br><br>The zombies refuse to give up; in fact, their numbers are rising as we speak. With the situation in Harran getting worse by the hour, we\u2019re left with no other choice but to send a <strong>Harran Tactical Unit</strong> into the city. Become one of these <i>elite officers and give the infected a taste of what happens when professionals enter the scene</i>. Which you\u2019ll do at roaring speed in your new buggy, the <strong>Four-Wheeler</strong>. By the time zombies see your lights flashing, it will be too late for them to retreat. Clear your way with a special <strong>HTU hammer</strong> that\u2019ll send your enemies flying with its <strong>permanent hypermode effect</strong>. Then, open fire before they rally and pick them off with your <strong>new rifle or shotgun</strong>. Do whatever\u2019s necessary, but remember: the operation must not fail.<br><br><ul class=\"bb_ul\">The bundle contains:<li>Protector \u2013 a Harran Tactical Unit armor skin<br></li><li>Dispatcher \u2013 a Harran Tactical Unit shotgun<br></li><li>Guardian \u2013 a Harran Tactical Unit rifle with burst fire<br></li><li>HyperArgument \u2013 a Harran Tactical Unit Hammer with permanent hypermode effect<br></li><li>Four-Wheeler \u2013 a Harran Tactical Unit buggy skin with police lights effect</li><li></li></ul><br><img src=\"https://cdn.akamai.steamstatic.com/steam/apps/1543420/extras/HQ_HTU_GIF.gif?t=1654101972\" /><br><br><i>Please note, buggy paint job requires Dying Light: The Following expansion pack.</i>",
+                "short_description": "Join the Harran Tactical Unit with this new bundle and help your team members pacify the zombie situation!",
+                "fullgame": {
+                    "appid": "239140",
+                    "name": "Dying Light"
+                },
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Dutch, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian, Korean, Simplified Chinese, Spanish - Latin America, Japanese, Thai, Traditional Chinese, Turkish, Czech<br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1543420/header.jpg?t=1654101972",
+                "website": "https://dyinglightgame.com/?utm_source=Steam&amp;utm_medium=Link&amp;utm_campaign=Dying_Light",
+                "pc_requirements": {
+                    "minimum": "<strong>MINIMUM:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae 7 64-bit / Windows\u00ae 8 64-bit / Windows\u00ae 8.1 64-bit<br>\t</li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHz<br>\t</li><li><strong>Memory:</strong> 4 GB RAM DDR3<br>\t</li><li><strong>Hard Drive:</strong> 40 GB free space<br>\t</li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 560 / AMD Radeon\u2122 HD 6870 (1GB VRAM)<br>        </li><li><strong>DirectX\u00ae:</strong> Version 11<br>        </li><li><strong>Sound:</strong> DirectX\u00ae compatible<br>        </li><li><strong>Additional Notes:</strong> Laptop versions of graphics cards may work but are NOT officially supported.<br><br>Windows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)</li></ul>",
+                    "recommended": "<strong>RECOMMENDED:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows\u00ae 7 64-bit / Windows\u00ae 8 64-bit / Windows\u00ae 8.1 64-bit<br>\t</li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHz <br>\t</li><li><strong>Memory:</strong> 8 GB RAM DDR3<br>\t</li><li><strong>Hard Drive:</strong> 40 GB free space<br>\t</li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 780 / AMD Radeon\u2122 R9 290 (2GB VRAM)<br>        </li><li><strong>DirectX\u00ae:</strong> Version 11<br>        </li><li><strong>Sound:</strong> DirectX\u00ae compatible<br>        </li><li><strong>Additional Notes:</strong> Laptop versions of graphics cards may work but are NOT officially supported.<br><br>Windows-compatible keyboard, mouse, optional controller (Xbox 360 Controller for Windows recommended)</li></ul>"
+                },
+                "mac_requirements": [],
+                "linux_requirements": [],
+                "legal_notice": "DYING LIGHT & DYING LIGHT: THE FOLLOWING \u00a9 Techland 2021. Published by Techland. All other trademarks and copyrights are the property of their respective owners.",
+                "developers": [
+                    "Techland"
+                ],
+                "publishers": [
+                    "Techland Publishing"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 299,
+                    "final": 149,
+                    "discount_percent": 100,
+                    "initial_formatted": "$2.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    730514,
+                    545036,
+                    633707
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Dying Light - Harran Tactical Unit Bundle",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 730514,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Dying Light - Harran Tactical Unit Bundle Limited Free Promotional Package - Jun 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 545036,
+                                "percent_savings_text": "-50% ",
+                                "percent_savings": 0,
+                                "option_text": "Dying Light - Harran Tactical Unit Bundle - <span class=\"discount_original_price\">$2.99</span> $1.49",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 149
+                            },
+                            {
+                                "packageid": 633707,
+                                "percent_savings_text": "-70% ",
+                                "percent_savings": 0,
+                                "option_text": "Dying Light Definitive Edition - <span class=\"discount_original_price\">$49.99</span> $14.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 1499
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": true,
+                    "linux": true
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Online Co-op"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Steam Trading Cards"
+                    },
+                    {
+                        "id": 30,
+                        "description": "Steam Workshop"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 8,
+                        "description": "Valve Anti-Cheat enabled"
+                    },
+                    {
+                        "id": 17,
+                        "description": "Includes level editor"
+                    },
+                    {
+                        "id": 42,
+                        "description": "Remote Play on Tablet"
+                    },
+                    {
+                        "id": 43,
+                        "description": "Remote Play on TV"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1543420/ss_cabe0ea715545c16a3d98e101f61d7302f510a4c.600x338.jpg?t=1654101972",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1543420/ss_cabe0ea715545c16a3d98e101f61d7302f510a4c.1920x1080.jpg?t=1654101972"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256823386,
+                        "name": "ESRB_Trailer",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256823386/movie.293x165.jpg?t=1614265100",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256823386/movie480_vp9.webm?t=1614265100",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256823386/movie_max_vp9.webm?t=1614265100"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256823386/movie480.mp4?t=1614265100",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256823386/movie_max.mp4?t=1614265100"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "recommendations": {
+                    "total": 101
+                },
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Feb 25, 2021"
+                },
+                "support_info": {
+                    "url": "http://support.techland.pl/",
+                    "email": "support@techland.pl"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1543420/page_bg_generated_v6b.jpg?t=1654101972",
+                "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1543420/page_bg_generated.jpg?t=1654101972",
+                "content_descriptors": {
+                    "ids": [
+                        2,
+                        5
+                    ],
+                    "notes": null
+                }
+            }
+        }
+    },
+    "1515950": {
+        "1515950": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Capcom Arcade Stadium",
+                "steam_appid": 1515950,
+                "required_age": 0,
+                "is_free": true,
+                "controller_support": "full",
+                "dlc": [
+                    1556690,
+                    1556700,
+                    1556701,
+                    1556702,
+                    1556703,
+                    1556704,
+                    1556705,
+                    1556706,
+                    1556707,
+                    1556708,
+                    1556709,
+                    1556710,
+                    1556711,
+                    1556712,
+                    1556713,
+                    1556714,
+                    1556715,
+                    1556716,
+                    1556717,
+                    1556718,
+                    1556719,
+                    1556720,
+                    1556721,
+                    1556722,
+                    1556723,
+                    1556724,
+                    1556725,
+                    1556726,
+                    1556727,
+                    1556728,
+                    1556729,
+                    1560440,
+                    1556730,
+                    1611170,
+                    1611180,
+                    1611190,
+                    1611200,
+                    1611210,
+                    1611220,
+                    1611230,
+                    1611240,
+                    1611250,
+                    1611260
+                ],
+                "detailed_description": "Relive the Capcom classics!<br />\r\nGet 1943 -The Battle of Midway- and game logo wallpapers free with your download!<br />\r\n<br />\r\nShooters, fighting, action\u2014all your favorite genres in this exciting collection! Capcom Arcade Stadium brings back all the nostalgia of the arcade, while adding in new and exciting features you'll wish you had back then!<br />\r\n<br />\r\nJust Like the Good Old Days<br />\r\nFrom 3D-rendered arcade cabinets to scanline filters, there's everything you need to recreate that arcade atmosphere. Fully customizable display settings let you craft your own personal experience and truly relive the glory days of arcade gaming.<br />\r\n<br />\r\nBrand New Ways to Play<br />\r\nWith gameplay rewind, speed adjustment, and the ability to save and load your game at any time, your old favorites will feel new all over again!<br />\r\nEvery game has online leaderboard rankings, so you can see where you stack up against players all over the world!<br />\r\nCapcom Arcade Stadium, where retro appeal meets cutting-edge features for a fresh take on Capcom's classics!<br />\r\n<br />\r\nIncluded Title<br />\r\n1943 - The Battle of Midway -<br />\r\nPlayers: 1-2 Co-Op<br />\r\nGenre: Shooting<br />\r\nVersions: Japanese &amp; English<br />\r\n<br />\r\nNote: <br />\r\n- Player numbers differ based on the game. Multiplayer gameplay is available on local connections only.<br />\r\n- Game logo wallpapers will download to the following folder on your computer: <br />\r\n...\\steamapps\\common\\Capcom Arcade Stadium\\Wallpaper",
+                "about_the_game": "Relive the Capcom classics!<br />\r\nGet 1943 -The Battle of Midway- and game logo wallpapers free with your download!<br />\r\n<br />\r\nShooters, fighting, action\u2014all your favorite genres in this exciting collection! Capcom Arcade Stadium brings back all the nostalgia of the arcade, while adding in new and exciting features you'll wish you had back then!<br />\r\n<br />\r\nJust Like the Good Old Days<br />\r\nFrom 3D-rendered arcade cabinets to scanline filters, there's everything you need to recreate that arcade atmosphere. Fully customizable display settings let you craft your own personal experience and truly relive the glory days of arcade gaming.<br />\r\n<br />\r\nBrand New Ways to Play<br />\r\nWith gameplay rewind, speed adjustment, and the ability to save and load your game at any time, your old favorites will feel new all over again!<br />\r\nEvery game has online leaderboard rankings, so you can see where you stack up against players all over the world!<br />\r\nCapcom Arcade Stadium, where retro appeal meets cutting-edge features for a fresh take on Capcom's classics!<br />\r\n<br />\r\nIncluded Title<br />\r\n1943 - The Battle of Midway -<br />\r\nPlayers: 1-2 Co-Op<br />\r\nGenre: Shooting<br />\r\nVersions: Japanese &amp; English<br />\r\n<br />\r\nNote: <br />\r\n- Player numbers differ based on the game. Multiplayer gameplay is available on local connections only.<br />\r\n- Game logo wallpapers will download to the following folder on your computer: <br />\r\n...\\steamapps\\common\\Capcom Arcade Stadium\\Wallpaper",
+                "short_description": "Relive the Capcom classics! Get 1943 -The Battle of Midway- and game logo wallpapers free with your download!",
+                "supported_languages": "English, French, Italian, German, Spanish - Spain, Thai, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Japanese, Korean",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/header.jpg?t=1654626176",
+                "website": "https://www.capcom-arcade-stadium.com",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WINDOWS\u00ae 10 (64-BIT Required)<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i5-4460 or AMD FX\u2122-6300 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 760 or AMD Radeon\u2122 R7 260x with 2GB Video RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> Hardware specification target 720P/60FPS. *Xinput support Controllers recommended</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> WINDOWS\u00ae 10 (64-BIT Required)<br></li><li><strong>Processor:</strong> Intel\u00ae Core\u2122 i7-3770 or AMD FX\u2122-9590 or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA\u00ae GeForce\u00ae GTX 1060 or AMD Radeon\u2122 RX 480 with 3GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 4 GB available space<br></li><li><strong>Additional Notes:</strong> Hardware specification target 1080P/60FPS. *Xinput support Controllers recommended</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "linux_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+                },
+                "legal_notice": "\u00a9Thirdline<br />\r\n\u00a9HIROSHI MOTOMIYA \u00a9Thirdline \u00a9SHUEISHA<br />\r\n\u00a9CAPCOM CO., LTD. 2021 ALL RIGHTS RESERVED.",
+                "developers": [
+                    "CAPCOM Co., Ltd."
+                ],
+                "publishers": [
+                    "CAPCOM Co., Ltd."
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 1510,
+                    "final": 996,
+                    "discount_percent": 100,
+                    "initial_formatted": "$15.10",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    534367,
+                    733011,
+                    595354,
+                    595357,
+                    595360,
+                    595363,
+                    595366
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Capcom Arcade Stadium",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 534367,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Capcom Arcade Stadium - Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 733011,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Capcom Arcade Stadium Limited Free Promotional Package - Jun 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 595354,
+                                "percent_savings_text": "-34% ",
+                                "percent_savings": 0,
+                                "option_text": "Capcom Arcade Stadium Pack 1: Dawn of the Arcade (\u201984 \u2013 \u201988) - <span class=\"discount_original_price\">$15.10</span> $9.96",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 996
+                            },
+                            {
+                                "packageid": 595357,
+                                "percent_savings_text": "-34% ",
+                                "percent_savings": 0,
+                                "option_text": "Capcom Arcade Stadium Pack 2: Arcade Revolution (\u201989 \u2013 \u201992) - <span class=\"discount_original_price\">$15.10</span> $9.96",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 996
+                            },
+                            {
+                                "packageid": 595360,
+                                "percent_savings_text": "-34% ",
+                                "percent_savings": 0,
+                                "option_text": "Capcom Arcade Stadium Pack 3: Arcade Evolution (\u201992 \u2013 \u201901) - <span class=\"discount_original_price\">$15.10</span> $9.96",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 996
+                            },
+                            {
+                                "packageid": 595363,
+                                "percent_savings_text": "-50% ",
+                                "percent_savings": 0,
+                                "option_text": "Capcom Arcade Stadium Packs 1, 2, and 3 - <span class=\"discount_original_price\">$40.50</span> $20.25",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 2025
+                            },
+                            {
+                                "packageid": 595366,
+                                "percent_savings_text": "-41% ",
+                                "percent_savings": 0,
+                                "option_text": "Capcom Arcade Stadium Packs 1, 2, and 3 \u2013 Mini-Album Bundle - <span class=\"discount_original_price\">$48.40</span> $28.55",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 2855
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 39,
+                        "description": "Shared/Split Screen Co-op"
+                    },
+                    {
+                        "id": 24,
+                        "description": "Shared/Split Screen"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Steam Trading Cards"
+                    },
+                    {
+                        "id": 35,
+                        "description": "In-App Purchases"
+                    },
+                    {
+                        "id": 44,
+                        "description": "Remote Play Together"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "37",
+                        "description": "Free to Play"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_4edfca19595bf20053f387f0addaa544a03aa57f.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_4edfca19595bf20053f387f0addaa544a03aa57f.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_6e008f836ceecfcac2c4d1d54fe2bc9fcba4bfd1.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_6e008f836ceecfcac2c4d1d54fe2bc9fcba4bfd1.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_71bbf680a0bf36be44707309976c36001ed0246e.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_71bbf680a0bf36be44707309976c36001ed0246e.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_ad12a484449be48cf5d5c08f7c175797fd0b28e8.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_ad12a484449be48cf5d5c08f7c175797fd0b28e8.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_045a45168f4c63c0813464c85738801be3deaaa1.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_045a45168f4c63c0813464c85738801be3deaaa1.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_a59f5afdfe7096c8d5c7a50b47698ce76ecea70d.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_a59f5afdfe7096c8d5c7a50b47698ce76ecea70d.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 6,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_89820c5f2e7c86f2758e90eeda24083a261eebf1.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_89820c5f2e7c86f2758e90eeda24083a261eebf1.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 7,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_caafb1953bfd6f9e9d7916a803c7640b1b1e0264.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_caafb1953bfd6f9e9d7916a803c7640b1b1e0264.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 8,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_af25eb5d66080b82581e111679170d9b5bf11c45.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_af25eb5d66080b82581e111679170d9b5bf11c45.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 9,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_024d1ccf685afdc95efcbdb3c3b95efc1d24c284.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_024d1ccf685afdc95efcbdb3c3b95efc1d24c284.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 10,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_565e060736eb92685f28e324fe72aa6bf5eb4276.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_565e060736eb92685f28e324fe72aa6bf5eb4276.1920x1080.jpg?t=1654626176"
+                    },
+                    {
+                        "id": 11,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_c59866f9c96a49fda5da3a3bed782f93aac298b7.600x338.jpg?t=1654626176",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/ss_c59866f9c96a49fda5da3a3bed782f93aac298b7.1920x1080.jpg?t=1654626176"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256834624,
+                        "name": "Reiwa_AnnouncePV_STEAM_ESRB.mp4",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256834624/movie.293x165.jpg?t=1620974571",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256834624/movie480_vp9.webm?t=1620974571",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256834624/movie_max_vp9.webm?t=1620974571"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256834624/movie480.mp4?t=1620974571",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256834624/movie_max.mp4?t=1620974571"
+                        },
+                        "highlight": true
+                    },
+                    {
+                        "id": 256834623,
+                        "name": "Reiwa_GamePV_STEAM_ESRB.mp4",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256834623/movie.293x165.jpg?t=1620974634",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256834623/movie480_vp9.webm?t=1620974634",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256834623/movie_max_vp9.webm?t=1620974634"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256834623/movie480.mp4?t=1620974634",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256834623/movie_max.mp4?t=1620974634"
+                        },
+                        "highlight": true
+                    },
+                    {
+                        "id": 256834621,
+                        "name": "Reiwa_LaunchPV_STEAM_ESRB.mp4",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256834621/movie.293x165.jpg?t=1620974683",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256834621/movie480_vp9.webm?t=1620974683",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256834621/movie_max_vp9.webm?t=1620974683"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256834621/movie480.mp4?t=1620974683",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256834621/movie_max.mp4?t=1620974683"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "recommendations": {
+                    "total": 218
+                },
+                "achievements": {
+                    "total": 20,
+                    "highlighted": [
+                        {
+                            "name": "Welcome to the Stadium",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/df3fab052eb7a7efbbad0d5a7b7148afd596fdda.jpg"
+                        },
+                        {
+                            "name": "First Failure",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/58e510e3de482eb9134948a2db52970726e495d4.jpg"
+                        },
+                        {
+                            "name": "Coin Consumer",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/f6bd2f97a61d5d3356d582aa105d5d3fce761230.jpg"
+                        },
+                        {
+                            "name": "Core Gamer",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/e1436f74fb24ef5f253ce8fa5553bf715918c8cc.jpg"
+                        },
+                        {
+                            "name": "Hardcore Gamer",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/4c4278918659ff25b24050871b191c8634321fca.jpg"
+                        },
+                        {
+                            "name": "Newbie",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/8d41dd53e626330c12915db7c57f734ec2c407dd.jpg"
+                        },
+                        {
+                            "name": "Serious Gamer",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/a0ca695c331f986bd06c2f48bd7d3a4f6bd08303.jpg"
+                        },
+                        {
+                            "name": "Remedial Student",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/e4ce918da7f7a9cd8e1c5601698ab4bd5b08125f.jpg"
+                        },
+                        {
+                            "name": "C Average",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/c3b838e24ec08c04ad22a9cd13129d413cc06f7c.jpg"
+                        },
+                        {
+                            "name": "Top of the Class",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1515950/4d103d0a17548bcd1a496bed7afd41bdb7a0c68f.jpg"
+                        }
+                    ]
+                },
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "May 24, 2021"
+                },
+                "support_info": {
+                    "url": "http://www.capcom.co.jp/support/contact/",
+                    "email": ""
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/page_bg_generated_v6b.jpg?t=1654626176",
+                "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/page.bg.jpg?t=1654626176",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
                 }
             }
         }
