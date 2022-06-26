@@ -1,4 +1,229 @@
 {
+    "1180660": {
+        "1180660": {
+            "success": true,
+            "data": {
+                "type": "game",
+                "name": "Tell Me Why",
+                "steam_appid": 1180660,
+                "required_age": "17",
+                "is_free": true,
+                "controller_support": "full",
+                "dlc": [
+                    1432030
+                ],
+                "detailed_description": "All Chapters FREE in June!<br />\r\nTell Me Why is the latest narrative adventure game from DONTNOD Entertainment, the studio behind the beloved franchise, Life is Strange. In this intimate mystery, reunited twins Tyler and Alyson Ronan use their supernatural bond to unravel the memories of their loving but troubled childhood. Set in beautiful small-town Alaska, Tell Me Why features true-to-life characters, mature themes and gripping choices.<br />\r\nAs you conjure up memories of the past, your choices will affect the twins\u2019 relationship, determine the strength of their bond, and shape the course of their lives.<br />\r\nExperience all chapters free in June! <br />\r\n <br />\r\nRevisit your past, discover the truth, and shape your future<br />\r\n\u2022 Uncover the truth \u2013 Use the twins\u2019 supernatural bond to relive and explore their conflicting childhood memories.<br />\r\n\u2022 Shape your Story \u2013 Influence the relationship between Tyler and Alyson with choices that will determine their future.<br />\r\n\u2022 Unlock even more secrets \u2013 Match wits with puzzles that deepen the story and open a window into the twins\u2019 fantasy world, \u201cThe Book of Goblins.\u201d<br />\r\nExperience true-to-life setting and characters<br />\r\n\u2022 Unique characters \u2013 Build relationships and solve mysteries through the eyes of compelling and realistic characters.<br />\r\n\u2022 Alaskan splendor \u2013 Explore locations set in beautiful, highly detailed small-town Alaska in stunning 4K and HDR.<br />\r\n<br />\r\nStorytelling with purpose \u2013 DONTNOD Entertainment and Xbox Game Studios conducted on-the-ground research and partnered closely with cultural, mental health and gender advocates to craft a thoughtful, true-to-life experience.",
+                "about_the_game": "All Chapters FREE in June!<br />\r\nTell Me Why is the latest narrative adventure game from DONTNOD Entertainment, the studio behind the beloved franchise, Life is Strange. In this intimate mystery, reunited twins Tyler and Alyson Ronan use their supernatural bond to unravel the memories of their loving but troubled childhood. Set in beautiful small-town Alaska, Tell Me Why features true-to-life characters, mature themes and gripping choices.<br />\r\nAs you conjure up memories of the past, your choices will affect the twins\u2019 relationship, determine the strength of their bond, and shape the course of their lives.<br />\r\nExperience all chapters free in June! <br />\r\n <br />\r\nRevisit your past, discover the truth, and shape your future<br />\r\n\u2022 Uncover the truth \u2013 Use the twins\u2019 supernatural bond to relive and explore their conflicting childhood memories.<br />\r\n\u2022 Shape your Story \u2013 Influence the relationship between Tyler and Alyson with choices that will determine their future.<br />\r\n\u2022 Unlock even more secrets \u2013 Match wits with puzzles that deepen the story and open a window into the twins\u2019 fantasy world, \u201cThe Book of Goblins.\u201d<br />\r\nExperience true-to-life setting and characters<br />\r\n\u2022 Unique characters \u2013 Build relationships and solve mysteries through the eyes of compelling and realistic characters.<br />\r\n\u2022 Alaskan splendor \u2013 Explore locations set in beautiful, highly detailed small-town Alaska in stunning 4K and HDR.<br />\r\n<br />\r\nStorytelling with purpose \u2013 DONTNOD Entertainment and Xbox Game Studios conducted on-the-ground research and partnered closely with cultural, mental health and gender advocates to craft a thoughtful, true-to-life experience.",
+                "short_description": "All Chapters FREE for the month of June! Tell Me Why is the multi-award winning episodic adventure game from Dontnod Entertainment in which twins use their supernatural bond to discover the truth of their troubled past.",
+                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Japanese, Korean, Portuguese - Brazil<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/header.jpg?t=1654099045",
+                "website": "https://www.tellmewhygame.com/",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit version 1903 or higher<br></li><li><strong>Processor:</strong> Intel core i3 4130 (3.4 Ghz 2C / 4T) AMD FX 4300 (3.8 Ghz 4C / 4T)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 750Ti or Nvidia GTX 1050 or AMD Radeon R7 260X or AMD Radeon RX 560<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 25 GB available space</li></ul>",
+                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit version 1903 or higher<br></li><li><strong>Processor:</strong> Intel i5 4570 (3.2 GHz) or AMD Ryzen 3 1300X (3.5 GHz)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970 or Nvidia GeForce GTX 1060 or AMD Radeon R9 290X or  AMD Radeon RX 480<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 25 GB available space</li></ul>"
+                },
+                "mac_requirements": [],
+                "linux_requirements": [],
+                "legal_notice": "Microsoft Studios \u00a9 2020 Microsoft Corporation",
+                "developers": [
+                    "DONTNOD Entertainment"
+                ],
+                "publishers": [
+                    "Xbox Game Studios "
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 1999,
+                    "final": 1999,
+                    "discount_percent": 100,
+                    "initial_formatted": "$19.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    730490,
+                    405719
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Tell Me Why",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 730490,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Tell Me Why Limited Free Promotional Package - Jun 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 405719,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Tell Me Why - $19.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 1999
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": false,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    },
+                    {
+                        "id": 13,
+                        "description": "Captions available"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "25",
+                        "description": "Adventure"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_b2b4987fc9dbabac780086fb56664ad60cf2e0fd.600x338.jpg?t=1654099045",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_b2b4987fc9dbabac780086fb56664ad60cf2e0fd.1920x1080.jpg?t=1654099045"
+                    },
+                    {
+                        "id": 1,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_acc16251124ec3cdf196a9aff9d75d04ee719266.600x338.jpg?t=1654099045",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_acc16251124ec3cdf196a9aff9d75d04ee719266.1920x1080.jpg?t=1654099045"
+                    },
+                    {
+                        "id": 2,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_0d822f07dd84e6e2fc0e559d113e0ea58f0e3bfa.600x338.jpg?t=1654099045",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_0d822f07dd84e6e2fc0e559d113e0ea58f0e3bfa.1920x1080.jpg?t=1654099045"
+                    },
+                    {
+                        "id": 3,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_08633ddfd27af776c7f507e1b75d94a33e13b4dc.600x338.jpg?t=1654099045",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_08633ddfd27af776c7f507e1b75d94a33e13b4dc.1920x1080.jpg?t=1654099045"
+                    },
+                    {
+                        "id": 4,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_31a6100d39cb25bf4ba9d3da1bec1b9f10be2fbf.600x338.jpg?t=1654099045",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_31a6100d39cb25bf4ba9d3da1bec1b9f10be2fbf.1920x1080.jpg?t=1654099045"
+                    },
+                    {
+                        "id": 5,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_2fcfca95f6e49b0222e39290b00ade572148f439.600x338.jpg?t=1654099045",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_2fcfca95f6e49b0222e39290b00ade572148f439.1920x1080.jpg?t=1654099045"
+                    }
+                ],
+                "movies": [
+                    {
+                        "id": 256804877,
+                        "name": "accodales",
+                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256804877/movie.293x165.jpg?t=1622564787",
+                        "webm": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie480_vp9.webm?t=1622564787",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie_max_vp9.webm?t=1622564787"
+                        },
+                        "mp4": {
+                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie480.mp4?t=1622564787",
+                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie_max.mp4?t=1622564787"
+                        },
+                        "highlight": true
+                    }
+                ],
+                "recommendations": {
+                    "total": 2706
+                },
+                "achievements": {
+                    "total": 30,
+                    "highlighted": [
+                        {
+                            "name": "Chapter One",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/31a332e6a4ed533ad0e1b733461fb14592485a95.jpg"
+                        },
+                        {
+                            "name": "Rear View Mirror",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/1794b415787b9cb134d0214be7fd35922b9657fb.jpg"
+                        },
+                        {
+                            "name": "Homecoming",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/6dc65e4daef9201e2a25700ac97636476b59b5c6.jpg"
+                        },
+                        {
+                            "name": "Bound To A Lie",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/228b5d36fcada36afbdba7874361bd46f4850c7a.jpg"
+                        },
+                        {
+                            "name": "Full Confession",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/b8db7654bc14f1b71cb74bc7e7b5082a23723a6e.jpg"
+                        },
+                        {
+                            "name": "Hacking 101",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/55915f3081a2d652172de09b77c05e8451de3f03.jpg"
+                        },
+                        {
+                            "name": "Crafty Goblins",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/96af508a3032735935d7cfb80eaa60db83302d0c.jpg"
+                        },
+                        {
+                            "name": "One For The Collection",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/ff409511d01e333e5c0ead74df65eed2831fee0d.jpg"
+                        },
+                        {
+                            "name": "We Need To Talk",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/b7793cf0279116e5785fe4cd1dcc35db320760ba.jpg"
+                        },
+                        {
+                            "name": "This Is Despicable",
+                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/d88e192566dcbdfba843122438cf4e3e5a3c8f39.jpg"
+                        }
+                    ]
+                },
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Aug 27, 2020"
+                },
+                "support_info": {
+                    "url": "https://support.xbox.com/",
+                    "email": ""
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/page_bg_generated_v6b.jpg?t=1654099045",
+                "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/page.bg.jpg?t=1654099045",
+                "content_descriptors": {
+                    "ids": [
+                        5
+                    ],
+                    "notes": "Drug Reference\r\nMild Blood\r\nStrong Language\r\nViolence"
+                }
+            }
+        }
+    },
     "1515950": {
         "1515950": {
             "success": true,
@@ -399,231 +624,6 @@
                 "content_descriptors": {
                     "ids": [],
                     "notes": null
-                }
-            }
-        }
-    },
-    "1180660": {
-        "1180660": {
-            "success": true,
-            "data": {
-                "type": "game",
-                "name": "Tell Me Why",
-                "steam_appid": 1180660,
-                "required_age": "17",
-                "is_free": true,
-                "controller_support": "full",
-                "dlc": [
-                    1432030
-                ],
-                "detailed_description": "All Chapters FREE in June!<br />\r\nTell Me Why is the latest narrative adventure game from DONTNOD Entertainment, the studio behind the beloved franchise, Life is Strange. In this intimate mystery, reunited twins Tyler and Alyson Ronan use their supernatural bond to unravel the memories of their loving but troubled childhood. Set in beautiful small-town Alaska, Tell Me Why features true-to-life characters, mature themes and gripping choices.<br />\r\nAs you conjure up memories of the past, your choices will affect the twins\u2019 relationship, determine the strength of their bond, and shape the course of their lives.<br />\r\nExperience all chapters free in June! <br />\r\n <br />\r\nRevisit your past, discover the truth, and shape your future<br />\r\n\u2022 Uncover the truth \u2013 Use the twins\u2019 supernatural bond to relive and explore their conflicting childhood memories.<br />\r\n\u2022 Shape your Story \u2013 Influence the relationship between Tyler and Alyson with choices that will determine their future.<br />\r\n\u2022 Unlock even more secrets \u2013 Match wits with puzzles that deepen the story and open a window into the twins\u2019 fantasy world, \u201cThe Book of Goblins.\u201d<br />\r\nExperience true-to-life setting and characters<br />\r\n\u2022 Unique characters \u2013 Build relationships and solve mysteries through the eyes of compelling and realistic characters.<br />\r\n\u2022 Alaskan splendor \u2013 Explore locations set in beautiful, highly detailed small-town Alaska in stunning 4K and HDR.<br />\r\n<br />\r\nStorytelling with purpose \u2013 DONTNOD Entertainment and Xbox Game Studios conducted on-the-ground research and partnered closely with cultural, mental health and gender advocates to craft a thoughtful, true-to-life experience.",
-                "about_the_game": "All Chapters FREE in June!<br />\r\nTell Me Why is the latest narrative adventure game from DONTNOD Entertainment, the studio behind the beloved franchise, Life is Strange. In this intimate mystery, reunited twins Tyler and Alyson Ronan use their supernatural bond to unravel the memories of their loving but troubled childhood. Set in beautiful small-town Alaska, Tell Me Why features true-to-life characters, mature themes and gripping choices.<br />\r\nAs you conjure up memories of the past, your choices will affect the twins\u2019 relationship, determine the strength of their bond, and shape the course of their lives.<br />\r\nExperience all chapters free in June! <br />\r\n <br />\r\nRevisit your past, discover the truth, and shape your future<br />\r\n\u2022 Uncover the truth \u2013 Use the twins\u2019 supernatural bond to relive and explore their conflicting childhood memories.<br />\r\n\u2022 Shape your Story \u2013 Influence the relationship between Tyler and Alyson with choices that will determine their future.<br />\r\n\u2022 Unlock even more secrets \u2013 Match wits with puzzles that deepen the story and open a window into the twins\u2019 fantasy world, \u201cThe Book of Goblins.\u201d<br />\r\nExperience true-to-life setting and characters<br />\r\n\u2022 Unique characters \u2013 Build relationships and solve mysteries through the eyes of compelling and realistic characters.<br />\r\n\u2022 Alaskan splendor \u2013 Explore locations set in beautiful, highly detailed small-town Alaska in stunning 4K and HDR.<br />\r\n<br />\r\nStorytelling with purpose \u2013 DONTNOD Entertainment and Xbox Game Studios conducted on-the-ground research and partnered closely with cultural, mental health and gender advocates to craft a thoughtful, true-to-life experience.",
-                "short_description": "All Chapters FREE for the month of June! Tell Me Why is the multi-award winning episodic adventure game from Dontnod Entertainment in which twins use their supernatural bond to discover the truth of their troubled past.",
-                "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Japanese, Korean, Portuguese - Brazil<strong>*</strong>, Spanish - Latin America<strong>*</strong><br><strong>*</strong>languages with full audio support",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/header.jpg?t=1654099045",
-                "website": "https://www.tellmewhygame.com/",
-                "pc_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit version 1903 or higher<br></li><li><strong>Processor:</strong> Intel core i3 4130 (3.4 Ghz 2C / 4T) AMD FX 4300 (3.8 Ghz 4C / 4T)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GTX 750Ti or Nvidia GTX 1050 or AMD Radeon R7 260X or AMD Radeon RX 560<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 25 GB available space</li></ul>",
-                    "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7 64-bit version 1903 or higher<br></li><li><strong>Processor:</strong> Intel i5 4570 (3.2 GHz) or AMD Ryzen 3 1300X (3.5 GHz)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia GeForce GTX 970 or Nvidia GeForce GTX 1060 or AMD Radeon R9 290X or  AMD Radeon RX 480<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 25 GB available space</li></ul>"
-                },
-                "mac_requirements": [],
-                "linux_requirements": [],
-                "legal_notice": "Microsoft Studios \u00a9 2020 Microsoft Corporation",
-                "developers": [
-                    "DONTNOD Entertainment"
-                ],
-                "publishers": [
-                    "Xbox Game Studios "
-                ],
-                "price_overview": {
-                    "currency": "USD",
-                    "initial": 1999,
-                    "final": 1999,
-                    "discount_percent": 100,
-                    "initial_formatted": "$19.99",
-                    "final_formatted": "Free"
-                },
-                "packages": [
-                    730490,
-                    405719
-                ],
-                "package_groups": [
-                    {
-                        "name": "default",
-                        "title": "Buy Tell Me Why",
-                        "description": "",
-                        "selection_text": "Select a purchase option",
-                        "save_text": "",
-                        "display_type": 0,
-                        "is_recurring_subscription": "false",
-                        "subs": [
-                            {
-                                "packageid": 730490,
-                                "percent_savings_text": "-100% ",
-                                "percent_savings": 0,
-                                "option_text": "Tell Me Why Limited Free Promotional Package - Jun 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": true,
-                                "price_in_cents_with_discount": 0
-                            },
-                            {
-                                "packageid": 405719,
-                                "percent_savings_text": " ",
-                                "percent_savings": 0,
-                                "option_text": "Tell Me Why - $19.99",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": false,
-                                "price_in_cents_with_discount": 1999
-                            }
-                        ]
-                    }
-                ],
-                "platforms": {
-                    "windows": true,
-                    "mac": false,
-                    "linux": false
-                },
-                "categories": [
-                    {
-                        "id": 2,
-                        "description": "Single-player"
-                    },
-                    {
-                        "id": 22,
-                        "description": "Steam Achievements"
-                    },
-                    {
-                        "id": 28,
-                        "description": "Full controller support"
-                    },
-                    {
-                        "id": 13,
-                        "description": "Captions available"
-                    },
-                    {
-                        "id": 23,
-                        "description": "Steam Cloud"
-                    }
-                ],
-                "genres": [
-                    {
-                        "id": "25",
-                        "description": "Adventure"
-                    }
-                ],
-                "screenshots": [
-                    {
-                        "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_b2b4987fc9dbabac780086fb56664ad60cf2e0fd.600x338.jpg?t=1654099045",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_b2b4987fc9dbabac780086fb56664ad60cf2e0fd.1920x1080.jpg?t=1654099045"
-                    },
-                    {
-                        "id": 1,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_acc16251124ec3cdf196a9aff9d75d04ee719266.600x338.jpg?t=1654099045",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_acc16251124ec3cdf196a9aff9d75d04ee719266.1920x1080.jpg?t=1654099045"
-                    },
-                    {
-                        "id": 2,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_0d822f07dd84e6e2fc0e559d113e0ea58f0e3bfa.600x338.jpg?t=1654099045",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_0d822f07dd84e6e2fc0e559d113e0ea58f0e3bfa.1920x1080.jpg?t=1654099045"
-                    },
-                    {
-                        "id": 3,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_08633ddfd27af776c7f507e1b75d94a33e13b4dc.600x338.jpg?t=1654099045",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_08633ddfd27af776c7f507e1b75d94a33e13b4dc.1920x1080.jpg?t=1654099045"
-                    },
-                    {
-                        "id": 4,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_31a6100d39cb25bf4ba9d3da1bec1b9f10be2fbf.600x338.jpg?t=1654099045",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_31a6100d39cb25bf4ba9d3da1bec1b9f10be2fbf.1920x1080.jpg?t=1654099045"
-                    },
-                    {
-                        "id": 5,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_2fcfca95f6e49b0222e39290b00ade572148f439.600x338.jpg?t=1654099045",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/ss_2fcfca95f6e49b0222e39290b00ade572148f439.1920x1080.jpg?t=1654099045"
-                    }
-                ],
-                "movies": [
-                    {
-                        "id": 256804877,
-                        "name": "accodales",
-                        "thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/256804877/movie.293x165.jpg?t=1622564787",
-                        "webm": {
-                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie480_vp9.webm?t=1622564787",
-                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie_max_vp9.webm?t=1622564787"
-                        },
-                        "mp4": {
-                            "480": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie480.mp4?t=1622564787",
-                            "max": "http://cdn.akamai.steamstatic.com/steam/apps/256804877/movie_max.mp4?t=1622564787"
-                        },
-                        "highlight": true
-                    }
-                ],
-                "recommendations": {
-                    "total": 2704
-                },
-                "achievements": {
-                    "total": 30,
-                    "highlighted": [
-                        {
-                            "name": "Chapter One",
-                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/31a332e6a4ed533ad0e1b733461fb14592485a95.jpg"
-                        },
-                        {
-                            "name": "Rear View Mirror",
-                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/1794b415787b9cb134d0214be7fd35922b9657fb.jpg"
-                        },
-                        {
-                            "name": "Homecoming",
-                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/6dc65e4daef9201e2a25700ac97636476b59b5c6.jpg"
-                        },
-                        {
-                            "name": "Bound To A Lie",
-                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/228b5d36fcada36afbdba7874361bd46f4850c7a.jpg"
-                        },
-                        {
-                            "name": "Full Confession",
-                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/b8db7654bc14f1b71cb74bc7e7b5082a23723a6e.jpg"
-                        },
-                        {
-                            "name": "Hacking 101",
-                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/55915f3081a2d652172de09b77c05e8451de3f03.jpg"
-                        },
-                        {
-                            "name": "Crafty Goblins",
-                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/96af508a3032735935d7cfb80eaa60db83302d0c.jpg"
-                        },
-                        {
-                            "name": "One For The Collection",
-                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/ff409511d01e333e5c0ead74df65eed2831fee0d.jpg"
-                        },
-                        {
-                            "name": "We Need To Talk",
-                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/b7793cf0279116e5785fe4cd1dcc35db320760ba.jpg"
-                        },
-                        {
-                            "name": "This Is Despicable",
-                            "path": "https://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/1180660/d88e192566dcbdfba843122438cf4e3e5a3c8f39.jpg"
-                        }
-                    ]
-                },
-                "release_date": {
-                    "coming_soon": false,
-                    "date": "Aug 27, 2020"
-                },
-                "support_info": {
-                    "url": "https://support.xbox.com/",
-                    "email": ""
-                },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/page_bg_generated_v6b.jpg?t=1654099045",
-                "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1180660/page.bg.jpg?t=1654099045",
-                "content_descriptors": {
-                    "ids": [
-                        5
-                    ],
-                    "notes": "Drug Reference\r\nMild Blood\r\nStrong Language\r\nViolence"
                 }
             }
         }
