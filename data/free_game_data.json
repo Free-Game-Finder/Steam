@@ -1,4 +1,206 @@
 {
+    "2071000": {
+        "2071000": {
+            "success": true,
+            "data": {
+                "type": "dlc",
+                "name": "Minion Masters - KaBOOM Kingdom",
+                "steam_appid": 2071000,
+                "required_age": 0,
+                "is_free": true,
+                "controller_support": "full",
+                "detailed_description": "The KaBOOM Kingdom DLC is a great +300% value bundle that gives you what you need to build your own Scrat deck, including the legendary Wreckinator 9000! It also gives you a headstart in this month\u2019s Season Pass.<br> <br><strong>Includes:</strong><br><ul class=\"bb_ul\"><li>3x Wreckinator 9000 (Legendary)<br></li><li>5x Boom Buggy (Supreme)<br></li><li>20x Scrat Tank<br></li><li>40x Zeppelin Bomber<br></li><li>40x Cannon Roller<br></li><li>5x Power Tokens (Get 5 extra random surprises)<br></li><li>3x Season Pass Tiers </li></ul><br>Roll out the heavy machinery with this Scrat pack that lets you roll over your opponents. Let the Mighty Wreckinator and Scrat Tank plow down smaller enemies while protecting your Boom Buggy and Cannon Roller and let them deal out the damage from safety. <br>With this DLC, you have the perfect Scrat kit to become King of the Scrats!",
+                "about_the_game": "The KaBOOM Kingdom DLC is a great +300% value bundle that gives you what you need to build your own Scrat deck, including the legendary Wreckinator 9000! It also gives you a headstart in this month\u2019s Season Pass.<br> <br><strong>Includes:</strong><br><ul class=\"bb_ul\"><li>3x Wreckinator 9000 (Legendary)<br></li><li>5x Boom Buggy (Supreme)<br></li><li>20x Scrat Tank<br></li><li>40x Zeppelin Bomber<br></li><li>40x Cannon Roller<br></li><li>5x Power Tokens (Get 5 extra random surprises)<br></li><li>3x Season Pass Tiers </li></ul><br>Roll out the heavy machinery with this Scrat pack that lets you roll over your opponents. Let the Mighty Wreckinator and Scrat Tank plow down smaller enemies while protecting your Boom Buggy and Cannon Roller and let them deal out the damage from safety. <br>With this DLC, you have the perfect Scrat kit to become King of the Scrats!",
+                "short_description": "The KaBOOM Kingdom DLC is a great +300% value bundle that gives you what you need to build your own Scrat deck, including the legendary Wreckinator 9000! It also gives you a headstart in this month\u2019s Season Pass.",
+                "fullgame": {
+                    "appid": "489520",
+                    "name": "Minion Masters"
+                },
+                "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/header.jpg?t=1657214350",
+                "website": "http://minionmastersthegame.com",
+                "pc_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3, 2.4 Ghz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GT 240 or equivalent, minimum 512 MB of VRAM<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+                },
+                "mac_requirements": {
+                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12.4+<br></li><li><strong>Processor:</strong> Intel Core i3, 2.4 Ghz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+                },
+                "linux_requirements": [],
+                "developers": [
+                    "BetaDwarf"
+                ],
+                "publishers": [
+                    "BetaDwarf"
+                ],
+                "price_overview": {
+                    "currency": "USD",
+                    "initial": 1499,
+                    "final": 1499,
+                    "discount_percent": 100,
+                    "initial_formatted": "$14.99",
+                    "final_formatted": "Free"
+                },
+                "packages": [
+                    744057,
+                    740680,
+                    739927
+                ],
+                "package_groups": [
+                    {
+                        "name": "default",
+                        "title": "Buy Minion Masters - KaBOOM Kingdom",
+                        "description": "",
+                        "selection_text": "Select a purchase option",
+                        "save_text": "",
+                        "display_type": 0,
+                        "is_recurring_subscription": "false",
+                        "subs": [
+                            {
+                                "packageid": 740680,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Minion Masters - KaBOOM - unused - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 744057,
+                                "percent_savings_text": "-100% ",
+                                "percent_savings": 0,
+                                "option_text": "Minion Masters - KaBOOM Kingdom Limited Free Promotional Package - Jul 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": true,
+                                "price_in_cents_with_discount": 0
+                            },
+                            {
+                                "packageid": 739927,
+                                "percent_savings_text": " ",
+                                "percent_savings": 0,
+                                "option_text": "Minion Masters - KaBOOM Kingdom - $14.99",
+                                "option_description": "",
+                                "can_get_free_license": "0",
+                                "is_free_license": false,
+                                "price_in_cents_with_discount": 1499
+                            }
+                        ]
+                    }
+                ],
+                "platforms": {
+                    "windows": true,
+                    "mac": true,
+                    "linux": false
+                },
+                "categories": [
+                    {
+                        "id": 2,
+                        "description": "Single-player"
+                    },
+                    {
+                        "id": 1,
+                        "description": "Multi-player"
+                    },
+                    {
+                        "id": 49,
+                        "description": "PvP"
+                    },
+                    {
+                        "id": 36,
+                        "description": "Online PvP"
+                    },
+                    {
+                        "id": 9,
+                        "description": "Co-op"
+                    },
+                    {
+                        "id": 38,
+                        "description": "Online Co-op"
+                    },
+                    {
+                        "id": 27,
+                        "description": "Cross-Platform Multiplayer"
+                    },
+                    {
+                        "id": 21,
+                        "description": "Downloadable Content"
+                    },
+                    {
+                        "id": 22,
+                        "description": "Steam Achievements"
+                    },
+                    {
+                        "id": 28,
+                        "description": "Full controller support"
+                    },
+                    {
+                        "id": 29,
+                        "description": "Steam Trading Cards"
+                    },
+                    {
+                        "id": 35,
+                        "description": "In-App Purchases"
+                    },
+                    {
+                        "id": 23,
+                        "description": "Steam Cloud"
+                    },
+                    {
+                        "id": 42,
+                        "description": "Remote Play on Tablet"
+                    }
+                ],
+                "genres": [
+                    {
+                        "id": "1",
+                        "description": "Action"
+                    },
+                    {
+                        "id": "25",
+                        "description": "Adventure"
+                    },
+                    {
+                        "id": "37",
+                        "description": "Free to Play"
+                    },
+                    {
+                        "id": "23",
+                        "description": "Indie"
+                    },
+                    {
+                        "id": "3",
+                        "description": "RPG"
+                    },
+                    {
+                        "id": "2",
+                        "description": "Strategy"
+                    }
+                ],
+                "screenshots": [
+                    {
+                        "id": 0,
+                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/ss_9bbe2415366b24b8964a0562ae3960b1c9687cb7.600x338.jpg?t=1657214350",
+                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/ss_9bbe2415366b24b8964a0562ae3960b1c9687cb7.1920x1080.jpg?t=1657214350"
+                    }
+                ],
+                "release_date": {
+                    "coming_soon": false,
+                    "date": "Jul 7, 2022"
+                },
+                "support_info": {
+                    "url": "",
+                    "email": "support@betadwarf.com"
+                },
+                "background": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/page_bg_generated_v6b.jpg?t=1657214350",
+                "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/page.bg.jpg?t=1657214350",
+                "content_descriptors": {
+                    "ids": [],
+                    "notes": null
+                }
+            }
+        }
+    },
     "1515950": {
         "1515950": {
             "success": true,
@@ -396,208 +598,6 @@
                 },
                 "background": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/page_bg_generated_v6b.jpg?t=1655979368",
                 "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/1515950/page.bg.jpg?t=1655979368",
-                "content_descriptors": {
-                    "ids": [],
-                    "notes": null
-                }
-            }
-        }
-    },
-    "2071000": {
-        "2071000": {
-            "success": true,
-            "data": {
-                "type": "dlc",
-                "name": "Minion Masters - KaBOOM Kingdom",
-                "steam_appid": 2071000,
-                "required_age": 0,
-                "is_free": true,
-                "controller_support": "full",
-                "detailed_description": "The KaBOOM Kingdom DLC is a great +300% value bundle that gives you what you need to build your own Scrat deck, including the legendary Wreckinator 9000! It also gives you a headstart in this month\u2019s Season Pass.<br> <br><strong>Includes:</strong><br><ul class=\"bb_ul\"><li>3x Wreckinator 9000 (Legendary)<br></li><li>5x Boom Buggy (Supreme)<br></li><li>20x Scrat Tank<br></li><li>40x Zeppelin Bomber<br></li><li>40x Cannon Roller<br></li><li>5x Power Tokens (Get 5 extra random surprises)<br></li><li>3x Season Pass Tiers </li></ul><br>Roll out the heavy machinery with this Scrat pack that lets you roll over your opponents. Let the Mighty Wreckinator and Scrat Tank plow down smaller enemies while protecting your Boom Buggy and Cannon Roller and let them deal out the damage from safety. <br>With this DLC, you have the perfect Scrat kit to become King of the Scrats!",
-                "about_the_game": "The KaBOOM Kingdom DLC is a great +300% value bundle that gives you what you need to build your own Scrat deck, including the legendary Wreckinator 9000! It also gives you a headstart in this month\u2019s Season Pass.<br> <br><strong>Includes:</strong><br><ul class=\"bb_ul\"><li>3x Wreckinator 9000 (Legendary)<br></li><li>5x Boom Buggy (Supreme)<br></li><li>20x Scrat Tank<br></li><li>40x Zeppelin Bomber<br></li><li>40x Cannon Roller<br></li><li>5x Power Tokens (Get 5 extra random surprises)<br></li><li>3x Season Pass Tiers </li></ul><br>Roll out the heavy machinery with this Scrat pack that lets you roll over your opponents. Let the Mighty Wreckinator and Scrat Tank plow down smaller enemies while protecting your Boom Buggy and Cannon Roller and let them deal out the damage from safety. <br>With this DLC, you have the perfect Scrat kit to become King of the Scrats!",
-                "short_description": "The KaBOOM Kingdom DLC is a great +300% value bundle that gives you what you need to build your own Scrat deck, including the legendary Wreckinator 9000! It also gives you a headstart in this month\u2019s Season Pass.",
-                "fullgame": {
-                    "appid": "489520",
-                    "name": "Minion Masters"
-                },
-                "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-                "header_image": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/header.jpg?t=1657214350",
-                "website": "http://minionmastersthegame.com",
-                "pc_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 7, Windows 8, Windows 10<br></li><li><strong>Processor:</strong> Intel Core i3, 2.4 Ghz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Nvidia Geforce GT 240 or equivalent, minimum 512 MB of VRAM<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
-                },
-                "mac_requirements": {
-                    "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS X 10.12.4+<br></li><li><strong>Processor:</strong> Intel Core i3, 2.4 Ghz or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
-                },
-                "linux_requirements": [],
-                "developers": [
-                    "BetaDwarf"
-                ],
-                "publishers": [
-                    "BetaDwarf"
-                ],
-                "price_overview": {
-                    "currency": "USD",
-                    "initial": 1499,
-                    "final": 1499,
-                    "discount_percent": 100,
-                    "initial_formatted": "$14.99",
-                    "final_formatted": "Free"
-                },
-                "packages": [
-                    744057,
-                    740680,
-                    739927
-                ],
-                "package_groups": [
-                    {
-                        "name": "default",
-                        "title": "Buy Minion Masters - KaBOOM Kingdom",
-                        "description": "",
-                        "selection_text": "Select a purchase option",
-                        "save_text": "",
-                        "display_type": 0,
-                        "is_recurring_subscription": "false",
-                        "subs": [
-                            {
-                                "packageid": 740680,
-                                "percent_savings_text": "-100% ",
-                                "percent_savings": 0,
-                                "option_text": "Minion Masters - KaBOOM - unused - <span class=\"discount_original_price\">$0.00</span> Free",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": true,
-                                "price_in_cents_with_discount": 0
-                            },
-                            {
-                                "packageid": 744057,
-                                "percent_savings_text": "-100% ",
-                                "percent_savings": 0,
-                                "option_text": "Minion Masters - KaBOOM Kingdom Limited Free Promotional Package - Jul 2022 - <span class=\"discount_original_price\">$0.00</span> Free",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": true,
-                                "price_in_cents_with_discount": 0
-                            },
-                            {
-                                "packageid": 739927,
-                                "percent_savings_text": " ",
-                                "percent_savings": 0,
-                                "option_text": "Minion Masters - KaBOOM Kingdom - $14.99",
-                                "option_description": "",
-                                "can_get_free_license": "0",
-                                "is_free_license": false,
-                                "price_in_cents_with_discount": 1499
-                            }
-                        ]
-                    }
-                ],
-                "platforms": {
-                    "windows": true,
-                    "mac": true,
-                    "linux": false
-                },
-                "categories": [
-                    {
-                        "id": 2,
-                        "description": "Single-player"
-                    },
-                    {
-                        "id": 1,
-                        "description": "Multi-player"
-                    },
-                    {
-                        "id": 49,
-                        "description": "PvP"
-                    },
-                    {
-                        "id": 36,
-                        "description": "Online PvP"
-                    },
-                    {
-                        "id": 9,
-                        "description": "Co-op"
-                    },
-                    {
-                        "id": 38,
-                        "description": "Online Co-op"
-                    },
-                    {
-                        "id": 27,
-                        "description": "Cross-Platform Multiplayer"
-                    },
-                    {
-                        "id": 21,
-                        "description": "Downloadable Content"
-                    },
-                    {
-                        "id": 22,
-                        "description": "Steam Achievements"
-                    },
-                    {
-                        "id": 28,
-                        "description": "Full controller support"
-                    },
-                    {
-                        "id": 29,
-                        "description": "Steam Trading Cards"
-                    },
-                    {
-                        "id": 35,
-                        "description": "In-App Purchases"
-                    },
-                    {
-                        "id": 23,
-                        "description": "Steam Cloud"
-                    },
-                    {
-                        "id": 42,
-                        "description": "Remote Play on Tablet"
-                    }
-                ],
-                "genres": [
-                    {
-                        "id": "1",
-                        "description": "Action"
-                    },
-                    {
-                        "id": "25",
-                        "description": "Adventure"
-                    },
-                    {
-                        "id": "37",
-                        "description": "Free to Play"
-                    },
-                    {
-                        "id": "23",
-                        "description": "Indie"
-                    },
-                    {
-                        "id": "3",
-                        "description": "RPG"
-                    },
-                    {
-                        "id": "2",
-                        "description": "Strategy"
-                    }
-                ],
-                "screenshots": [
-                    {
-                        "id": 0,
-                        "path_thumbnail": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/ss_9bbe2415366b24b8964a0562ae3960b1c9687cb7.600x338.jpg?t=1657214350",
-                        "path_full": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/ss_9bbe2415366b24b8964a0562ae3960b1c9687cb7.1920x1080.jpg?t=1657214350"
-                    }
-                ],
-                "release_date": {
-                    "coming_soon": false,
-                    "date": "Jul 7, 2022"
-                },
-                "support_info": {
-                    "url": "",
-                    "email": "support@betadwarf.com"
-                },
-                "background": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/page_bg_generated_v6b.jpg?t=1657214350",
-                "background_raw": "https://cdn.akamai.steamstatic.com/steam/apps/2071000/page.bg.jpg?t=1657214350",
                 "content_descriptors": {
                     "ids": [],
                     "notes": null
